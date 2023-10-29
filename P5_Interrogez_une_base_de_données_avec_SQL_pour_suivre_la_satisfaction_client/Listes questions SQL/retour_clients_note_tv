@@ -1,0 +1,5 @@
+-- Quelle est la liste des notes des clients sur les réseaux sociaux sur les TV ?
+select titre_produit type_produit, note
+from retour_client
+inner join produit on produit.cle_produit = retour_client.cle_produit
+where libelle_source = 'réseaux sociaux' AND type_produit = 'TV'

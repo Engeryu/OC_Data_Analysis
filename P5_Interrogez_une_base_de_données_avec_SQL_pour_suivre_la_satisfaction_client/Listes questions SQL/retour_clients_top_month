@@ -1,0 +1,12 @@
+--Sur quel mois a-t-on le plus de retour sur le service après-vente ?
+select case strftime('%m', date_achat)
+when '01' then 'January' when '02' then 'Febuary' when '03' then 'March' when '04' then 'April' when '05' then 'May'
+when '06' then 'June' when '07' then 'July' when '08' then 'August' when '09' then 'September' 
+when '10' then 'October' when '11' then 'November' when '12' then 'December'
+else '' end
+as mois, count(cle_retour_client) as nombre_clients
+from retour_client
+where libelle_categorie = 'service après-vente'
+GROUP BY mois
+order by nombre_clients desc
+limit 1

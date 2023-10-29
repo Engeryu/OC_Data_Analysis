@@ -1,0 +1,8 @@
+-- Quelle est la typologie de produit qui apporte le meilleur service après-vente ?
+select typologie_produit as type_produit, libelle_categorie as expérience, count(note) as note
+from retour_client
+inner join produit on produit.cle_produit = retour_client.cle_produit
+where expérience = 'service après-vente'
+group by type_produit
+order by note Desc
+limit 1;

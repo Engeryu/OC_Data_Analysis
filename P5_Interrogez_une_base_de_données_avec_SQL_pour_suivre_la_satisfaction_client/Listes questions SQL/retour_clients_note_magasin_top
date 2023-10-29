@@ -1,0 +1,6 @@
+-- Quels sont les 5 magasins avec les meilleures notes moyennes ?
+select ref_magasin as magasin, round(avg(note), 2) as note
+from retour_client
+group by magasin
+order by note desc
+limit 5

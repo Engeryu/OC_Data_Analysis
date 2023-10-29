@@ -1,0 +1,4 @@
+select 
+contrat_id cid, prix_cotisation_mensuel pcm, surface mc
+ from contrats
+    where type_local = 'Appartement'

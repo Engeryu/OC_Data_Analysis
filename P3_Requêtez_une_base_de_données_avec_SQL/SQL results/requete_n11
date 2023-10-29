@@ -1,0 +1,5 @@
+select commune c, count(contrat_id) as nb_contrats
+from contrats
+group by c
+having count(contrat_id) >= 150
+order by nb_contrats

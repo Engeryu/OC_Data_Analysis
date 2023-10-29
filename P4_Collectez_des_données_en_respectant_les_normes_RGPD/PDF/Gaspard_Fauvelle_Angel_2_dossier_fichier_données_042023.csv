@@ -1,0 +1,1159 @@
+sexe;date_naissance;id_client_rand;enfant_conduite_accompagne;nombre_enfants;categorie_de_revenus;categorie_residence_prin;usage_vehicule;type_vehicule;est_rouge;points_perdus;age_vehicule;type_conduite;date_demande;etat_dossier;formule;catégorie_devis
+F;1999;832386292;FAUX;VRAI;[100000 - 150000[;[0 - 25000[;Commercial;Sports Car;no;0;7;Highly Urban/ Urban;25/02/22;complet;dev_integral;[250 - 500[
+F;1932;787361563;VRAI;VRAI;[50000 - 100000[;[0 - 25000[;Private;Minivan;no;2;1;Highly Urban/ Urban;24/05/22;complet;dev_express;[250 - 500[
+F;1978;143757424;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Pickup;no;0;4;z_Highly Rural/ Rural;24/01/22;complet;dev_express;[250 - 500[
+F;2021;787295504;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;3;5;Highly Urban/ Urban;20/04/22;complet;dev_integral;[250 - 500[
+M;1956;194840603;FAUX;FAUX;[0 - 25000[;[200000 - 250000[;Commercial;Panel Truck;no;2;12;Highly Urban/ Urban;23/03/22;complet;dev_vip;[500 - 750[
+F;1992;313813570;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;2;15;z_Highly Rural/ Rural;23/03/22;complet;dev_premium;[250 - 500[
+F;1941;159899696;VRAI;VRAI;[100000 - 150000[;[300000 - 350000[;Commercial;Minivan;no;0;9;z_Highly Rural/ Rural;13/03/22;complet;dev_express;[250 - 500[
+M;1956;194280327;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;1;10;Highly Urban/ Urban;09/03/22;complet;dev_premium;[250 - 500[
+M;1956;624834829;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Minivan;no;0;14;Highly Urban/ Urban;29/01/22;complet;dev_premium;[250 - 500[
+F;1974;630982491;FAUX;FAUX;[0 - 25000[;[250000 - 300000[;Commercial;Panel Truck;yes;1;10;Highly Urban/ Urban;26/03/22;complet;dev_integral;[250 - 500[
+F;1967;727840021;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Private;Minivan;no;0;10;Highly Urban/ Urban;26/05/22;complet;dev_express;[250 - 500[
+M;2017;330791052;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;0;1;Highly Urban/ Urban;27/01/22;complet;dev_premium;[250 - 500[
+F;1950;860531065;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;0;18;Highly Urban/ Urban;08/05/22;complet;dev_express;[250 - 500[
+M;2017;15384251;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Van;no;5;6;z_Highly Rural/ Rural;02/05/22;complet;dev_integral;[250 - 500[
+M;1945;492006939;FAUX;VRAI;[25000 - 50000[;[200000 - 250000[;Private;Minivan;no;0;1;Highly Urban/ Urban;15/04/22;complet;dev_integral;[250 - 500[
+M;1938;792224370;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Minivan;no;0;13;Highly Urban/ Urban;11/05/22;complet;dev_express;[250 - 500[
+F;1973;768361184;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;z_SUV;no;0;15;Highly Urban/ Urban;12/04/22;complet;dev_integral;[250 - 500[
+F;1936;386419393;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Van;yes;1;8;Highly Urban/ Urban;04/03/22;complet;dev_express;[250 - 500[
+F;1955;330991536;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Minivan;yes;0;11;Highly Urban/ Urban;05/02/22;complet;dev_express;[250 - 500[
+F;1940;689062613;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;0;10;Highly Urban/ Urban;25/04/22;complet;dev_integral;[250 - 500[
+M;1988;642174009;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Minivan;no;0;16;z_Highly Rural/ Rural;20/03/22;complet;dev_express;[250 - 500[
+M;1931;417240625;VRAI;VRAI;[25000 - 50000[;[100000 - 150000[;Private;Minivan;no;1;;Highly Urban/ Urban;27/03/22;complet;dev_premium;[250 - 500[
+F;2000;657870182;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Commercial;Van;yes;0;7;Highly Urban/ Urban;16/05/22;complet;dev_premium;[250 - 500[
+F;1941;720953844;FAUX;VRAI;[25000 - 50000[;[200000 - 250000[;Commercial;Sports Car;no;5;1;Highly Urban/ Urban;06/02/22;complet;dev_premium;[250 - 500[
+M;2004;793690322;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Commercial;Pickup;no;1;1;Highly Urban/ Urban;27/04/22;complet;dev_express;[250 - 500[
+M;1957;508388892;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Minivan;yes;1;;z_Highly Rural/ Rural;13/04/22;complet;dev_express;[250 - 500[
+F;1998;127161085;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;Sports Car;no;0;1;z_Highly Rural/ Rural;22/03/22;complet;dev_integral;[250 - 500[
+F;1978;807308036;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;5;;Highly Urban/ Urban;22/04/22;complet;dev_integral;[250 - 500[
+F;1969;865447489;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;z_SUV;no;0;1;Highly Urban/ Urban;23/03/22;complet;dev_vip;[750 - 1000[
+F;2006;730238948;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;z_SUV;no;0;17;Highly Urban/ Urban;12/02/22;complet;dev_premium;[250 - 500[
+F;1974;114568427;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;0;1;Highly Urban/ Urban;14/01/22;complet;dev_express;[250 - 500[
+M;1984;421856286;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Commercial;Minivan;yes;6;5;z_Highly Rural/ Rural;09/04/22;complet;dev_integral;[250 - 500[
+F;1957;652223664;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;z_SUV;no;3;9;Highly Urban/ Urban;23/03/22;complet;dev_express;[250 - 500[
+M;2018;78146965;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;2;6;z_Highly Rural/ Rural;04/02/22;complet;dev_premium;[250 - 500[
+M;1978;516082421;VRAI;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Sports Car;no;0;12;Highly Urban/ Urban;05/02/22;complet;dev_express;[250 - 500[
+F;1954;793483572;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;0;9;Highly Urban/ Urban;08/02/22;complet;dev_integral;[250 - 500[
+F;1961;815746615;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Sports Car;no;0;15;Highly Urban/ Urban;06/02/22;complet;dev_express;[250 - 500[
+F;2016;497354812;FAUX;VRAI;[50000 - 100000[;[300000 - 350000[;Private;z_SUV;no;2;14;Highly Urban/ Urban;09/02/22;complet;dev_integral;[250 - 500[
+F;1967;703518063;FAUX;FAUX;[150000 - 200000[;[0 - 25000[;Private;Minivan;no;0;15;Highly Urban/ Urban;26/05/22;complet;dev_integral;[250 - 500[
+M;1988;261245033;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;z_SUV;no;1;11;z_Highly Rural/ Rural;04/03/22;complet;dev_premium;[250 - 500[
+F;2004;35336537;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;0;10;Highly Urban/ Urban;31/05/22;complet;dev_express;[250 - 500[
+F;1937;148148656;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;5;8;Highly Urban/ Urban;30/04/22;complet;dev_express;[250 - 500[
+M;1963;623326088;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Commercial;Pickup;yes;0;10;Highly Urban/ Urban;20/03/22;complet;dev_express;[250 - 500[
+F;1965;837612854;VRAI;VRAI;[50000 - 100000[;[150000 - 200000[;Private;Pickup;yes;0;;Highly Urban/ Urban;02/04/22;complet;dev_premium;[250 - 500[
+M;1970;367980273;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;0;13;Highly Urban/ Urban;02/01/22;complet;dev_integral;[250 - 500[
+F;1957;818099173;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;4;15;Highly Urban/ Urban;24/02/22;complet;dev_express;[250 - 500[
+M;1946;78630073;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;1;1;Highly Urban/ Urban;05/04/22;complet;dev_express;[250 - 500[
+F;1981;724733289;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Commercial;Panel Truck;yes;1;13;Highly Urban/ Urban;21/02/22;complet;dev_integral;[250 - 500[
+M;1945;138387234;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Van;yes;0;7;Highly Urban/ Urban;21/03/22;complet;dev_integral;[250 - 500[
+F;1984;299086895;VRAI;VRAI;[50000 - 100000[;[150000 - 200000[;Private;Van;yes;1;1;z_Highly Rural/ Rural;03/04/22;complet;dev_integral;[250 - 500[
+F;1998;556832114;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Commercial;Pickup;yes;7;1;Highly Urban/ Urban;28/03/22;complet;dev_integral;[250 - 500[
+F;1974;349921625;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Private;Minivan;no;1;5;Highly Urban/ Urban;21/03/22;complet;dev_express;[250 - 500[
+M;2003;753963065;FAUX;FAUX;[100000 - 150000[;[250000 - 300000[;Private;Minivan;no;0;7;Highly Urban/ Urban;23/05/22;complet;dev_express;[250 - 500[
+F;1975;611310383;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Sports Car;no;0;19;Highly Urban/ Urban;03/05/22;complet;dev_express;[250 - 500[
+F;2016;607261247;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Minivan;no;5;8;z_Highly Rural/ Rural;11/04/22;complet;dev_express;[250 - 500[
+M;1974;91062058;FAUX;FAUX;[50000 - 100000[;[300000 - 350000[;Private;Van;no;0;13;Highly Urban/ Urban;05/01/22;complet;dev_premium;[250 - 500[
+F;1967;585229435;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Van;yes;4;9;Highly Urban/ Urban;14/05/22;complet;dev_integral;[250 - 500[
+M;1990;529842239;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;2;12;Highly Urban/ Urban;20/04/22;complet;dev_express;[250 - 500[
+F;1950;525286439;VRAI;VRAI;[25000 - 50000[;[0 - 25000[;Private;Van;yes;0;1;Highly Urban/ Urban;22/01/22;complet;dev_express;[250 - 500[
+F;1992;236190755;VRAI;VRAI;[25000 - 50000[;[0 - 25000[;Private;Sports Car;no;1;7;Highly Urban/ Urban;26/04/22;complet;dev_express;[250 - 500[
+F;1950;193067415;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Minivan;no;0;16;Highly Urban/ Urban;23/03/22;complet;dev_integral;[250 - 500[
+F;1968;740027917;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Pickup;no;0;8;Highly Urban/ Urban;27/04/22;complet;dev_express;[250 - 500[
+F;1952;123233588;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;Van;no;0;5;Highly Urban/ Urban;24/05/22;complet;dev_integral;[250 - 500[
+F;1942;121168617;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Private;Sports Car;no;0;1;Highly Urban/ Urban;09/05/22;complet;dev_express;[250 - 500[
+F;2019;409026027;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;0;6;Highly Urban/ Urban;22/04/22;complet;dev_integral;[250 - 500[
+M;1972;157984583;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;5;1;Highly Urban/ Urban;17/05/22;complet;dev_express;[250 - 500[
+M;1954;566007021;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Pickup;no;0;7;Highly Urban/ Urban;01/05/22;complet;dev_express;[250 - 500[
+M;1972;677767488;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Minivan;no;3;5;z_Highly Rural/ Rural;29/05/22;complet;dev_express;[250 - 500[
+M;1950;791284335;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;z_SUV;yes;2;13;Highly Urban/ Urban;04/04/22;complet;dev_express;[250 - 500[
+F;1999;526311078;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Pickup;no;1;3;Highly Urban/ Urban;27/01/22;complet;dev_integral;[250 - 500[
+F;2019;810685826;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;0;9;Highly Urban/ Urban;13/01/22;complet;dev_integral;[250 - 500[
+M;1988;420892222;FAUX;FAUX;[150000 - 200000[;[450000 - 500000[;Private;z_SUV;no;2;12;Highly Urban/ Urban;08/01/22;complet;dev_express;[250 - 500[
+M;2013;203092317;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Minivan;yes;2;9;Highly Urban/ Urban;05/04/22;complet;dev_integral;[250 - 500[
+F;1943;153691698;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Private;Minivan;no;2;9;z_Highly Rural/ Rural;14/02/22;complet;dev_premium;[250 - 500[
+M;1944;630364286;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Pickup;no;0;8;Highly Urban/ Urban;14/01/22;complet;dev_express;[250 - 500[
+F;1993;556224919;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;z_SUV;no;1;18;Highly Urban/ Urban;20/04/22;complet;dev_integral;[250 - 500[
+F;1950;116272900;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Minivan;no;5;1;Highly Urban/ Urban;10/05/22;complet;dev_express;[250 - 500[
+M;1971;496134472;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Commercial;Panel Truck;no;4;11;Highly Urban/ Urban;24/01/22;complet;dev_premium;[250 - 500[
+F;1970;41485333;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Minivan;no;4;6;Highly Urban/ Urban;01/02/22;complet;dev_express;[250 - 500[
+M;1962;646452295;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;Minivan;yes;1;1;Highly Urban/ Urban;20/04/22;complet;dev_premium;[250 - 500[
+M;1940;497693577;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;0;3;z_Highly Rural/ Rural;02/01/22;complet;dev_express;[250 - 500[
+M;1959;713742217;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Commercial;Van;yes;0;8;z_Highly Rural/ Rural;18/02/22;complet;dev_express;[250 - 500[
+F;1959;395651930;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Commercial;z_SUV;no;0;4;Highly Urban/ Urban;27/04/22;complet;dev_express;[250 - 500[
+M;1959;419303665;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;1;;z_Highly Rural/ Rural;09/05/22;complet;dev_express;[250 - 500[
+M;1961;756663671;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Pickup;yes;2;8;Highly Urban/ Urban;14/01/22;complet;dev_express;[250 - 500[
+M;1982;693320132;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Minivan;yes;0;9;Highly Urban/ Urban;30/03/22;complet;dev_express;[250 - 500[
+M;1970;488991709;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Minivan;no;0;17;Highly Urban/ Urban;25/01/22;complet;dev_premium;[250 - 500[
+F;2001;26761485;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;0;1;z_Highly Rural/ Rural;28/05/22;complet;dev_express;[250 - 500[
+M;1974;49327700;FAUX;FAUX;[25000 - 50000[;[200000 - 250000[;Private;Minivan;no;0;13;Highly Urban/ Urban;12/02/22;complet;dev_premium;[500 - 750[
+M;1965;199677469;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Private;Sports Car;no;0;2;z_Highly Rural/ Rural;11/01/22;complet;dev_integral;[250 - 500[
+M;1943;128275392;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;Minivan;no;3;1;Highly Urban/ Urban;15/04/22;complet;dev_express;[250 - 500[
+F;2012;726792461;FAUX;VRAI;[0 - 25000[;[100000 - 150000[;Private;Minivan;no;1;1;Highly Urban/ Urban;28/03/22;complet;dev_premium;[250 - 500[
+F;2018;802431468;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Sports Car;no;6;1;Highly Urban/ Urban;26/02/22;complet;dev_premium;[250 - 500[
+M;1961;216495313;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Van;yes;0;1;Highly Urban/ Urban;17/01/22;complet;dev_express;[250 - 500[
+F;1953;858350754;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;Pickup;no;4;11;Highly Urban/ Urban;16/04/22;complet;dev_integral;[250 - 500[
+F;1972;174110688;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Commercial;Pickup;yes;1;5;z_Highly Rural/ Rural;12/01/22;complet;dev_integral;[250 - 500[
+M;1962;776366231;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;Minivan;no;7;1;Highly Urban/ Urban;23/03/22;complet;dev_express;[250 - 500[
+F;1987;129983739;VRAI;VRAI;[50000 - 100000[;[100000 - 150000[;Private;Minivan;yes;0;6;Highly Urban/ Urban;17/04/22;complet;dev_integral;[250 - 500[
+M;1981;636293536;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Van;yes;1;8;Highly Urban/ Urban;05/05/22;complet;dev_integral;[250 - 500[
+M;2004;347027150;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;z_SUV;no;0;1;Highly Urban/ Urban;28/02/22;complet;dev_integral;[250 - 500[
+M;1957;770223708;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Commercial;Pickup;no;2;12;Highly Urban/ Urban;12/02/22;complet;dev_integral;[250 - 500[
+F;2000;814614760;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Minivan;no;0;1;Highly Urban/ Urban;07/01/22;complet;dev_integral;[250 - 500[
+M;1971;328177529;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;Minivan;no;6;11;Highly Urban/ Urban;07/01/22;complet;dev_integral;[250 - 500[
+M;2013;800408888;FAUX;FAUX;[200000 - 250000[;[0 - 25000[;Commercial;Panel Truck;yes;4;17;Highly Urban/ Urban;12/01/22;complet;dev_express;[250 - 500[
+M;1962;140809988;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Minivan;yes;1;12;Highly Urban/ Urban;24/05/22;complet;dev_premium;[250 - 500[
+M;1999;64149456;FAUX;VRAI;[0 - 25000[;[450000 - 500000[;Commercial;Panel Truck;yes;0;14;Highly Urban/ Urban;25/03/22;complet;dev_integral;[250 - 500[
+F;1951;457963379;VRAI;VRAI;[0 - 25000[;[100000 - 150000[;Private;Minivan;no;0;5;Highly Urban/ Urban;02/01/22;complet;dev_integral;[250 - 500[
+M;1983;466248565;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Commercial;Minivan;yes;1;12;z_Highly Rural/ Rural;01/03/22;complet;dev_integral;[250 - 500[
+F;1965;463743935;FAUX;VRAI;[100000 - 150000[;[3500000 - 450000[;Private;Minivan;yes;5;11;Highly Urban/ Urban;28/01/22;complet;dev_express;[250 - 500[
+M;1932;897870037;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;0;9;Highly Urban/ Urban;29/04/22;complet;dev_premium;[250 - 500[
+M;1970;3355972;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;z_SUV;no;0;9;Highly Urban/ Urban;20/01/22;complet;dev_integral;[250 - 500[
+M;1968;648082752;VRAI;VRAI;[100000 - 150000[;[250000 - 300000[;Commercial;Minivan;no;0;12;Highly Urban/ Urban;06/05/22;complet;dev_express;[250 - 500[
+M;1954;286006254;FAUX;VRAI;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;0;8;Highly Urban/ Urban;14/03/22;complet;dev_express;[250 - 500[
+F;1958;652693248;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Commercial;Minivan;no;2;6;Highly Urban/ Urban;20/03/22;complet;dev_express;[250 - 500[
+F;1967;703404397;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;0;14;Highly Urban/ Urban;18/01/22;complet;dev_premium;[250 - 500[
+F;1971;26759957;VRAI;VRAI;[0 - 25000[;[100000 - 150000[;Private;Minivan;no;0;1;z_Highly Rural/ Rural;23/01/22;complet;dev_premium;[250 - 500[
+F;1945;219850892;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Private;Sports Car;no;0;11;z_Highly Rural/ Rural;07/01/22;complet;dev_express;[250 - 500[
+F;1961;419366698;VRAI;VRAI;[0 - 25000[;[100000 - 150000[;Private;Pickup;no;0;7;Highly Urban/ Urban;02/01/22;complet;dev_integral;[250 - 500[
+M;2014;205904886;VRAI;VRAI;[50000 - 100000[;[0 - 25000[;Commercial;Sports Car;no;2;1;Highly Urban/ Urban;23/05/22;complet;dev_integral;[250 - 500[
+M;2019;601463042;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Minivan;no;0;15;Highly Urban/ Urban;29/05/22;complet;dev_integral;[250 - 500[
+M;1953;118212655;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;0;13;z_Highly Rural/ Rural;09/02/22;complet;dev_integral;[250 - 500[
+M;1966;545586429;FAUX;VRAI;[50000 - 100000[;[300000 - 350000[;Private;Minivan;yes;2;11;Highly Urban/ Urban;17/02/22;complet;dev_express;[250 - 500[
+M;1953;227333719;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;z_SUV;no;0;12;Highly Urban/ Urban;06/05/22;complet;dev_integral;[250 - 500[
+F;1974;421833989;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Pickup;yes;0;11;Highly Urban/ Urban;25/01/22;complet;dev_integral;[250 - 500[
+F;1994;341086812;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Private;Van;no;4;9;Highly Urban/ Urban;01/01/22;complet;dev_integral;[250 - 500[
+M;1990;555725386;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Minivan;no;0;8;Highly Urban/ Urban;02/04/22;complet;dev_integral;[250 - 500[
+M;1954;520900695;FAUX;FAUX;[100000 - 150000[;[250000 - 300000[;Private;Minivan;no;2;1;Highly Urban/ Urban;14/04/22;complet;dev_integral;[250 - 500[
+M;2006;593850298;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Commercial;Minivan;yes;7;1;z_Highly Rural/ Rural;07/03/22;complet;dev_express;[250 - 500[
+M;2002;681824890;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Sports Car;no;1;;Highly Urban/ Urban;04/04/22;complet;dev_premium;[500 - 750[
+M;1964;310173201;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Minivan;no;1;13;Highly Urban/ Urban;20/04/22;complet;dev_express;[250 - 500[
+F;1953;794552888;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;Sports Car;no;0;13;Highly Urban/ Urban;25/02/22;complet;dev_express;[250 - 500[
+F;1952;146271949;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Private;Minivan;no;8;9;Highly Urban/ Urban;28/05/22;complet;dev_vip;[500 - 750[
+M;2014;432264153;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;0;1;z_Highly Rural/ Rural;18/03/22;complet;dev_express;[250 - 500[
+M;1967;748785289;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Minivan;yes;3;5;Highly Urban/ Urban;25/02/22;complet;dev_express;[250 - 500[
+F;2018;570042600;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;0;9;Highly Urban/ Urban;08/04/22;complet;dev_integral;[250 - 500[
+F;1932;788273067;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Private;Minivan;no;0;16;Highly Urban/ Urban;01/05/22;complet;dev_integral;[250 - 500[
+M;2011;854635195;FAUX;FAUX;[25000 - 50000[;[200000 - 250000[;Commercial;Van;yes;2;15;Highly Urban/ Urban;27/03/22;complet;dev_integral;[250 - 500[
+M;1987;554150319;VRAI;VRAI;[100000 - 150000[;[3500000 - 450000[;Commercial;Van;no;4;9;Highly Urban/ Urban;11/05/22;complet;dev_express;[250 - 500[
+M;1971;355017044;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Commercial;z_SUV;no;4;1;Highly Urban/ Urban;31/05/22;complet;dev_express;[250 - 500[
+F;1977;866245619;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;Sports Car;no;6;7;Highly Urban/ Urban;24/04/22;complet;dev_premium;[500 - 750[
+M;1972;149216887;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Sports Car;no;2;9;Highly Urban/ Urban;06/03/22;complet;dev_integral;[250 - 500[
+F;1971;438439544;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Minivan;no;0;9;Highly Urban/ Urban;18/02/22;complet;dev_integral;[250 - 500[
+F;2017;443384580;FAUX;VRAI;[100000 - 150000[;[450000 - 500000[;Private;Pickup;yes;0;12;Highly Urban/ Urban;05/01/22;complet;dev_integral;[250 - 500[
+M;1941;6110863;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;z_SUV;no;5;15;Highly Urban/ Urban;19/02/22;complet;dev_premium;[500 - 750[
+M;1936;793223014;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Commercial;z_SUV;no;7;;Highly Urban/ Urban;21/05/22;complet;dev_express;[250 - 500[
+M;1972;279064407;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;2;11;Highly Urban/ Urban;13/05/22;complet;dev_express;[250 - 500[
+M;1961;180508441;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;0;7;Highly Urban/ Urban;20/02/22;complet;dev_integral;[250 - 500[
+M;1982;693064181;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;1;10;z_Highly Rural/ Rural;16/04/22;complet;dev_integral;[250 - 500[
+F;1951;176456122;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;0;19;Highly Urban/ Urban;03/03/22;complet;dev_integral;[250 - 500[
+F;1947;180040315;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Minivan;no;0;15;z_Highly Rural/ Rural;26/02/22;complet;dev_express;[250 - 500[
+M;1946;129685017;FAUX;FAUX;[25000 - 50000[;[200000 - 250000[;Private;Minivan;no;0;10;Highly Urban/ Urban;19/02/22;complet;dev_integral;[250 - 500[
+F;1959;424865413;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;2;5;Highly Urban/ Urban;05/03/22;complet;dev_express;[250 - 500[
+F;1962;633175652;FAUX;VRAI;[0 - 25000[;[3500000 - 450000[;Private;Minivan;yes;3;1;Highly Urban/ Urban;11/01/22;complet;dev_express;[250 - 500[
+M;1992;21232257;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Minivan;no;1;4;Highly Urban/ Urban;25/03/22;complet;dev_express;[250 - 500[
+F;1948;92814560;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Commercial;Pickup;yes;0;9;z_Highly Rural/ Rural;22/02/22;complet;dev_integral;[250 - 500[
+M;1941;597214761;VRAI;VRAI;[100000 - 150000[;[3500000 - 450000[;Commercial;Van;yes;0;12;Highly Urban/ Urban;14/01/22;complet;dev_integral;[250 - 500[
+F;1955;402551028;FAUX;VRAI;[0 - 25000[;[100000 - 150000[;Private;Sports Car;no;5;4;Highly Urban/ Urban;08/04/22;complet;dev_express;[250 - 500[
+M;1951;625951946;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Pickup;no;0;15;Highly Urban/ Urban;17/04/22;complet;dev_integral;[250 - 500[
+M;1939;463103049;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;Minivan;yes;0;9;z_Highly Rural/ Rural;14/05/22;complet;dev_integral;[250 - 500[
+M;1958;199374347;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;z_SUV;no;6;1;Highly Urban/ Urban;02/02/22;complet;dev_integral;[250 - 500[
+M;1954;587410496;VRAI;VRAI;[50000 - 100000[;[250000 - 300000[;Private;Sports Car;no;0;8;Highly Urban/ Urban;21/05/22;complet;dev_integral;[250 - 500[
+M;1991;706207851;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;z_SUV;no;2;12;Highly Urban/ Urban;09/03/22;complet;dev_premium;[250 - 500[
+F;1975;123378098;VRAI;VRAI;[150000 - 200000[;[3500000 - 450000[;Private;Minivan;no;1;12;z_Highly Rural/ Rural;27/02/22;complet;dev_integral;[250 - 500[
+F;1952;84749088;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Private;Minivan;no;0;14;Highly Urban/ Urban;03/04/22;complet;dev_integral;[250 - 500[
+F;1969;385920148;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;1;8;z_Highly Rural/ Rural;02/04/22;complet;dev_express;[250 - 500[
+F;1972;657603099;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Private;Minivan;no;1;1;Highly Urban/ Urban;08/04/22;complet;dev_express;[250 - 500[
+F;1932;587433812;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Private;Sports Car;no;0;17;Highly Urban/ Urban;31/05/22;complet;dev_integral;[250 - 500[
+F;2000;397668863;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Commercial;Pickup;yes;0;4;Highly Urban/ Urban;16/05/22;complet;dev_integral;[250 - 500[
+F;1967;765612380;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;Panel Truck;no;1;;Highly Urban/ Urban;22/04/22;complet;dev_integral;[250 - 500[
+F;1950;525278595;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;z_SUV;no;2;11;Highly Urban/ Urban;30/05/22;complet;dev_integral;[250 - 500[
+M;1984;683055968;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Pickup;yes;1;11;Highly Urban/ Urban;01/02/22;complet;dev_express;[250 - 500[
+F;1994;761789412;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Commercial;Minivan;no;2;1;Highly Urban/ Urban;31/05/22;complet;dev_integral;[250 - 500[
+M;1967;394369216;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Minivan;no;0;11;z_Highly Rural/ Rural;16/02/22;complet;dev_integral;[250 - 500[
+F;1973;604458424;FAUX;VRAI;[50000 - 100000[;[150000 - 200000[;Private;Minivan;yes;0;20;Highly Urban/ Urban;21/05/22;complet;dev_integral;[250 - 500[
+M;1970;153982804;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;2;1;Highly Urban/ Urban;26/04/22;complet;dev_express;[250 - 500[
+M;1947;765399700;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;Pickup;no;6;;Highly Urban/ Urban;14/01/22;complet;dev_integral;[250 - 500[
+F;1965;815222858;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Van;no;0;12;Highly Urban/ Urban;16/02/22;complet;dev_express;[250 - 500[
+M;1993;457754330;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;0;16;Highly Urban/ Urban;01/01/22;complet;dev_express;[250 - 500[
+M;1960;822704890;FAUX;VRAI;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;0;1;z_Highly Rural/ Rural;14/01/22;complet;dev_integral;[250 - 500[
+F;1968;225207269;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Van;yes;0;6;Highly Urban/ Urban;10/05/22;complet;dev_premium;[500 - 750[
+F;1941;4645200;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Pickup;no;1;;Highly Urban/ Urban;02/05/22;complet;dev_express;[250 - 500[
+F;1998;468089920;VRAI;VRAI;[25000 - 50000[;[200000 - 250000[;Commercial;Van;no;1;6;z_Highly Rural/ Rural;10/02/22;complet;dev_express;[250 - 500[
+M;1970;297188062;FAUX;FAUX;[150000 - 200000[;[450000 - 500000[;Commercial;Panel Truck;yes;0;13;z_Highly Rural/ Rural;08/01/22;complet;dev_integral;[250 - 500[
+F;1938;848203910;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;Van;yes;0;10;Highly Urban/ Urban;12/01/22;complet;dev_premium;[250 - 500[
+F;1955;770856029;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;Pickup;yes;1;1;Highly Urban/ Urban;27/05/22;complet;dev_express;[250 - 500[
+M;2000;283137004;VRAI;VRAI;[25000 - 50000[;[200000 - 250000[;Commercial;z_SUV;no;6;5;Highly Urban/ Urban;10/04/22;complet;dev_premium;[250 - 500[
+F;1957;611783087;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;0;1;Highly Urban/ Urban;23/03/22;complet;dev_integral;[250 - 500[
+F;2003;851813162;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;0;9;Highly Urban/ Urban;24/05/22;complet;dev_integral;[250 - 500[
+F;1953;686545884;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;0;1;Highly Urban/ Urban;05/01/22;complet;dev_premium;[250 - 500[
+F;2012;750733056;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Minivan;no;0;11;Highly Urban/ Urban;17/05/22;complet;dev_vip;[500 - 750[
+M;1975;822734431;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Van;yes;5;;Highly Urban/ Urban;30/05/22;complet;dev_express;[250 - 500[
+M;2017;693898721;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Private;Sports Car;no;3;1;Highly Urban/ Urban;25/01/22;complet;dev_premium;[250 - 500[
+F;1956;341070713;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Private;Sports Car;no;0;7;z_Highly Rural/ Rural;30/01/22;complet;dev_integral;[250 - 500[
+F;1995;363914761;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;Panel Truck;no;1;1;Highly Urban/ Urban;04/01/22;complet;dev_premium;[250 - 500[
+F;1972;648206740;FAUX;FAUX;[150000 - 200000[;[3500000 - 450000[;Private;z_SUV;no;0;15;Highly Urban/ Urban;11/02/22;complet;dev_integral;[250 - 500[
+F;1957;461258657;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Sports Car;no;3;7;Highly Urban/ Urban;07/04/22;complet;dev_premium;[250 - 500[
+F;1969;759574588;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Private;Minivan;no;4;17;Highly Urban/ Urban;09/02/22;complet;dev_express;[250 - 500[
+M;1939;465503397;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;Panel Truck;no;2;13;Highly Urban/ Urban;27/04/22;complet;dev_express;[250 - 500[
+F;1974;188363354;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;0;4;Highly Urban/ Urban;25/05/22;complet;dev_integral;[250 - 500[
+F;1957;672606813;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Minivan;no;0;;z_Highly Rural/ Rural;10/02/22;complet;dev_express;[250 - 500[
+M;2008;311694685;FAUX;FAUX;[25000 - 50000[;[50000 - 100000[;Private;Sports Car;yes;9;8;Highly Urban/ Urban;14/03/22;complet;dev_express;[250 - 500[
+M;1951;603595971;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Pickup;yes;4;7;Highly Urban/ Urban;11/05/22;complet;dev_integral;[250 - 500[
+M;1960;507317912;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Minivan;yes;0;1;Highly Urban/ Urban;09/04/22;complet;dev_premium;[250 - 500[
+F;1946;168501767;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;z_SUV;no;2;14;z_Highly Rural/ Rural;14/04/22;complet;dev_premium;[500 - 750[
+M;1940;15392399;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Private;Sports Car;no;3;7;Highly Urban/ Urban;18/04/22;complet;dev_express;[250 - 500[
+M;1972;269451142;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Minivan;yes;0;1;Highly Urban/ Urban;23/03/22;complet;dev_express;[250 - 500[
+M;1941;137706220;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Minivan;yes;6;;Highly Urban/ Urban;09/05/22;complet;dev_integral;[250 - 500[
+M;1964;48758343;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Minivan;no;0;12;z_Highly Rural/ Rural;04/02/22;complet;dev_express;[250 - 500[
+M;1961;814240060;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Panel Truck;yes;1;8;Highly Urban/ Urban;19/04/22;complet;dev_premium;[500 - 750[
+F;1971;498111371;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;0;5;z_Highly Rural/ Rural;03/04/22;complet;dev_integral;[250 - 500[
+F;2004;856125105;VRAI;VRAI;[50000 - 100000[;[150000 - 200000[;Private;Minivan;no;1;8;z_Highly Rural/ Rural;18/01/22;complet;dev_integral;[250 - 500[
+F;1974;418163490;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;Panel Truck;yes;1;16;Highly Urban/ Urban;23/03/22;complet;dev_express;[250 - 500[
+F;1960;524784852;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;z_SUV;yes;1;;Highly Urban/ Urban;02/05/22;complet;dev_integral;[250 - 500[
+F;1973;610997374;FAUX;FAUX;[25000 - 50000[;[200000 - 250000[;Commercial;Van;no;1;5;Highly Urban/ Urban;19/01/22;complet;dev_express;[250 - 500[
+M;1966;388580894;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Van;no;5;;Highly Urban/ Urban;15/02/22;complet;dev_integral;[250 - 500[
+M;1959;412371728;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;z_SUV;no;0;13;Highly Urban/ Urban;03/01/22;complet;dev_premium;[500 - 750[
+F;1970;377050021;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Private;Pickup;yes;2;6;Highly Urban/ Urban;27/03/22;complet;dev_express;[250 - 500[
+F;2017;859070778;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;8;19;Highly Urban/ Urban;02/04/22;complet;dev_premium;[250 - 500[
+M;1960;356065065;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;Sports Car;no;0;1;Highly Urban/ Urban;30/04/22;complet;dev_premium;[500 - 750[
+M;1953;449662777;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Private;Minivan;no;1;1;z_Highly Rural/ Rural;07/04/22;complet;dev_integral;[250 - 500[
+M;1950;475828112;FAUX;VRAI;[100000 - 150000[;[250000 - 300000[;Private;Sports Car;no;0;16;Highly Urban/ Urban;22/01/22;complet;dev_integral;[250 - 500[
+M;1955;789262558;VRAI;VRAI;[0 - 25000[;[150000 - 200000[;Commercial;Pickup;no;0;18;z_Highly Rural/ Rural;07/05/22;complet;dev_integral;[250 - 500[
+F;1993;555553704;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;4;3;Highly Urban/ Urban;07/01/22;complet;dev_premium;[500 - 750[
+F;2019;614378368;FAUX;VRAI;[100000 - 150000[;[300000 - 350000[;Commercial;z_SUV;no;5;5;Highly Urban/ Urban;05/01/22;complet;dev_integral;[250 - 500[
+F;1940;794034766;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Minivan;no;0;1;Highly Urban/ Urban;13/05/22;complet;dev_integral;[250 - 500[
+M;1968;75982785;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Minivan;no;4;10;Highly Urban/ Urban;11/05/22;complet;dev_express;[250 - 500[
+F;1958;398396114;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;z_SUV;no;3;9;Highly Urban/ Urban;29/03/22;complet;dev_integral;[250 - 500[
+M;1997;638075441;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;0;3;z_Highly Rural/ Rural;12/02/22;complet;dev_premium;[250 - 500[
+F;1954;462897789;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Minivan;yes;0;1;Highly Urban/ Urban;18/03/22;complet;dev_premium;[250 - 500[
+F;1941;641142614;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Pickup;yes;5;1;Highly Urban/ Urban;25/01/22;complet;dev_express;[250 - 500[
+F;1997;525517679;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;z_SUV;no;3;;Highly Urban/ Urban;11/05/22;complet;dev_express;[250 - 500[
+M;2020;312447528;VRAI;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Minivan;yes;0;7;Highly Urban/ Urban;04/05/22;complet;dev_express;[250 - 500[
+F;1992;618693474;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Minivan;yes;3;;Highly Urban/ Urban;22/01/22;complet;dev_express;[250 - 500[
+F;1980;875298756;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;z_SUV;no;2;10;Highly Urban/ Urban;06/01/22;complet;dev_express;[250 - 500[
+F;1956;34930945;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;2;7;z_Highly Rural/ Rural;11/04/22;complet;dev_integral;[250 - 500[
+M;1955;403796568;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Pickup;no;0;16;Highly Urban/ Urban;22/03/22;complet;dev_integral;[250 - 500[
+F;1986;705346454;FAUX;FAUX;[150000 - 200000[;[3500000 - 450000[;Commercial;Panel Truck;no;0;15;Highly Urban/ Urban;31/03/22;complet;dev_premium;[500 - 750[
+F;1957;91162208;FAUX;FAUX;[150000 - 200000[;[450000 - 500000[;Private;z_SUV;no;0;15;Highly Urban/ Urban;09/03/22;complet;dev_integral;[250 - 500[
+M;1951;630482396;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Private;z_SUV;no;5;1;Highly Urban/ Urban;07/05/22;complet;dev_integral;[250 - 500[
+F;1954;661098040;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Minivan;yes;3;10;Highly Urban/ Urban;24/02/22;complet;dev_integral;[250 - 500[
+F;1981;681017551;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Minivan;no;0;15;Highly Urban/ Urban;24/05/22;complet;dev_express;[250 - 500[
+M;1960;591709937;FAUX;FAUX;[50000 - 100000[;[300000 - 350000[;Commercial;z_SUV;no;0;7;Highly Urban/ Urban;25/02/22;complet;dev_express;[250 - 500[
+F;1940;77558693;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Pickup;yes;0;11;Highly Urban/ Urban;29/03/22;complet;dev_express;[250 - 500[
+F;1945;690665986;VRAI;VRAI;[50000 - 100000[;[0 - 25000[;Private;Sports Car;no;6;12;Highly Urban/ Urban;10/05/22;complet;dev_express;[250 - 500[
+M;2013;372047541;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Private;z_SUV;no;3;5;Highly Urban/ Urban;14/05/22;complet;dev_integral;[250 - 500[
+F;1937;777288469;FAUX;FAUX;[0 - 25000[;[200000 - 250000[;Private;Van;yes;3;12;Highly Urban/ Urban;19/01/22;complet;dev_integral;[250 - 500[
+M;1990;230572240;VRAI;VRAI;[50000 - 100000[;[150000 - 200000[;Commercial;Pickup;no;0;7;Highly Urban/ Urban;27/05/22;complet;dev_premium;[250 - 500[
+M;2015;484002993;FAUX;VRAI;[0 - 25000[;[100000 - 150000[;Commercial;Van;yes;0;1;z_Highly Rural/ Rural;13/01/22;complet;dev_integral;[250 - 500[
+M;1987;532159342;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Pickup;yes;0;10;Highly Urban/ Urban;08/04/22;complet;dev_integral;[250 - 500[
+F;1993;485924036;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Minivan;no;2;15;Highly Urban/ Urban;26/04/22;complet;dev_integral;[250 - 500[
+M;2006;36263428;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;z_SUV;no;1;20;Highly Urban/ Urban;30/01/22;complet;dev_integral;[250 - 500[
+F;1987;585407066;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;z_SUV;no;5;12;z_Highly Rural/ Rural;18/05/22;complet;dev_express;[250 - 500[
+M;1969;157377972;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Minivan;no;3;6;Highly Urban/ Urban;27/01/22;complet;dev_premium;[250 - 500[
+F;1966;595402086;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Van;yes;0;18;Highly Urban/ Urban;13/02/22;complet;dev_express;[250 - 500[
+M;2016;812423149;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;Minivan;no;0;8;Highly Urban/ Urban;26/04/22;complet;dev_integral;[250 - 500[
+M;1963;315873974;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Commercial;Van;yes;2;;z_Highly Rural/ Rural;26/05/22;complet;dev_premium;[250 - 500[
+M;1965;390220060;FAUX;VRAI;[0 - 25000[;[150000 - 200000[;Private;Minivan;no;0;16;Highly Urban/ Urban;06/02/22;complet;dev_integral;[250 - 500[
+F;2002;500842137;VRAI;VRAI;[25000 - 50000[;[0 - 25000[;Private;Minivan;no;0;5;Highly Urban/ Urban;05/02/22;complet;dev_express;[250 - 500[
+F;1937;315376164;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Minivan;yes;0;1;z_Highly Rural/ Rural;26/03/22;complet;dev_premium;[250 - 500[
+F;1954;835526937;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Commercial;Panel Truck;no;4;10;Highly Urban/ Urban;14/02/22;complet;dev_express;[250 - 500[
+F;2014;786685137;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Panel Truck;no;5;8;Highly Urban/ Urban;17/04/22;complet;dev_integral;[250 - 500[
+F;1944;774940506;FAUX;VRAI;[50000 - 100000[;[300000 - 350000[;Commercial;Van;yes;1;9;Highly Urban/ Urban;12/02/22;complet;dev_express;[250 - 500[
+M;2015;577926832;FAUX;FAUX;[150000 - 200000[;[0 - 25000[;Commercial;Pickup;no;0;17;Highly Urban/ Urban;20/03/22;complet;dev_integral;[250 - 500[
+M;2010;98286101;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Van;no;7;10;Highly Urban/ Urban;24/03/22;complet;dev_express;[250 - 500[
+M;1947;395555487;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;4;;Highly Urban/ Urban;28/05/22;complet;dev_integral;[250 - 500[
+M;1967;708264027;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;1;7;Highly Urban/ Urban;27/04/22;complet;dev_integral;[250 - 500[
+M;1973;692473548;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;1;1;z_Highly Rural/ Rural;28/01/22;complet;dev_premium;[250 - 500[
+M;2009;403083652;FAUX;FAUX;[150000 - 200000[;[450000 - 500000[;Commercial;Panel Truck;no;4;11;Highly Urban/ Urban;21/03/22;complet;dev_express;[250 - 500[
+F;1953;349469358;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;0;12;Highly Urban/ Urban;07/01/22;complet;dev_integral;[250 - 500[
+F;1965;475551659;FAUX;FAUX;[100000 - 150000[;[250000 - 300000[;Private;Minivan;no;4;13;Highly Urban/ Urban;15/05/22;complet;dev_premium;[250 - 500[
+F;1988;498909262;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Sports Car;no;4;12;Highly Urban/ Urban;09/02/22;complet;dev_integral;[250 - 500[
+M;1955;451639342;FAUX;FAUX;[150000 - 200000[;[500000 - 600000[;Commercial;Pickup;no;3;13;Highly Urban/ Urban;04/02/22;complet;dev_express;[250 - 500[
+F;1981;523758420;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Van;no;3;8;Highly Urban/ Urban;30/04/22;complet;dev_integral;[250 - 500[
+M;2001;667303818;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Van;no;0;1;Highly Urban/ Urban;06/01/22;complet;dev_express;[250 - 500[
+M;1974;848227214;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;2;1;Highly Urban/ Urban;12/04/22;complet;dev_express;[250 - 500[
+F;1938;765012124;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Panel Truck;no;5;10;Highly Urban/ Urban;25/04/22;complet;dev_express;[250 - 500[
+M;1988;345739668;VRAI;VRAI;[50000 - 100000[;[250000 - 300000[;Commercial;Pickup;no;4;8;Highly Urban/ Urban;01/01/22;complet;dev_integral;[250 - 500[
+M;1965;583869419;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Commercial;Pickup;yes;5;1;Highly Urban/ Urban;16/03/22;complet;dev_express;[250 - 500[
+M;2000;448473511;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;Panel Truck;no;3;20;Highly Urban/ Urban;20/03/22;complet;dev_integral;[250 - 500[
+M;1951;702878779;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;3;2;Highly Urban/ Urban;20/01/22;complet;dev_integral;[250 - 500[
+M;1966;197656396;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;Minivan;yes;0;12;Highly Urban/ Urban;10/05/22;complet;dev_integral;[250 - 500[
+M;2018;654931963;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;5;11;Highly Urban/ Urban;10/01/22;complet;dev_premium;[500 - 750[
+F;2018;59024305;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Sports Car;no;0;12;z_Highly Rural/ Rural;28/03/22;complet;dev_integral;[250 - 500[
+F;1978;679689510;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Minivan;yes;4;11;Highly Urban/ Urban;13/04/22;complet;dev_integral;[250 - 500[
+F;1938;32322377;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;0;1;Highly Urban/ Urban;21/02/22;complet;dev_integral;[250 - 500[
+F;2006;477597365;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Pickup;yes;2;1;Highly Urban/ Urban;15/01/22;complet;dev_integral;[250 - 500[
+F;1983;489746468;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Commercial;Pickup;yes;0;10;z_Highly Rural/ Rural;25/01/22;complet;dev_integral;[250 - 500[
+M;1952;414613314;FAUX;FAUX;[0 - 25000[;[150000 - 200000[;Private;Minivan;no;2;7;Highly Urban/ Urban;18/01/22;complet;dev_integral;[250 - 500[
+F;1947;108606846;FAUX;FAUX;[250000 - 300000[;[0 - 25000[;Commercial;Panel Truck;yes;0;17;Highly Urban/ Urban;15/02/22;complet;dev_express;[250 - 500[
+M;1964;572347235;FAUX;VRAI;[50000 - 100000[;[150000 - 200000[;Private;Pickup;no;1;14;Highly Urban/ Urban;27/01/22;complet;dev_premium;[500 - 750[
+M;1966;349268574;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Pickup;no;4;9;Highly Urban/ Urban;18/03/22;complet;dev_express;[250 - 500[
+M;2006;332708586;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Pickup;no;0;8;Highly Urban/ Urban;22/03/22;complet;dev_integral;[250 - 500[
+M;2020;421690147;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Minivan;no;3;;Highly Urban/ Urban;07/03/22;complet;dev_integral;[250 - 500[
+M;2017;262520457;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Van;yes;0;4;Highly Urban/ Urban;18/05/22;complet;dev_integral;[250 - 500[
+F;2001;213993760;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;1;1;Highly Urban/ Urban;01/05/22;complet;dev_express;[250 - 500[
+F;1977;833577754;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;0;11;Highly Urban/ Urban;26/05/22;complet;dev_integral;[250 - 500[
+F;2010;388181162;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;z_SUV;no;6;;Highly Urban/ Urban;23/04/22;complet;dev_premium;[500 - 750[
+F;1934;882758856;VRAI;VRAI;[100000 - 150000[;[300000 - 350000[;Private;Minivan;yes;1;11;Highly Urban/ Urban;27/02/22;complet;dev_express;[250 - 500[
+F;1955;137991351;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Pickup;yes;2;10;Highly Urban/ Urban;16/04/22;complet;dev_integral;[250 - 500[
+F;2004;309804859;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Panel Truck;no;1;21;Highly Urban/ Urban;21/03/22;complet;dev_express;[250 - 500[
+M;1979;730490125;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Commercial;Sports Car;no;0;1;z_Highly Rural/ Rural;10/05/22;complet;dev_integral;[250 - 500[
+F;2020;40412285;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Private;Pickup;no;0;10;z_Highly Rural/ Rural;11/04/22;complet;dev_integral;[250 - 500[
+F;1973;541402838;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;0;1;z_Highly Rural/ Rural;13/05/22;complet;dev_express;[250 - 500[
+F;1954;540885098;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Private;Minivan;yes;3;1;Highly Urban/ Urban;26/05/22;complet;dev_integral;[250 - 500[
+F;1943;776633073;FAUX;FAUX;[25000 - 50000[;[200000 - 250000[;Private;Pickup;no;0;10;z_Highly Rural/ Rural;03/03/22;complet;dev_express;[250 - 500[
+F;1954;517035894;FAUX;FAUX;[200000 - 250000[;[0 - 25000[;Private;Sports Car;no;0;12;Highly Urban/ Urban;26/01/22;complet;dev_express;[250 - 500[
+M;2013;880080376;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;Pickup;yes;4;20;Highly Urban/ Urban;22/01/22;complet;dev_express;[250 - 500[
+F;1951;182488531;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;0;3;Highly Urban/ Urban;25/05/22;complet;dev_express;[250 - 500[
+F;2005;698411219;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Minivan;no;0;11;Highly Urban/ Urban;03/02/22;complet;dev_premium;[250 - 500[
+F;1971;248275343;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Commercial;Panel Truck;yes;5;19;Highly Urban/ Urban;08/01/22;complet;dev_express;[250 - 500[
+F;1976;2071749;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Minivan;no;0;11;z_Highly Rural/ Rural;02/05/22;complet;dev_express;[250 - 500[
+M;1988;146640816;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Sports Car;yes;0;7;Highly Urban/ Urban;18/05/22;complet;dev_express;[250 - 500[
+M;1985;797449765;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Minivan;no;0;8;z_Highly Rural/ Rural;25/05/22;complet;dev_premium;[250 - 500[
+M;1957;117474635;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Private;Sports Car;no;2;1;Highly Urban/ Urban;04/05/22;complet;dev_integral;[250 - 500[
+F;1962;258989340;FAUX;VRAI;[100000 - 150000[;[300000 - 350000[;Private;Pickup;no;2;12;Highly Urban/ Urban;16/04/22;complet;dev_integral;[250 - 500[
+M;2003;2537697;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Minivan;no;0;1;Highly Urban/ Urban;17/02/22;complet;dev_integral;[250 - 500[
+M;1941;600295285;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;Minivan;yes;0;11;Highly Urban/ Urban;25/04/22;complet;dev_premium;[250 - 500[
+F;2012;561627624;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Panel Truck;no;0;7;Highly Urban/ Urban;24/03/22;complet;dev_integral;[250 - 500[
+F;1974;404979115;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;0;5;z_Highly Rural/ Rural;24/01/22;complet;dev_express;[250 - 500[
+M;1939;194310077;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Private;Pickup;yes;0;9;z_Highly Rural/ Rural;03/03/22;complet;dev_integral;[250 - 500[
+F;1962;209988530;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Private;Van;yes;0;14;Highly Urban/ Urban;29/01/22;complet;dev_integral;[250 - 500[
+F;1931;147651961;VRAI;VRAI;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;0;4;z_Highly Rural/ Rural;29/04/22;complet;dev_integral;[250 - 500[
+F;1950;191854758;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Sports Car;no;0;6;Highly Urban/ Urban;11/01/22;complet;dev_integral;[250 - 500[
+F;1979;361403498;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Commercial;Pickup;no;7;1;z_Highly Rural/ Rural;11/05/22;complet;dev_express;[250 - 500[
+F;1968;584272566;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Private;z_SUV;no;6;1;Highly Urban/ Urban;07/05/22;complet;dev_express;[250 - 500[
+M;2018;665467392;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Minivan;no;3;1;Highly Urban/ Urban;08/02/22;complet;dev_express;[250 - 500[
+F;1951;834757651;FAUX;FAUX;[50000 - 100000[;[300000 - 350000[;Private;Minivan;yes;2;19;Highly Urban/ Urban;01/02/22;complet;dev_integral;[250 - 500[
+F;1962;444568312;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Commercial;z_SUV;no;3;12;Highly Urban/ Urban;10/03/22;complet;dev_integral;[250 - 500[
+F;1970;279011525;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;Minivan;no;1;1;Highly Urban/ Urban;08/03/22;complet;dev_integral;[250 - 500[
+F;1963;831946689;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;1;9;z_Highly Rural/ Rural;27/05/22;complet;dev_premium;[250 - 500[
+F;1973;536344214;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Pickup;yes;2;9;Highly Urban/ Urban;07/01/22;complet;dev_vip;[500 - 750[
+M;1942;681780913;VRAI;VRAI;[0 - 25000[;[100000 - 150000[;Private;Minivan;yes;0;1;Highly Urban/ Urban;14/02/22;complet;dev_express;[250 - 500[
+M;1988;34672360;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Sports Car;no;0;4;Highly Urban/ Urban;21/02/22;complet;dev_express;[250 - 500[
+M;1971;529903160;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Van;yes;0;7;z_Highly Rural/ Rural;09/04/22;complet;dev_integral;[250 - 500[
+F;1958;630883519;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;Minivan;no;5;9;Highly Urban/ Urban;25/03/22;complet;dev_integral;[250 - 500[
+F;1976;848091901;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;0;20;Highly Urban/ Urban;31/03/22;complet;dev_express;[250 - 500[
+M;2006;489644907;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Sports Car;no;0;15;Highly Urban/ Urban;02/02/22;complet;dev_integral;[250 - 500[
+M;1973;129046868;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Pickup;yes;0;7;Highly Urban/ Urban;08/05/22;complet;dev_integral;[250 - 500[
+M;1984;878875011;FAUX;VRAI;[100000 - 150000[;[300000 - 350000[;Commercial;z_SUV;no;0;9;Highly Urban/ Urban;04/04/22;complet;dev_integral;[250 - 500[
+F;1993;310881592;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;3;6;Highly Urban/ Urban;11/01/22;complet;dev_express;[250 - 500[
+M;1962;447881480;FAUX;VRAI;[100000 - 150000[;[300000 - 350000[;Commercial;Panel Truck;no;4;8;Highly Urban/ Urban;22/03/22;complet;dev_express;[250 - 500[
+M;1942;738670296;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Sports Car;no;0;1;Highly Urban/ Urban;30/01/22;complet;dev_integral;[250 - 500[
+M;1988;117933628;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;7;1;Highly Urban/ Urban;09/05/22;complet;dev_integral;[250 - 500[
+M;1949;227888609;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Minivan;no;3;5;Highly Urban/ Urban;11/04/22;complet;dev_integral;[250 - 500[
+M;1968;22797954;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Commercial;Van;yes;1;8;Highly Urban/ Urban;10/01/22;complet;dev_integral;[250 - 500[
+M;1968;643388560;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;z_SUV;no;2;;Highly Urban/ Urban;26/03/22;complet;dev_premium;[250 - 500[
+F;2000;69364497;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Panel Truck;no;10;14;Highly Urban/ Urban;24/02/22;complet;dev_express;[250 - 500[
+F;2003;311580386;FAUX;VRAI;[100000 - 150000[;[300000 - 350000[;Commercial;Panel Truck;no;3;3;Highly Urban/ Urban;05/03/22;complet;dev_integral;[250 - 500[
+F;1942;411155302;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;Minivan;no;0;10;Highly Urban/ Urban;30/04/22;complet;dev_express;[250 - 500[
+M;1988;116680872;FAUX;FAUX;[0 - 25000[;[150000 - 200000[;Private;Sports Car;no;0;1;z_Highly Rural/ Rural;26/01/22;complet;dev_integral;[250 - 500[
+F;1936;898118145;VRAI;VRAI;[100000 - 150000[;[250000 - 300000[;Private;Minivan;no;4;10;Highly Urban/ Urban;06/01/22;complet;dev_vip;[500 - 750[
+M;1994;95336401;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;Minivan;yes;0;13;Highly Urban/ Urban;09/01/22;complet;dev_integral;[250 - 500[
+M;1956;645277690;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Commercial;z_SUV;no;1;1;Highly Urban/ Urban;13/01/22;complet;dev_integral;[250 - 500[
+F;1941;559694441;FAUX;FAUX;[150000 - 200000[;[0 - 25000[;Private;Sports Car;no;8;20;Highly Urban/ Urban;10/05/22;complet;dev_integral;[250 - 500[
+M;1943;670388793;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Commercial;Panel Truck;no;0;1;z_Highly Rural/ Rural;02/03/22;complet;dev_integral;[250 - 500[
+F;1974;525521823;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Private;Minivan;no;2;18;Highly Urban/ Urban;30/01/22;complet;dev_express;[250 - 500[
+F;1970;224668464;FAUX;FAUX;[0 - 25000[;[150000 - 200000[;Private;z_SUV;no;0;25;Highly Urban/ Urban;14/04/22;complet;dev_integral;[250 - 500[
+M;1993;663788894;FAUX;VRAI;[100000 - 150000[;[0 - 25000[;Commercial;Panel Truck;yes;0;19;Highly Urban/ Urban;29/05/22;complet;dev_integral;[250 - 500[
+M;2018;169751394;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Private;Pickup;yes;0;17;Highly Urban/ Urban;24/05/22;complet;dev_express;[250 - 500[
+F;1971;689394033;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Pickup;yes;2;11;z_Highly Rural/ Rural;27/01/22;complet;dev_integral;[250 - 500[
+F;1966;182103313;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Van;no;3;13;Highly Urban/ Urban;07/05/22;complet;dev_express;[250 - 500[
+M;1951;299140169;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Commercial;z_SUV;no;0;8;z_Highly Rural/ Rural;06/03/22;complet;dev_premium;[250 - 500[
+M;2004;80400001;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Commercial;z_SUV;no;1;5;Highly Urban/ Urban;06/05/22;complet;dev_express;[250 - 500[
+F;1969;173433279;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Private;Minivan;no;0;1;z_Highly Rural/ Rural;23/01/22;complet;dev_premium;[500 - 750[
+M;1998;890341351;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Commercial;z_SUV;no;3;1;Highly Urban/ Urban;21/01/22;complet;dev_integral;[250 - 500[
+M;1960;154099901;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Minivan;yes;1;;Highly Urban/ Urban;24/05/22;complet;dev_integral;[250 - 500[
+F;1983;220866354;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Private;Minivan;yes;4;8;z_Highly Rural/ Rural;23/04/22;complet;dev_integral;[250 - 500[
+F;1961;670592422;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Private;z_SUV;no;0;9;Highly Urban/ Urban;19/02/22;complet;dev_express;[250 - 500[
+F;1954;75797679;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;Minivan;no;0;7;z_Highly Rural/ Rural;10/01/22;complet;dev_express;[250 - 500[
+M;2014;891867898;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Private;Sports Car;no;0;13;Highly Urban/ Urban;26/02/22;complet;dev_premium;[250 - 500[
+F;1989;845901981;VRAI;VRAI;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;0;10;Highly Urban/ Urban;03/01/22;complet;dev_express;[250 - 500[
+M;1963;472146079;FAUX;FAUX;[0 - 25000[;[150000 - 200000[;Private;Minivan;yes;0;;Highly Urban/ Urban;27/01/22;complet;dev_integral;[250 - 500[
+M;1938;210395584;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Commercial;Panel Truck;no;2;8;z_Highly Rural/ Rural;26/05/22;complet;dev_integral;[250 - 500[
+F;1973;431995633;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Minivan;no;3;1;Highly Urban/ Urban;07/03/22;complet;dev_integral;[250 - 500[
+F;1972;669050167;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;z_SUV;no;3;;Highly Urban/ Urban;16/04/22;complet;dev_express;[250 - 500[
+M;1978;15104041;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;3;6;Highly Urban/ Urban;23/05/22;complet;dev_express;[250 - 500[
+F;1955;476231278;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Private;z_SUV;no;0;11;Highly Urban/ Urban;08/01/22;complet;dev_premium;[250 - 500[
+M;2002;554211907;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Minivan;no;0;21;Highly Urban/ Urban;29/05/22;complet;dev_integral;[250 - 500[
+M;1952;364743204;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Private;Minivan;yes;1;8;Highly Urban/ Urban;10/01/22;complet;dev_integral;[250 - 500[
+F;1967;204467194;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Minivan;no;0;;Highly Urban/ Urban;18/04/22;complet;dev_integral;[250 - 500[
+M;2011;324774768;FAUX;VRAI;[150000 - 200000[;[3500000 - 450000[;Private;Minivan;no;1;18;Highly Urban/ Urban;16/01/22;complet;dev_express;[250 - 500[
+M;1945;850540130;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;Van;yes;2;7;Highly Urban/ Urban;02/01/22;complet;dev_express;[250 - 500[
+M;1955;888257169;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Commercial;Van;no;3;16;Highly Urban/ Urban;18/03/22;complet;dev_integral;[250 - 500[
+M;1949;374169632;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Private;Sports Car;no;0;14;Highly Urban/ Urban;19/01/22;complet;dev_premium;[250 - 500[
+M;2012;756528278;FAUX;VRAI;[50000 - 100000[;[150000 - 200000[;Commercial;z_SUV;no;0;11;Highly Urban/ Urban;06/05/22;complet;dev_integral;[250 - 500[
+F;1957;34242638;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Commercial;z_SUV;no;3;4;Highly Urban/ Urban;27/04/22;complet;dev_express;[250 - 500[
+M;2010;399577973;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;Minivan;no;4;19;Highly Urban/ Urban;16/02/22;complet;dev_express;[250 - 500[
+F;1933;387642112;FAUX;FAUX;[0 - 25000[;[150000 - 200000[;Private;Pickup;no;0;14;Highly Urban/ Urban;06/03/22;complet;dev_integral;[250 - 500[
+M;1983;90222599;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;z_SUV;no;0;5;z_Highly Rural/ Rural;07/01/22;complet;dev_express;[250 - 500[
+M;1950;48444248;FAUX;VRAI;[100000 - 150000[;[0 - 25000[;Private;Minivan;yes;0;16;Highly Urban/ Urban;23/02/22;complet;dev_express;[250 - 500[
+F;1981;86189592;VRAI;VRAI;[100000 - 150000[;[300000 - 350000[;Private;z_SUV;no;0;12;Highly Urban/ Urban;11/04/22;complet;dev_integral;[250 - 500[
+F;1985;596740432;FAUX;FAUX;[0 - 25000[;[3500000 - 450000[;Private;Sports Car;no;1;15;Highly Urban/ Urban;16/03/22;complet;dev_integral;[250 - 500[
+F;1979;836253441;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Minivan;no;2;11;Highly Urban/ Urban;13/05/22;complet;dev_express;[250 - 500[
+M;1975;206585017;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;Panel Truck;yes;1;7;Highly Urban/ Urban;08/01/22;complet;dev_express;[250 - 500[
+F;1951;541223386;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Van;yes;0;3;Highly Urban/ Urban;13/03/22;complet;dev_express;[250 - 500[
+M;1945;184179615;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Pickup;yes;3;8;Highly Urban/ Urban;05/01/22;complet;dev_express;[250 - 500[
+F;1985;369296761;VRAI;VRAI;[50000 - 100000[;[150000 - 200000[;Commercial;Pickup;no;1;8;Highly Urban/ Urban;17/02/22;complet;dev_premium;[250 - 500[
+M;1931;319088270;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;0;16;z_Highly Rural/ Rural;14/04/22;complet;dev_premium;[250 - 500[
+M;1945;113651580;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;2;10;Highly Urban/ Urban;10/02/22;complet;dev_express;[250 - 500[
+M;1951;369653247;VRAI;VRAI;[50000 - 100000[;[0 - 25000[;Commercial;Minivan;no;0;9;z_Highly Rural/ Rural;17/04/22;complet;dev_integral;[250 - 500[
+F;2009;528109994;FAUX;FAUX;[0 - 25000[;[200000 - 250000[;Commercial;Sports Car;no;7;1;Highly Urban/ Urban;15/02/22;complet;dev_integral;[250 - 500[
+M;2019;678229968;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Commercial;Panel Truck;no;0;5;Highly Urban/ Urban;07/04/22;complet;dev_integral;[250 - 500[
+M;1934;459769624;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;8;5;Highly Urban/ Urban;11/01/22;complet;dev_express;[250 - 500[
+M;1958;828565290;FAUX;FAUX;[250000 - 300000[;[0 - 25000[;Commercial;Panel Truck;no;0;16;Highly Urban/ Urban;29/01/22;complet;dev_express;[250 - 500[
+M;1964;414400614;FAUX;FAUX;[200000 - 250000[;[0 - 25000[;Commercial;Panel Truck;yes;5;19;Highly Urban/ Urban;27/01/22;complet;dev_express;[250 - 500[
+F;2019;108108058;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Private;Minivan;no;0;7;Highly Urban/ Urban;09/04/22;complet;dev_integral;[250 - 500[
+F;2002;76251253;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Commercial;z_SUV;no;0;8;Highly Urban/ Urban;04/02/22;complet;dev_integral;[250 - 500[
+M;2013;52758753;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Minivan;no;2;9;Highly Urban/ Urban;13/04/22;complet;dev_premium;[250 - 500[
+M;1983;68624473;FAUX;FAUX;[0 - 25000[;[250000 - 300000[;Commercial;Van;yes;1;14;Highly Urban/ Urban;01/03/22;complet;dev_premium;[250 - 500[
+F;1960;601356160;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;0;1;Highly Urban/ Urban;13/02/22;complet;dev_premium;[250 - 500[
+M;1959;795007042;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Commercial;Van;yes;2;1;Highly Urban/ Urban;27/03/22;complet;dev_integral;[250 - 500[
+M;1973;717863458;FAUX;FAUX;[100000 - 150000[;[250000 - 300000[;Private;Sports Car;no;0;14;Highly Urban/ Urban;26/03/22;complet;dev_express;[250 - 500[
+F;1942;313245130;FAUX;FAUX;[50000 - 100000[;[300000 - 350000[;Private;Pickup;no;0;;Highly Urban/ Urban;05/04/22;complet;dev_premium;[250 - 500[
+F;2014;686264756;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;2;16;z_Highly Rural/ Rural;23/01/22;complet;dev_premium;[250 - 500[
+M;1946;761469019;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Pickup;no;0;16;Highly Urban/ Urban;14/02/22;complet;dev_integral;[250 - 500[
+F;1967;730126992;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Private;Pickup;no;0;;Highly Urban/ Urban;31/03/22;complet;dev_express;[250 - 500[
+M;1972;240200251;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Pickup;no;1;1;Highly Urban/ Urban;11/05/22;complet;dev_integral;[250 - 500[
+F;1985;860805113;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;7;1;Highly Urban/ Urban;24/03/22;complet;dev_integral;[250 - 500[
+M;1950;613628697;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;Pickup;no;6;1;Highly Urban/ Urban;29/03/22;complet;dev_express;[250 - 500[
+F;1987;553344459;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Commercial;Panel Truck;yes;0;1;Highly Urban/ Urban;02/01/22;complet;dev_integral;[250 - 500[
+M;1954;73441453;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Pickup;yes;5;1;Highly Urban/ Urban;29/05/22;complet;dev_integral;[250 - 500[
+M;2007;559405367;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Van;no;11;16;Highly Urban/ Urban;18/04/22;complet;dev_integral;[250 - 500[
+M;1957;871562209;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;Minivan;no;2;1;z_Highly Rural/ Rural;17/04/22;complet;dev_integral;[250 - 500[
+M;1940;384794773;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Minivan;yes;6;7;Highly Urban/ Urban;08/03/22;complet;dev_integral;[250 - 500[
+F;1934;426874877;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Sports Car;no;0;12;Highly Urban/ Urban;28/04/22;complet;dev_express;[250 - 500[
+M;1976;229273180;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;z_SUV;no;1;7;z_Highly Rural/ Rural;05/04/22;complet;dev_premium;[250 - 500[
+M;1981;321163186;VRAI;VRAI;[0 - 25000[;[150000 - 200000[;Commercial;Minivan;no;0;5;Highly Urban/ Urban;30/03/22;complet;dev_premium;[500 - 750[
+F;1964;105005818;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Minivan;no;2;1;Highly Urban/ Urban;09/04/22;complet;dev_integral;[250 - 500[
+F;1960;593081914;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;Panel Truck;no;6;18;Highly Urban/ Urban;06/05/22;complet;dev_express;[250 - 500[
+F;1952;867454286;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;4;11;z_Highly Rural/ Rural;29/04/22;complet;dev_integral;[250 - 500[
+F;1975;687598312;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Commercial;z_SUV;no;3;1;Highly Urban/ Urban;03/01/22;complet;dev_express;[250 - 500[
+M;2003;113295716;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Panel Truck;yes;1;4;z_Highly Rural/ Rural;09/05/22;complet;dev_vip;[750 - 1000[
+F;1931;479061477;FAUX;FAUX;[0 - 25000[;[150000 - 200000[;Commercial;Pickup;yes;0;17;Highly Urban/ Urban;22/01/22;complet;dev_integral;[250 - 500[
+F;2014;177388510;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Private;Minivan;no;0;15;Highly Urban/ Urban;29/04/22;complet;dev_express;[250 - 500[
+F;1950;382145402;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;Panel Truck;yes;5;;Highly Urban/ Urban;24/02/22;complet;dev_integral;[250 - 500[
+F;1965;602353933;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Pickup;yes;0;1;Highly Urban/ Urban;01/04/22;complet;dev_express;[250 - 500[
+F;1940;444336774;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Pickup;no;3;13;Highly Urban/ Urban;12/02/22;complet;dev_express;[250 - 500[
+F;1964;154934221;FAUX;VRAI;[25000 - 50000[;[200000 - 250000[;Private;Van;yes;0;12;Highly Urban/ Urban;19/04/22;complet;dev_integral;[250 - 500[
+M;1944;475429580;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Commercial;z_SUV;no;2;6;Highly Urban/ Urban;06/02/22;complet;dev_premium;[250 - 500[
+F;1963;178518521;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;Sports Car;no;0;9;Highly Urban/ Urban;07/01/22;complet;dev_integral;[250 - 500[
+F;1994;487596723;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Pickup;yes;0;1;Highly Urban/ Urban;19/03/22;complet;dev_premium;[250 - 500[
+F;1951;586863340;FAUX;FAUX;[0 - 25000[;[300000 - 350000[;Private;Pickup;no;0;;Highly Urban/ Urban;10/03/22;complet;dev_integral;[250 - 500[
+F;1973;414042813;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Commercial;Pickup;yes;0;19;Highly Urban/ Urban;08/05/22;complet;dev_integral;[250 - 500[
+F;1936;281506755;FAUX;VRAI;[50000 - 100000[;[150000 - 200000[;Commercial;z_SUV;no;0;7;Highly Urban/ Urban;09/03/22;complet;dev_express;[250 - 500[
+M;1950;392283640;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;2;15;Highly Urban/ Urban;20/04/22;complet;dev_express;[250 - 500[
+F;1943;700563558;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Commercial;Pickup;yes;3;1;Highly Urban/ Urban;05/04/22;complet;dev_integral;[250 - 500[
+M;1975;374344506;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;4;9;Highly Urban/ Urban;20/05/22;complet;dev_integral;[250 - 500[
+M;1959;185261484;FAUX;VRAI;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;1;6;Highly Urban/ Urban;03/03/22;complet;dev_integral;[250 - 500[
+F;1954;24185895;VRAI;VRAI;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;2;1;Highly Urban/ Urban;12/03/22;complet;dev_express;[250 - 500[
+F;1940;198385943;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Private;Sports Car;no;0;12;Highly Urban/ Urban;06/01/22;complet;dev_express;[250 - 500[
+M;1995;649319868;FAUX;FAUX;[0 - 25000[;[200000 - 250000[;Commercial;Pickup;yes;7;4;Highly Urban/ Urban;17/01/22;complet;dev_express;[250 - 500[
+F;1932;204749450;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;1;8;Highly Urban/ Urban;04/03/22;complet;dev_integral;[250 - 500[
+F;1971;747221815;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;z_SUV;no;0;20;Highly Urban/ Urban;28/02/22;complet;dev_premium;[250 - 500[
+M;1985;411662809;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Van;no;0;4;Highly Urban/ Urban;22/03/22;complet;dev_express;[250 - 500[
+F;1999;194541428;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Commercial;Minivan;no;0;10;Highly Urban/ Urban;09/05/22;complet;dev_express;[250 - 500[
+F;1987;4198472;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Pickup;no;0;;Highly Urban/ Urban;11/03/22;complet;dev_integral;[250 - 500[
+F;1971;367932899;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Van;yes;5;1;Highly Urban/ Urban;19/02/22;complet;dev_integral;[250 - 500[
+F;1987;567216157;FAUX;VRAI;[0 - 25000[;[100000 - 150000[;Private;Sports Car;no;2;8;Highly Urban/ Urban;28/04/22;complet;dev_premium;[250 - 500[
+M;1996;665267727;FAUX;FAUX;[150000 - 200000[;[3500000 - 450000[;Private;Pickup;yes;0;1;Highly Urban/ Urban;01/03/22;complet;dev_integral;[250 - 500[
+M;1987;33968421;VRAI;VRAI;[50000 - 100000[;[300000 - 350000[;Private;Minivan;yes;1;1;Highly Urban/ Urban;17/01/22;complet;dev_integral;[250 - 500[
+M;1965;622446604;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;0;9;z_Highly Rural/ Rural;12/03/22;complet;dev_premium;[250 - 500[
+M;1976;539300850;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Sports Car;no;1;5;Highly Urban/ Urban;14/04/22;complet;dev_express;[250 - 500[
+M;1990;593292601;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Panel Truck;no;0;12;Highly Urban/ Urban;17/02/22;complet;dev_express;[250 - 500[
+F;1965;801145655;FAUX;FAUX;[50000 - 100000[;[100000 - 150000[;Private;Minivan;no;2;11;Highly Urban/ Urban;19/04/22;complet;dev_integral;[250 - 500[
+M;1949;576619183;VRAI;VRAI;[0 - 25000[;[100000 - 150000[;Commercial;Pickup;no;0;5;z_Highly Rural/ Rural;18/05/22;complet;dev_integral;[250 - 500[
+M;1937;495185712;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Pickup;yes;1;12;z_Highly Rural/ Rural;13/03/22;complet;dev_express;[250 - 500[
+F;2022;165750814;VRAI;VRAI;[200000 - 250000[;[0 - 25000[;Commercial;Van;yes;0;;Highly Urban/ Urban;11/05/22;complet;dev_express;[250 - 500[
+F;2012;742312175;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Panel Truck;no;1;;Highly Urban/ Urban;11/01/22;complet;dev_premium;[250 - 500[
+F;2004;841681104;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;2;6;Highly Urban/ Urban;09/05/22;complet;dev_integral;[250 - 500[
+F;1966;627058479;VRAI;VRAI;[0 - 25000[;[100000 - 150000[;Commercial;Minivan;no;6;1;Highly Urban/ Urban;04/01/22;complet;dev_integral;[250 - 500[
+F;1968;359180889;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;7;6;Highly Urban/ Urban;30/05/22;complet;dev_express;[250 - 500[
+M;1995;887710058;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Minivan;yes;1;9;Highly Urban/ Urban;06/03/22;complet;dev_express;[250 - 500[
+M;2000;176853613;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;7;4;Highly Urban/ Urban;19/01/22;complet;dev_premium;[250 - 500[
+F;2017;644084855;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Pickup;no;2;9;Highly Urban/ Urban;20/04/22;complet;dev_integral;[250 - 500[
+M;1966;384260663;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;1;1;Highly Urban/ Urban;24/05/22;complet;dev_express;[250 - 500[
+F;2002;499146382;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;8;1;Highly Urban/ Urban;26/03/22;complet;dev_express;[250 - 500[
+F;1947;689333016;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;1;8;Highly Urban/ Urban;23/03/22;complet;dev_integral;[250 - 500[
+M;1995;676851721;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Commercial;Panel Truck;yes;0;18;Highly Urban/ Urban;12/04/22;complet;dev_integral;[250 - 500[
+M;1994;236694687;FAUX;FAUX;[150000 - 200000[;[3500000 - 450000[;Private;Minivan;no;0;11;Highly Urban/ Urban;15/04/22;complet;dev_integral;[250 - 500[
+F;1955;835911747;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;Pickup;yes;1;6;Highly Urban/ Urban;20/04/22;complet;dev_express;[250 - 500[
+F;1952;509422467;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;0;1;z_Highly Rural/ Rural;02/05/22;complet;dev_integral;[250 - 500[
+F;1956;611510247;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Van;yes;6;1;Highly Urban/ Urban;21/05/22;complet;dev_express;[250 - 500[
+F;1999;197081473;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;0;;Highly Urban/ Urban;01/03/22;complet;dev_express;[250 - 500[
+F;1971;138592187;VRAI;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Minivan;no;3;7;Highly Urban/ Urban;10/05/22;complet;dev_premium;[250 - 500[
+F;1952;411237004;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Sports Car;no;1;10;Highly Urban/ Urban;06/03/22;complet;dev_integral;[250 - 500[
+F;2019;519192925;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;Minivan;no;0;1;z_Highly Rural/ Rural;26/05/22;complet;dev_integral;[250 - 500[
+F;2001;170076317;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Private;Sports Car;no;1;1;Highly Urban/ Urban;25/04/22;complet;dev_integral;[250 - 500[
+M;1963;145681147;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Commercial;z_SUV;no;0;1;z_Highly Rural/ Rural;29/05/22;complet;dev_premium;[250 - 500[
+M;2015;392248205;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Private;Sports Car;no;5;10;Highly Urban/ Urban;03/02/22;complet;dev_express;[250 - 500[
+M;1995;177789454;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Commercial;Minivan;no;0;8;Highly Urban/ Urban;16/05/22;complet;dev_express;[250 - 500[
+F;1965;2492782;VRAI;VRAI;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;1;10;Highly Urban/ Urban;15/05/22;complet;dev_express;[250 - 500[
+M;1949;551439869;FAUX;VRAI;[50000 - 100000[;[150000 - 200000[;Private;z_SUV;no;2;6;Highly Urban/ Urban;28/05/22;complet;dev_express;[250 - 500[
+F;1948;393974431;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Pickup;yes;2;11;z_Highly Rural/ Rural;27/03/22;complet;dev_integral;[250 - 500[
+M;1973;516800398;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;4;1;Highly Urban/ Urban;03/02/22;complet;dev_integral;[250 - 500[
+F;2015;128191180;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;Panel Truck;yes;4;8;Highly Urban/ Urban;06/05/22;complet;dev_premium;[500 - 750[
+F;2002;231755907;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Minivan;no;3;;z_Highly Rural/ Rural;12/05/22;complet;dev_premium;[250 - 500[
+F;1951;25687360;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Van;yes;1;13;Highly Urban/ Urban;15/01/22;complet;dev_integral;[250 - 500[
+M;2010;743700948;VRAI;VRAI;[0 - 25000[;[100000 - 150000[;Commercial;Pickup;yes;1;1;Highly Urban/ Urban;24/01/22;complet;dev_integral;[250 - 500[
+M;1974;357076092;FAUX;FAUX;[150000 - 200000[;[0 - 25000[;Private;Pickup;no;0;19;Highly Urban/ Urban;17/03/22;complet;dev_integral;[250 - 500[
+M;1931;36884131;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;1;9;z_Highly Rural/ Rural;29/03/22;complet;dev_integral;[250 - 500[
+M;2004;388006387;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Pickup;yes;0;;Highly Urban/ Urban;10/05/22;complet;dev_express;[250 - 500[
+F;1963;419431784;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;Minivan;no;0;15;Highly Urban/ Urban;14/03/22;complet;dev_express;[250 - 500[
+F;1948;295038062;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Private;Pickup;no;0;10;z_Highly Rural/ Rural;31/05/22;complet;dev_premium;[500 - 750[
+F;2017;516841345;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Private;z_SUV;no;0;7;Highly Urban/ Urban;10/05/22;complet;dev_integral;[250 - 500[
+F;1965;34307846;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Commercial;Pickup;no;0;1;Highly Urban/ Urban;14/05/22;complet;dev_express;[250 - 500[
+F;1937;4111322;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Commercial;Van;no;2;12;Highly Urban/ Urban;07/05/22;complet;dev_express;[250 - 500[
+F;1970;884884104;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Pickup;yes;1;1;z_Highly Rural/ Rural;17/05/22;complet;dev_integral;[250 - 500[
+M;1971;213259634;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Minivan;yes;0;8;Highly Urban/ Urban;17/03/22;complet;dev_integral;[250 - 500[
+F;1978;452504540;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Commercial;Van;yes;3;10;Highly Urban/ Urban;15/03/22;complet;dev_premium;[250 - 500[
+F;1971;807441869;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;Minivan;no;0;13;Highly Urban/ Urban;30/03/22;complet;dev_express;[250 - 500[
+F;1964;742034164;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;0;1;Highly Urban/ Urban;21/01/22;complet;dev_express;[250 - 500[
+M;1961;48637550;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Commercial;z_SUV;no;2;1;Highly Urban/ Urban;18/01/22;complet;dev_express;[250 - 500[
+F;2005;479595163;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Minivan;yes;1;17;Highly Urban/ Urban;19/04/22;complet;dev_integral;[250 - 500[
+M;1966;835999855;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Commercial;Pickup;yes;0;7;z_Highly Rural/ Rural;18/05/22;complet;dev_premium;[250 - 500[
+M;1967;867480848;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Minivan;no;0;21;Highly Urban/ Urban;04/04/22;complet;dev_express;[250 - 500[
+M;1968;502665994;FAUX;VRAI;[100000 - 150000[;[3500000 - 450000[;Private;Minivan;yes;0;8;Highly Urban/ Urban;25/03/22;complet;dev_integral;[250 - 500[
+F;1962;485229683;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;Minivan;no;7;1;Highly Urban/ Urban;23/03/22;complet;dev_integral;[250 - 500[
+F;1989;343648721;FAUX;FAUX;[100000 - 150000[;[250000 - 300000[;Commercial;Panel Truck;yes;0;11;Highly Urban/ Urban;25/03/22;complet;dev_express;[250 - 500[
+M;1994;60273479;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Minivan;yes;0;22;Highly Urban/ Urban;23/02/22;complet;dev_integral;[250 - 500[
+F;1940;740633679;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;z_SUV;no;4;10;Highly Urban/ Urban;08/04/22;complet;dev_premium;[500 - 750[
+M;1954;743998947;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;Minivan;no;0;;Highly Urban/ Urban;25/02/22;complet;dev_integral;[250 - 500[
+F;1955;114500328;FAUX;FAUX;[25000 - 50000[;[200000 - 250000[;Private;z_SUV;no;2;8;Highly Urban/ Urban;07/02/22;complet;dev_integral;[250 - 500[
+M;2019;391850857;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Commercial;Minivan;no;0;4;z_Highly Rural/ Rural;01/04/22;complet;dev_integral;[250 - 500[
+M;2007;663457593;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Minivan;no;3;;Highly Urban/ Urban;25/05/22;complet;dev_express;[250 - 500[
+F;1943;320732597;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;z_SUV;no;5;7;Highly Urban/ Urban;21/04/22;complet;dev_express;[250 - 500[
+F;1964;293903953;FAUX;FAUX;[0 - 25000[;[150000 - 200000[;Private;Minivan;yes;0;1;Highly Urban/ Urban;31/05/22;complet;dev_premium;[250 - 500[
+M;1991;516516525;FAUX;FAUX;[0 - 25000[;[200000 - 250000[;Commercial;Pickup;no;0;1;Highly Urban/ Urban;19/02/22;complet;dev_express;[250 - 500[
+F;1963;49270603;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;9;6;Highly Urban/ Urban;23/05/22;complet;dev_integral;[250 - 500[
+M;1939;720287832;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Commercial;Pickup;no;0;4;z_Highly Rural/ Rural;24/02/22;complet;dev_integral;[250 - 500[
+M;1941;864267558;FAUX;VRAI;[50000 - 100000[;[150000 - 200000[;Private;Sports Car;no;0;;Highly Urban/ Urban;28/05/22;complet;dev_express;[250 - 500[
+F;1946;745077613;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Minivan;no;0;9;Highly Urban/ Urban;18/05/22;complet;dev_express;[250 - 500[
+M;1969;777109731;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Panel Truck;yes;4;1;Highly Urban/ Urban;12/03/22;complet;dev_express;[250 - 500[
+M;1971;64160278;VRAI;VRAI;[50000 - 100000[;[0 - 25000[;Commercial;Pickup;yes;2;8;z_Highly Rural/ Rural;06/03/22;complet;dev_express;[250 - 500[
+M;1934;78001886;FAUX;FAUX;[0 - 25000[;[200000 - 250000[;Commercial;Pickup;yes;3;1;Highly Urban/ Urban;04/03/22;complet;dev_express;[250 - 500[
+M;1952;193990244;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Pickup;yes;2;13;z_Highly Rural/ Rural;10/05/22;complet;dev_premium;[250 - 500[
+M;1977;62540254;FAUX;VRAI;[0 - 25000[;[250000 - 300000[;Private;Pickup;yes;3;9;Highly Urban/ Urban;08/04/22;complet;dev_express;[250 - 500[
+F;1965;371281333;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;z_SUV;no;1;1;Highly Urban/ Urban;20/01/22;complet;dev_express;[250 - 500[
+F;1957;165284336;FAUX;VRAI;[0 - 25000[;[200000 - 250000[;Private;Minivan;yes;2;;z_Highly Rural/ Rural;06/01/22;complet;dev_express;[250 - 500[
+F;1987;290645855;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;2;8;z_Highly Rural/ Rural;07/01/22;complet;dev_integral;[250 - 500[
+F;1974;728339144;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Pickup;yes;1;1;Highly Urban/ Urban;04/05/22;complet;dev_express;[250 - 500[
+M;2018;814968257;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Private;Pickup;no;2;15;Highly Urban/ Urban;05/05/22;complet;dev_integral;[250 - 500[
+F;2019;625661744;VRAI;VRAI;[50000 - 100000[;[0 - 25000[;Private;Sports Car;no;7;18;Highly Urban/ Urban;14/03/22;complet;dev_express;[250 - 500[
+M;1935;87547542;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Minivan;no;2;12;Highly Urban/ Urban;13/02/22;complet;dev_express;[250 - 500[
+M;1937;243437891;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Minivan;yes;0;17;z_Highly Rural/ Rural;27/03/22;complet;dev_integral;[250 - 500[
+F;1967;649516446;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Sports Car;no;0;1;Highly Urban/ Urban;02/02/22;complet;dev_integral;[250 - 500[
+F;1940;607266323;VRAI;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;Panel Truck;yes;0;14;z_Highly Rural/ Rural;22/05/22;complet;dev_integral;[250 - 500[
+M;1965;695699363;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Sports Car;no;2;9;Highly Urban/ Urban;03/02/22;complet;dev_integral;[250 - 500[
+M;1996;748657017;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;3;7;Highly Urban/ Urban;17/04/22;complet;dev_express;[250 - 500[
+F;1955;820720747;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Sports Car;no;0;9;Highly Urban/ Urban;30/01/22;complet;dev_integral;[250 - 500[
+M;1951;587190700;FAUX;FAUX;[150000 - 200000[;[450000 - 500000[;Private;z_SUV;no;3;12;Highly Urban/ Urban;04/01/22;complet;dev_integral;[250 - 500[
+F;1994;383634053;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Private;Pickup;yes;2;11;z_Highly Rural/ Rural;20/02/22;complet;dev_premium;[250 - 500[
+M;1986;698385732;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;0;18;Highly Urban/ Urban;22/03/22;complet;dev_integral;[250 - 500[
+M;1952;301053392;FAUX;FAUX;[0 - 25000[;[500000 - 600000[;Private;Sports Car;no;0;20;Highly Urban/ Urban;14/04/22;complet;dev_integral;[250 - 500[
+M;1938;17589888;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;z_SUV;no;4;9;Highly Urban/ Urban;28/03/22;complet;dev_integral;[250 - 500[
+M;1978;326580221;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Commercial;z_SUV;no;0;5;Highly Urban/ Urban;15/01/22;complet;dev_integral;[250 - 500[
+M;1932;580424592;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Pickup;no;1;7;Highly Urban/ Urban;30/03/22;complet;dev_express;[250 - 500[
+M;2008;310412166;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Minivan;no;0;1;z_Highly Rural/ Rural;03/04/22;complet;dev_express;[250 - 500[
+M;2019;235241834;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Minivan;no;0;;Highly Urban/ Urban;11/04/22;complet;dev_integral;[250 - 500[
+F;1958;476315002;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Commercial;Panel Truck;yes;0;;Highly Urban/ Urban;18/05/22;complet;dev_integral;[250 - 500[
+M;1934;671176301;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Pickup;yes;4;1;Highly Urban/ Urban;02/04/22;complet;dev_integral;[250 - 500[
+M;2022;779411678;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Minivan;yes;0;19;Highly Urban/ Urban;09/03/22;complet;dev_express;[250 - 500[
+M;2006;148270885;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;0;10;Highly Urban/ Urban;13/04/22;complet;dev_integral;[250 - 500[
+M;1989;584910093;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Commercial;Van;yes;3;18;Highly Urban/ Urban;14/03/22;complet;dev_integral;[250 - 500[
+M;1972;747187792;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Minivan;no;1;10;Highly Urban/ Urban;12/05/22;complet;dev_express;[250 - 500[
+F;2000;560363901;FAUX;VRAI;[0 - 25000[;[150000 - 200000[;Private;Van;no;0;1;Highly Urban/ Urban;01/01/22;complet;dev_integral;[250 - 500[
+M;1998;565623226;VRAI;VRAI;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;4;16;Highly Urban/ Urban;25/05/22;complet;dev_express;[250 - 500[
+F;1967;348110971;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;0;9;Highly Urban/ Urban;16/05/22;complet;dev_express;[250 - 500[
+M;2010;262195665;VRAI;VRAI;[0 - 25000[;[100000 - 150000[;Private;Pickup;no;1;7;Highly Urban/ Urban;27/02/22;complet;dev_integral;[250 - 500[
+F;1938;454234699;FAUX;FAUX;[150000 - 200000[;[450000 - 500000[;Private;Pickup;no;0;15;Highly Urban/ Urban;09/03/22;complet;dev_integral;[250 - 500[
+M;1993;43541535;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;4;13;Highly Urban/ Urban;31/05/22;complet;dev_express;[250 - 500[
+F;1962;871138350;FAUX;FAUX;[150000 - 200000[;[450000 - 500000[;Private;Minivan;no;0;14;Highly Urban/ Urban;02/03/22;complet;dev_premium;[250 - 500[
+F;2002;809401959;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;Panel Truck;yes;0;24;Highly Urban/ Urban;24/04/22;complet;dev_premium;[500 - 750[
+F;1957;603008213;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Pickup;no;3;10;Highly Urban/ Urban;21/01/22;complet;dev_express;[250 - 500[
+F;1951;361529972;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;4;13;Highly Urban/ Urban;07/03/22;complet;dev_express;[250 - 500[
+F;2016;108871163;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;Pickup;yes;0;17;z_Highly Rural/ Rural;31/05/22;complet;dev_express;[250 - 500[
+M;1939;859326586;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Commercial;Van;yes;4;8;Highly Urban/ Urban;13/05/22;complet;dev_integral;[250 - 500[
+F;1960;539133258;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Pickup;yes;0;15;Highly Urban/ Urban;23/05/22;complet;dev_integral;[250 - 500[
+M;2007;591498464;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Minivan;no;1;10;Highly Urban/ Urban;11/05/22;complet;dev_express;[250 - 500[
+M;1967;5534462;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;Minivan;yes;3;1;Highly Urban/ Urban;05/04/22;complet;dev_integral;[250 - 500[
+M;1978;82817807;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;8;1;Highly Urban/ Urban;27/05/22;complet;dev_integral;[250 - 500[
+M;1969;782452935;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Private;Minivan;yes;2;1;Highly Urban/ Urban;20/04/22;complet;dev_premium;[250 - 500[
+M;1974;325514889;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Commercial;Panel Truck;yes;0;10;Highly Urban/ Urban;25/01/22;complet;dev_express;[250 - 500[
+M;1969;897791119;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Private;Minivan;yes;1;13;Highly Urban/ Urban;08/04/22;complet;dev_express;[250 - 500[
+M;1935;760001443;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Minivan;yes;0;7;z_Highly Rural/ Rural;18/02/22;complet;dev_integral;[250 - 500[
+F;1986;868158663;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Minivan;no;0;;Highly Urban/ Urban;12/01/22;complet;dev_integral;[250 - 500[
+M;1936;39261880;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;Sports Car;no;2;1;Highly Urban/ Urban;10/01/22;complet;dev_integral;[250 - 500[
+M;1932;410532557;VRAI;VRAI;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;1;5;Highly Urban/ Urban;10/05/22;complet;dev_premium;[250 - 500[
+M;1936;790162553;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;0;10;z_Highly Rural/ Rural;23/03/22;complet;dev_premium;[250 - 500[
+M;1961;839050570;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;5;3;Highly Urban/ Urban;19/02/22;complet;dev_integral;[250 - 500[
+M;1987;795403544;VRAI;VRAI;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;0;1;z_Highly Rural/ Rural;27/04/22;complet;dev_express;[250 - 500[
+F;1945;640063054;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Pickup;yes;0;1;Highly Urban/ Urban;23/04/22;complet;dev_express;[250 - 500[
+F;1974;498419889;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Commercial;Panel Truck;yes;5;10;Highly Urban/ Urban;21/05/22;complet;dev_integral;[250 - 500[
+M;2018;127975922;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;Van;yes;6;;Highly Urban/ Urban;06/01/22;complet;dev_express;[250 - 500[
+M;2020;430755142;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;0;14;Highly Urban/ Urban;08/04/22;complet;dev_integral;[250 - 500[
+F;1941;584847602;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;0;6;Highly Urban/ Urban;25/04/22;complet;dev_integral;[250 - 500[
+M;1938;600792931;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Sports Car;no;1;19;Highly Urban/ Urban;09/01/22;complet;dev_express;[250 - 500[
+M;1982;895816692;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Minivan;yes;2;6;z_Highly Rural/ Rural;05/02/22;complet;dev_integral;[250 - 500[
+M;1935;751986182;FAUX;FAUX;[150000 - 200000[;[450000 - 500000[;Private;Minivan;yes;2;14;Highly Urban/ Urban;01/03/22;complet;dev_integral;[250 - 500[
+M;1960;598048788;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;2;20;z_Highly Rural/ Rural;14/02/22;complet;dev_premium;[250 - 500[
+F;1993;28679593;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Commercial;Pickup;yes;7;7;Highly Urban/ Urban;13/02/22;complet;dev_integral;[250 - 500[
+M;1966;63940875;VRAI;VRAI;[0 - 25000[;[100000 - 150000[;Commercial;Pickup;yes;2;1;z_Highly Rural/ Rural;11/03/22;complet;dev_premium;[250 - 500[
+M;1965;592621633;VRAI;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;z_SUV;no;1;13;Highly Urban/ Urban;12/01/22;complet;dev_express;[250 - 500[
+F;1963;392163595;VRAI;VRAI;[0 - 25000[;[50000 - 100000[;Private;Minivan;no;0;13;Highly Urban/ Urban;10/03/22;complet;dev_integral;[250 - 500[
+M;1959;812688722;FAUX;FAUX;[250000 - 300000[;[600000+[;Commercial;Panel Truck;yes;0;6;Highly Urban/ Urban;10/05/22;complet;dev_express;[250 - 500[
+F;2013;866094902;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;z_SUV;no;3;1;Highly Urban/ Urban;11/01/22;complet;dev_premium;[250 - 500[
+M;1992;801432229;FAUX;FAUX;[0 - 25000[;[150000 - 200000[;Private;Sports Car;no;0;7;z_Highly Rural/ Rural;05/05/22;complet;dev_premium;[250 - 500[
+F;1966;221153642;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Minivan;yes;1;15;Highly Urban/ Urban;21/02/22;complet;dev_integral;[250 - 500[
+M;1970;853601474;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Van;yes;0;13;Highly Urban/ Urban;07/04/22;complet;dev_premium;[250 - 500[
+M;1954;174458282;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Minivan;no;2;7;Highly Urban/ Urban;07/02/22;complet;dev_integral;[250 - 500[
+F;2019;323268674;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Commercial;z_SUV;no;0;7;z_Highly Rural/ Rural;28/05/22;complet;dev_express;[250 - 500[
+M;1959;724445838;FAUX;FAUX;[50000 - 100000[;[300000 - 350000[;Private;Minivan;no;0;7;Highly Urban/ Urban;03/03/22;complet;dev_integral;[250 - 500[
+M;2000;839238420;FAUX;VRAI;[100000 - 150000[;[0 - 25000[;Private;Minivan;yes;0;16;Highly Urban/ Urban;07/02/22;complet;dev_integral;[250 - 500[
+F;1987;704857632;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;0;15;z_Highly Rural/ Rural;07/01/22;complet;dev_premium;[250 - 500[
+M;2017;890138977;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Minivan;no;0;7;Highly Urban/ Urban;26/02/22;complet;dev_premium;[250 - 500[
+M;2008;874132129;FAUX;FAUX;[150000 - 200000[;[450000 - 500000[;Private;Van;yes;0;18;Highly Urban/ Urban;07/04/22;complet;dev_integral;[250 - 500[
+F;1951;704043676;FAUX;FAUX;[150000 - 200000[;[0 - 25000[;Private;Sports Car;no;4;21;Highly Urban/ Urban;22/03/22;complet;dev_express;[250 - 500[
+F;2010;849162996;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;1;13;z_Highly Rural/ Rural;12/01/22;complet;dev_integral;[250 - 500[
+M;1968;157235318;VRAI;VRAI;[25000 - 50000[;[0 - 25000[;Private;Sports Car;no;0;11;Highly Urban/ Urban;10/03/22;complet;dev_integral;[250 - 500[
+F;2017;305951126;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Commercial;Sports Car;no;2;;Highly Urban/ Urban;11/02/22;complet;dev_integral;[250 - 500[
+F;1994;259788121;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Minivan;yes;2;;z_Highly Rural/ Rural;17/04/22;complet;dev_express;[250 - 500[
+M;1954;374407681;FAUX;VRAI;[0 - 25000[;[200000 - 250000[;Private;Minivan;yes;3;5;Highly Urban/ Urban;20/05/22;complet;dev_integral;[250 - 500[
+F;2005;67777019;FAUX;FAUX;[150000 - 200000[;[0 - 25000[;Commercial;Panel Truck;yes;0;17;z_Highly Rural/ Rural;08/01/22;complet;dev_express;[250 - 500[
+M;2005;724795699;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Sports Car;no;3;14;Highly Urban/ Urban;14/03/22;complet;dev_express;[250 - 500[
+M;2003;88812133;FAUX;FAUX;[100000 - 150000[;[250000 - 300000[;Private;Pickup;no;0;10;Highly Urban/ Urban;23/05/22;complet;dev_integral;[250 - 500[
+M;2004;595789914;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;Sports Car;no;1;11;Highly Urban/ Urban;09/04/22;complet;dev_integral;[250 - 500[
+M;2005;220646786;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Private;Van;no;0;18;Highly Urban/ Urban;28/04/22;complet;dev_integral;[250 - 500[
+M;2008;571565851;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Pickup;no;3;1;z_Highly Rural/ Rural;17/02/22;complet;dev_premium;[500 - 750[
+F;1960;482068236;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Minivan;no;2;11;Highly Urban/ Urban;16/04/22;complet;dev_express;[250 - 500[
+M;2012;818168377;FAUX;FAUX;[200000 - 250000[;[500000 - 600000[;Private;Minivan;no;0;13;Highly Urban/ Urban;14/04/22;complet;dev_express;[250 - 500[
+M;1985;297278900;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Minivan;yes;0;9;Highly Urban/ Urban;26/04/22;complet;dev_premium;[250 - 500[
+M;1977;727442017;FAUX;FAUX;[25000 - 50000[;[200000 - 250000[;Private;Sports Car;no;4;1;Highly Urban/ Urban;24/04/22;complet;dev_integral;[250 - 500[
+M;2004;411168218;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Pickup;yes;0;8;Highly Urban/ Urban;03/03/22;complet;dev_integral;[250 - 500[
+M;2020;72942372;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Minivan;yes;1;15;Highly Urban/ Urban;18/03/22;complet;dev_integral;[250 - 500[
+F;1931;597508612;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Sports Car;no;2;8;Highly Urban/ Urban;28/04/22;complet;dev_integral;[250 - 500[
+F;2007;516800411;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Commercial;Van;no;1;7;Highly Urban/ Urban;22/03/22;complet;dev_express;[250 - 500[
+F;2003;404169429;VRAI;VRAI;[50000 - 100000[;[0 - 25000[;Commercial;Pickup;no;4;10;Highly Urban/ Urban;08/02/22;complet;dev_integral;[250 - 500[
+F;1997;3872723;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Panel Truck;no;0;;z_Highly Rural/ Rural;08/02/22;complet;dev_integral;[250 - 500[
+F;1957;606015481;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;z_SUV;no;0;1;z_Highly Rural/ Rural;07/02/22;complet;dev_integral;[250 - 500[
+F;1950;424690041;FAUX;VRAI;[50000 - 100000[;[150000 - 200000[;Commercial;Pickup;no;2;1;Highly Urban/ Urban;22/03/22;complet;dev_express;[250 - 500[
+F;1940;509224532;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Commercial;Pickup;no;1;1;Highly Urban/ Urban;13/04/22;complet;dev_premium;[250 - 500[
+M;1956;395697449;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;4;1;Highly Urban/ Urban;16/02/22;complet;dev_premium;[250 - 500[
+F;2008;49773136;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;Minivan;yes;0;7;Highly Urban/ Urban;01/03/22;complet;dev_integral;[250 - 500[
+F;1993;450268732;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;0;1;z_Highly Rural/ Rural;17/01/22;complet;dev_integral;[250 - 500[
+M;1967;567002404;VRAI;VRAI;[0 - 25000[;[50000 - 100000[;Private;Minivan;yes;2;7;z_Highly Rural/ Rural;21/05/22;complet;dev_integral;[250 - 500[
+F;1976;787084843;FAUX;FAUX;[150000 - 200000[;[0 - 25000[;Private;Minivan;no;6;17;Highly Urban/ Urban;17/04/22;complet;dev_premium;[250 - 500[
+F;2004;48350660;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;0;1;Highly Urban/ Urban;13/02/22;complet;dev_integral;[250 - 500[
+M;1951;406666409;FAUX;VRAI;[100000 - 150000[;[300000 - 350000[;Private;Minivan;no;0;25;Highly Urban/ Urban;08/03/22;complet;dev_express;[250 - 500[
+M;1966;635434481;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Minivan;no;1;9;z_Highly Rural/ Rural;01/05/22;complet;dev_integral;[250 - 500[
+M;1996;159841737;FAUX;FAUX;[150000 - 200000[;[500000 - 600000[;Commercial;Pickup;no;0;16;Highly Urban/ Urban;10/02/22;complet;dev_integral;[250 - 500[
+F;1994;774299701;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Private;Sports Car;no;0;;Highly Urban/ Urban;17/03/22;complet;dev_integral;[250 - 500[
+M;1960;603932061;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Commercial;z_SUV;no;1;8;z_Highly Rural/ Rural;10/02/22;complet;dev_premium;[250 - 500[
+F;1964;541192715;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;z_SUV;no;0;1;Highly Urban/ Urban;16/01/22;complet;dev_integral;[250 - 500[
+M;1956;659719168;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Minivan;no;6;1;Highly Urban/ Urban;05/01/22;complet;dev_integral;[250 - 500[
+F;1982;423153717;VRAI;VRAI;[250000 - 300000[;[600000+[;Commercial;Panel Truck;no;0;18;Highly Urban/ Urban;11/01/22;complet;dev_vip;[750 - 1000[
+M;1968;609983170;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;z_SUV;no;0;1;Highly Urban/ Urban;11/03/22;complet;dev_integral;[250 - 500[
+F;1947;771679417;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;0;1;z_Highly Rural/ Rural;10/01/22;complet;dev_integral;[250 - 500[
+M;1969;514313322;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Van;yes;1;1;Highly Urban/ Urban;15/05/22;complet;dev_integral;[250 - 500[
+F;1953;390349045;VRAI;VRAI;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;2;6;z_Highly Rural/ Rural;03/01/22;complet;dev_integral;[250 - 500[
+F;1951;457701074;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;Minivan;yes;1;11;Highly Urban/ Urban;22/01/22;complet;dev_integral;[250 - 500[
+F;1945;279688148;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Pickup;no;1;4;Highly Urban/ Urban;03/04/22;complet;dev_premium;[250 - 500[
+F;1997;842075105;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Commercial;Pickup;yes;4;14;z_Highly Rural/ Rural;15/03/22;complet;dev_integral;[250 - 500[
+M;1949;541162021;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;Van;no;2;22;z_Highly Rural/ Rural;11/05/22;complet;dev_vip;[750 - 1000[
+M;1971;105253735;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Private;Minivan;no;5;16;Highly Urban/ Urban;20/02/22;complet;dev_premium;[500 - 750[
+M;1979;886348469;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Sports Car;no;0;6;Highly Urban/ Urban;07/03/22;complet;dev_integral;[250 - 500[
+M;1980;639992989;VRAI;VRAI;[100000 - 150000[;[300000 - 350000[;Commercial;Pickup;yes;4;18;Highly Urban/ Urban;11/04/22;complet;dev_integral;[250 - 500[
+M;1947;624581108;VRAI;VRAI;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;0;1;Highly Urban/ Urban;21/01/22;complet;dev_premium;[500 - 750[
+M;2017;30416806;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Minivan;yes;0;12;Highly Urban/ Urban;22/03/22;complet;dev_integral;[250 - 500[
+F;1972;32825043;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Commercial;Minivan;no;4;13;Highly Urban/ Urban;11/04/22;complet;dev_integral;[250 - 500[
+F;2014;549236369;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;2;1;Highly Urban/ Urban;17/01/22;complet;dev_integral;[250 - 500[
+M;2001;739583214;VRAI;VRAI;[100000 - 150000[;[300000 - 350000[;Private;z_SUV;no;4;15;Highly Urban/ Urban;08/04/22;complet;dev_integral;[250 - 500[
+F;2003;143689598;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Commercial;z_SUV;no;3;8;z_Highly Rural/ Rural;10/05/22;complet;dev_express;[250 - 500[
+M;1986;292027392;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;1;1;z_Highly Rural/ Rural;23/02/22;complet;dev_integral;[250 - 500[
+M;1956;585566160;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Pickup;no;1;1;z_Highly Rural/ Rural;02/04/22;complet;dev_express;[250 - 500[
+F;1979;427413253;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;Pickup;no;1;6;Highly Urban/ Urban;15/02/22;complet;dev_integral;[250 - 500[
+M;1943;385885946;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Minivan;yes;0;1;z_Highly Rural/ Rural;08/01/22;complet;dev_express;[250 - 500[
+M;1938;197802903;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;Pickup;no;4;16;Highly Urban/ Urban;24/03/22;complet;dev_integral;[250 - 500[
+F;1959;874280350;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;z_SUV;no;5;11;Highly Urban/ Urban;24/05/22;complet;dev_integral;[250 - 500[
+F;1991;863707928;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Minivan;yes;5;15;Highly Urban/ Urban;17/01/22;complet;dev_integral;[250 - 500[
+M;1953;749849089;VRAI;VRAI;[50000 - 100000[;[0 - 25000[;Commercial;z_SUV;no;3;1;Highly Urban/ Urban;17/03/22;complet;dev_integral;[250 - 500[
+M;1998;813496104;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Minivan;yes;0;1;z_Highly Rural/ Rural;18/03/22;complet;dev_integral;[250 - 500[
+F;2013;563884710;VRAI;VRAI;[25000 - 50000[;[0 - 25000[;Commercial;Van;no;1;5;Highly Urban/ Urban;05/01/22;complet;dev_express;[250 - 500[
+M;2002;234821273;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Commercial;Van;yes;0;5;Highly Urban/ Urban;13/05/22;complet;dev_premium;[250 - 500[
+M;1953;870471034;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Private;z_SUV;no;0;8;z_Highly Rural/ Rural;14/01/22;complet;dev_express;[250 - 500[
+F;1955;419649238;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Minivan;yes;1;1;Highly Urban/ Urban;16/01/22;complet;dev_premium;[250 - 500[
+F;1988;751408155;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Commercial;z_SUV;no;1;6;Highly Urban/ Urban;13/04/22;complet;dev_integral;[250 - 500[
+F;2019;835105242;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;0;11;Highly Urban/ Urban;09/03/22;complet;dev_express;[250 - 500[
+M;1957;560241180;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Minivan;yes;0;1;Highly Urban/ Urban;15/03/22;complet;dev_express;[250 - 500[
+M;1959;311503890;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Van;yes;2;8;z_Highly Rural/ Rural;07/02/22;complet;dev_integral;[250 - 500[
+M;1945;149220562;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Minivan;no;0;3;Highly Urban/ Urban;08/03/22;complet;dev_express;[250 - 500[
+F;1995;401796426;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Commercial;Pickup;yes;0;5;Highly Urban/ Urban;07/01/22;complet;dev_premium;[250 - 500[
+M;1977;31003815;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;Minivan;no;0;15;Highly Urban/ Urban;13/04/22;complet;dev_premium;[250 - 500[
+M;1943;850905345;FAUX;FAUX;[0 - 25000[;[150000 - 200000[;Private;Minivan;no;0;20;Highly Urban/ Urban;30/05/22;complet;dev_integral;[250 - 500[
+F;2018;338249480;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Pickup;yes;4;8;Highly Urban/ Urban;10/03/22;complet;dev_premium;[250 - 500[
+F;1982;844585678;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;1;8;Highly Urban/ Urban;02/05/22;complet;dev_express;[250 - 500[
+F;1973;823344699;FAUX;FAUX;[25000 - 50000[;[200000 - 250000[;Private;Pickup;yes;2;1;Highly Urban/ Urban;04/05/22;complet;dev_express;[250 - 500[
+M;2016;649061393;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Minivan;no;2;12;Highly Urban/ Urban;17/05/22;complet;dev_express;[250 - 500[
+M;1972;674246202;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Minivan;yes;0;11;Highly Urban/ Urban;25/04/22;complet;dev_express;[250 - 500[
+M;1989;437340949;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Private;Minivan;no;1;10;z_Highly Rural/ Rural;11/05/22;complet;dev_express;[250 - 500[
+M;1973;868337159;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;1;12;Highly Urban/ Urban;05/02/22;complet;dev_integral;[250 - 500[
+F;1963;121806312;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Minivan;no;6;1;z_Highly Rural/ Rural;03/03/22;complet;dev_express;[250 - 500[
+M;1963;356178667;VRAI;VRAI;[25000 - 50000[;[50000 - 100000[;Private;z_SUV;no;0;5;z_Highly Rural/ Rural;18/05/22;complet;dev_integral;[250 - 500[
+F;1982;503613231;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;Minivan;yes;0;9;z_Highly Rural/ Rural;25/02/22;complet;dev_integral;[250 - 500[
+M;1945;850866428;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Panel Truck;no;5;5;Highly Urban/ Urban;18/01/22;complet;dev_vip;[500 - 750[
+F;1967;868415964;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;Minivan;no;3;7;Highly Urban/ Urban;08/05/22;complet;dev_premium;[500 - 750[
+M;1958;210740302;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;0;5;Highly Urban/ Urban;19/02/22;complet;dev_express;[250 - 500[
+F;2018;466147392;FAUX;FAUX;[0 - 25000[;[250000 - 300000[;Commercial;Pickup;yes;6;3;Highly Urban/ Urban;10/01/22;complet;dev_express;[250 - 500[
+F;1953;98467172;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Minivan;no;1;1;z_Highly Rural/ Rural;30/03/22;complet;dev_express;[250 - 500[
+F;2002;755106723;VRAI;VRAI;[50000 - 100000[;[150000 - 200000[;Private;Van;yes;1;;Highly Urban/ Urban;07/05/22;complet;dev_express;[250 - 500[
+F;2011;750397296;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;Minivan;yes;0;1;Highly Urban/ Urban;20/05/22;complet;dev_express;[250 - 500[
+F;1972;572946425;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Commercial;Van;yes;3;21;Highly Urban/ Urban;07/05/22;complet;dev_integral;[250 - 500[
+M;1953;163274521;FAUX;FAUX;[25000 - 50000[;[200000 - 250000[;Commercial;z_SUV;no;0;1;Highly Urban/ Urban;04/04/22;complet;dev_premium;[250 - 500[
+F;2007;427226883;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Sports Car;no;0;10;Highly Urban/ Urban;04/03/22;complet;dev_express;[250 - 500[
+M;1954;674490321;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Panel Truck;yes;1;;Highly Urban/ Urban;11/02/22;complet;dev_integral;[250 - 500[
+F;1939;114133831;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Commercial;z_SUV;no;0;7;Highly Urban/ Urban;31/03/22;complet;dev_premium;[250 - 500[
+F;1955;376875217;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;Van;no;0;1;Highly Urban/ Urban;26/01/22;complet;dev_express;[250 - 500[
+M;1943;747328339;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Commercial;Sports Car;no;2;1;Highly Urban/ Urban;13/02/22;complet;dev_integral;[250 - 500[
+M;2017;670076292;FAUX;FAUX;[50000 - 100000[;[300000 - 350000[;Private;Pickup;no;0;17;Highly Urban/ Urban;15/01/22;complet;dev_premium;[250 - 500[
+M;2000;537660521;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Panel Truck;no;0;9;Highly Urban/ Urban;23/02/22;complet;dev_integral;[250 - 500[
+F;2001;597064208;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;0;15;Highly Urban/ Urban;21/03/22;complet;dev_integral;[250 - 500[
+M;1994;432710769;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Sports Car;no;0;11;Highly Urban/ Urban;29/04/22;complet;dev_integral;[250 - 500[
+M;1964;54444892;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;0;9;z_Highly Rural/ Rural;07/03/22;complet;dev_express;[250 - 500[
+M;1950;694733397;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;0;5;Highly Urban/ Urban;29/05/22;complet;dev_express;[250 - 500[
+M;1970;262763357;FAUX;VRAI;[0 - 25000[;[150000 - 200000[;Private;Minivan;yes;2;1;Highly Urban/ Urban;10/03/22;complet;dev_express;[250 - 500[
+M;1963;797428423;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Minivan;yes;2;11;Highly Urban/ Urban;08/02/22;complet;dev_express;[250 - 500[
+F;2006;122869085;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Van;no;8;11;Highly Urban/ Urban;11/04/22;complet;dev_integral;[250 - 500[
+M;1938;295603273;FAUX;FAUX;[0 - 25000[;[200000 - 250000[;Private;Van;no;0;9;Highly Urban/ Urban;26/05/22;complet;dev_integral;[250 - 500[
+M;2021;877318250;VRAI;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;z_SUV;no;4;6;Highly Urban/ Urban;18/04/22;complet;dev_express;[250 - 500[
+F;2020;511449416;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Pickup;no;0;17;Highly Urban/ Urban;19/02/22;complet;dev_express;[250 - 500[
+F;1994;758304051;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Sports Car;no;3;9;Highly Urban/ Urban;12/04/22;complet;dev_integral;[250 - 500[
+M;1959;759594853;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Commercial;Pickup;no;0;3;z_Highly Rural/ Rural;17/04/22;complet;dev_integral;[250 - 500[
+M;1956;273519359;FAUX;VRAI;[0 - 25000[;[150000 - 200000[;Private;Minivan;yes;4;7;Highly Urban/ Urban;23/03/22;complet;dev_integral;[250 - 500[
+M;1985;403569890;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;4;14;Highly Urban/ Urban;05/02/22;complet;dev_integral;[250 - 500[
+F;1963;36065125;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Private;Minivan;no;0;;Highly Urban/ Urban;26/03/22;complet;dev_premium;[250 - 500[
+F;1983;319223116;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;Van;no;3;10;Highly Urban/ Urban;18/04/22;complet;dev_integral;[250 - 500[
+M;2008;255797443;FAUX;FAUX;[0 - 25000[;[150000 - 200000[;Private;Minivan;yes;1;1;Highly Urban/ Urban;01/03/22;complet;dev_integral;[250 - 500[
+M;2008;617686834;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Sports Car;no;0;1;Highly Urban/ Urban;30/01/22;complet;dev_integral;[250 - 500[
+F;2014;800875026;FAUX;VRAI;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;6;1;z_Highly Rural/ Rural;02/02/22;complet;dev_express;[250 - 500[
+M;1967;698254645;VRAI;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;Minivan;yes;0;6;Highly Urban/ Urban;08/04/22;complet;dev_integral;[250 - 500[
+F;1959;289479845;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Panel Truck;yes;4;1;Highly Urban/ Urban;01/04/22;complet;dev_express;[250 - 500[
+M;2003;437092458;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;0;1;Highly Urban/ Urban;07/01/22;complet;dev_premium;[250 - 500[
+F;1962;288544853;FAUX;VRAI;[100000 - 150000[;[0 - 25000[;Private;z_SUV;no;3;14;Highly Urban/ Urban;06/05/22;complet;dev_integral;[250 - 500[
+M;2006;834423433;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Van;yes;2;9;Highly Urban/ Urban;26/05/22;complet;dev_premium;[500 - 750[
+M;1959;697957762;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;0;1;z_Highly Rural/ Rural;09/03/22;complet;dev_integral;[250 - 500[
+M;1966;581508666;VRAI;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Van;no;3;10;Highly Urban/ Urban;04/02/22;complet;dev_integral;[250 - 500[
+M;1956;461244907;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Commercial;Minivan;no;3;9;z_Highly Rural/ Rural;30/03/22;complet;dev_express;[250 - 500[
+M;1969;65326654;FAUX;FAUX;[25000 - 50000[;[200000 - 250000[;Private;Minivan;yes;0;1;z_Highly Rural/ Rural;05/01/22;complet;dev_integral;[250 - 500[
+M;1959;68733519;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Minivan;yes;0;8;Highly Urban/ Urban;13/03/22;complet;dev_express;[250 - 500[
+M;1957;25966357;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Commercial;z_SUV;no;0;12;z_Highly Rural/ Rural;13/04/22;complet;dev_integral;[250 - 500[
+M;1956;882891517;FAUX;VRAI;[100000 - 150000[;[3500000 - 450000[;Private;Minivan;no;1;14;Highly Urban/ Urban;03/05/22;complet;dev_express;[250 - 500[
+F;1950;219039640;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;5;5;Highly Urban/ Urban;10/03/22;complet;dev_express;[250 - 500[
+M;1994;800480787;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Commercial;z_SUV;no;0;8;Highly Urban/ Urban;19/03/22;complet;dev_integral;[250 - 500[
+M;2020;508612933;VRAI;VRAI;[0 - 25000[;[100000 - 150000[;Commercial;Pickup;no;3;9;Highly Urban/ Urban;12/05/22;complet;dev_integral;[250 - 500[
+M;1950;256907711;FAUX;FAUX;[25000 - 50000[;[200000 - 250000[;Private;z_SUV;no;4;3;Highly Urban/ Urban;19/04/22;complet;dev_express;[250 - 500[
+F;1995;330309052;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Minivan;yes;0;20;Highly Urban/ Urban;09/03/22;complet;dev_express;[250 - 500[
+M;1967;333390471;FAUX;FAUX;[200000 - 250000[;[0 - 25000[;Commercial;Panel Truck;yes;1;9;Highly Urban/ Urban;30/03/22;complet;dev_integral;[250 - 500[
+M;1985;46787385;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Pickup;no;2;6;Highly Urban/ Urban;17/01/22;complet;dev_integral;[250 - 500[
+F;1971;873324516;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Commercial;Pickup;no;7;1;Highly Urban/ Urban;14/04/22;complet;dev_express;[250 - 500[
+M;1964;79688405;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;Sports Car;no;1;8;Highly Urban/ Urban;07/04/22;complet;dev_premium;[250 - 500[
+F;1995;884591688;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Sports Car;yes;1;10;Highly Urban/ Urban;26/01/22;complet;dev_integral;[250 - 500[
+M;2007;718933292;FAUX;VRAI;[100000 - 150000[;[250000 - 300000[;Private;Minivan;no;2;16;Highly Urban/ Urban;26/01/22;complet;dev_integral;[250 - 500[
+F;1982;810313929;FAUX;FAUX;[100000 - 150000[;[250000 - 300000[;Private;z_SUV;no;2;11;Highly Urban/ Urban;15/03/22;complet;dev_integral;[250 - 500[
+F;1969;118244527;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;yes;0;17;Highly Urban/ Urban;30/05/22;complet;dev_integral;[250 - 500[
+M;2017;277773591;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Commercial;Pickup;yes;2;1;Highly Urban/ Urban;09/04/22;complet;dev_express;[250 - 500[
+F;1976;116982106;FAUX;FAUX;[25000 - 50000[;[200000 - 250000[;Private;Minivan;yes;0;8;Highly Urban/ Urban;21/05/22;complet;dev_premium;[250 - 500[
+M;2015;192581193;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Commercial;Pickup;yes;0;10;Highly Urban/ Urban;01/01/22;complet;dev_integral;[250 - 500[
+M;1932;22764995;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;2;15;Highly Urban/ Urban;24/02/22;complet;dev_express;[250 - 500[
+F;1996;98286969;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Private;Pickup;no;2;10;Highly Urban/ Urban;12/01/22;complet;dev_integral;[250 - 500[
+M;1952;654885179;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;0;1;Highly Urban/ Urban;14/01/22;complet;dev_integral;[250 - 500[
+F;1963;21969292;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Commercial;Pickup;no;1;7;z_Highly Rural/ Rural;02/02/22;complet;dev_integral;[250 - 500[
+M;1974;696967666;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;Minivan;yes;2;14;Highly Urban/ Urban;10/04/22;complet;dev_integral;[250 - 500[
+M;2009;160645044;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;4;5;Highly Urban/ Urban;28/05/22;complet;dev_integral;[250 - 500[
+M;1988;165812466;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Minivan;yes;1;1;Highly Urban/ Urban;19/05/22;complet;dev_integral;[250 - 500[
+F;1972;331401624;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Minivan;yes;0;9;Highly Urban/ Urban;05/03/22;complet;dev_integral;[250 - 500[
+M;1953;442312162;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;Pickup;no;3;16;Highly Urban/ Urban;04/01/22;complet;dev_express;[250 - 500[
+M;1995;349227282;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;Van;yes;2;9;Highly Urban/ Urban;23/04/22;complet;dev_integral;[250 - 500[
+M;1953;276108809;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;2;16;Highly Urban/ Urban;19/01/22;complet;dev_integral;[250 - 500[
+M;1963;8360326;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Pickup;no;0;19;Highly Urban/ Urban;14/05/22;complet;dev_integral;[250 - 500[
+M;1958;20592819;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Pickup;no;4;4;Highly Urban/ Urban;22/02/22;complet;dev_integral;[250 - 500[
+F;1994;105846803;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Panel Truck;no;0;17;Highly Urban/ Urban;24/02/22;complet;dev_integral;[250 - 500[
+M;1959;338374691;FAUX;VRAI;[0 - 25000[;[300000 - 350000[;Commercial;Panel Truck;no;0;12;Highly Urban/ Urban;26/05/22;complet;dev_express;[250 - 500[
+F;1982;611076848;FAUX;VRAI;[100000 - 150000[;[300000 - 350000[;Commercial;z_SUV;no;1;1;z_Highly Rural/ Rural;14/01/22;complet;dev_integral;[250 - 500[
+M;1959;432905762;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Minivan;no;1;16;z_Highly Rural/ Rural;06/01/22;complet;dev_premium;[250 - 500[
+F;2017;557457421;VRAI;VRAI;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;3;22;Highly Urban/ Urban;21/01/22;complet;dev_integral;[250 - 500[
+M;1978;824975651;FAUX;FAUX;[150000 - 200000[;[3500000 - 450000[;Private;Minivan;yes;2;12;Highly Urban/ Urban;12/04/22;complet;dev_integral;[250 - 500[
+M;1973;866380050;FAUX;FAUX;[150000 - 200000[;[450000 - 500000[;Private;Minivan;no;1;15;Highly Urban/ Urban;05/01/22;complet;dev_premium;[250 - 500[
+M;1960;809577581;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Commercial;Pickup;no;1;11;Highly Urban/ Urban;10/01/22;complet;dev_integral;[250 - 500[
+F;1961;679971383;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Minivan;no;0;1;z_Highly Rural/ Rural;08/04/22;complet;dev_premium;[250 - 500[
+M;1961;327822562;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Pickup;yes;3;15;Highly Urban/ Urban;30/03/22;complet;dev_integral;[250 - 500[
+M;1945;66788442;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;Panel Truck;yes;0;16;Highly Urban/ Urban;12/04/22;complet;dev_express;[250 - 500[
+F;1942;286972426;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;Minivan;yes;1;1;Highly Urban/ Urban;15/03/22;complet;dev_integral;[250 - 500[
+F;1941;169069735;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;4;1;Highly Urban/ Urban;12/03/22;complet;dev_integral;[250 - 500[
+M;1959;179233018;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Pickup;no;1;17;Highly Urban/ Urban;14/03/22;complet;dev_integral;[250 - 500[
+M;1938;638384926;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Van;yes;0;13;Highly Urban/ Urban;09/01/22;complet;dev_integral;[250 - 500[
+M;1968;327704129;FAUX;FAUX;[0 - 25000[;[200000 - 250000[;Commercial;z_SUV;no;1;7;Highly Urban/ Urban;27/02/22;complet;dev_express;[250 - 500[
+F;1954;142061780;VRAI;VRAI;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;0;10;Highly Urban/ Urban;02/02/22;complet;dev_premium;[250 - 500[
+M;1954;306642924;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Sports Car;no;0;1;Highly Urban/ Urban;06/03/22;complet;dev_express;[250 - 500[
+M;1966;687215618;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;Minivan;yes;0;12;Highly Urban/ Urban;06/01/22;complet;dev_express;[250 - 500[
+F;1987;105561772;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;0;9;Highly Urban/ Urban;03/04/22;complet;dev_integral;[250 - 500[
+F;1963;61598071;FAUX;VRAI;[100000 - 150000[;[3500000 - 450000[;Private;Minivan;no;0;10;Highly Urban/ Urban;30/04/22;complet;dev_integral;[250 - 500[
+M;1939;555568790;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Pickup;no;0;13;Highly Urban/ Urban;19/03/22;complet;dev_integral;[250 - 500[
+F;1936;97036649;FAUX;FAUX;[25000 - 50000[;[200000 - 250000[;Private;Minivan;yes;0;9;z_Highly Rural/ Rural;24/01/22;complet;dev_express;[250 - 500[
+F;1963;549794432;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Minivan;yes;0;1;Highly Urban/ Urban;23/02/22;complet;dev_integral;[250 - 500[
+M;1961;409641343;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Commercial;Sports Car;no;7;8;Highly Urban/ Urban;17/05/22;complet;dev_integral;[250 - 500[
+F;1997;699860092;FAUX;FAUX;[0 - 25000[;[150000 - 200000[;Private;Van;no;4;1;Highly Urban/ Urban;06/03/22;complet;dev_express;[250 - 500[
+F;2011;241161003;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;Pickup;no;1;1;Highly Urban/ Urban;13/03/22;complet;dev_integral;[250 - 500[
+M;2019;173273912;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Commercial;z_SUV;no;0;10;Highly Urban/ Urban;10/02/22;complet;dev_premium;[250 - 500[
+F;1957;558222668;FAUX;FAUX;[0 - 25000[;[3500000 - 450000[;Private;z_SUV;no;0;16;Highly Urban/ Urban;16/01/22;complet;dev_integral;[250 - 500[
+M;1969;613151640;FAUX;FAUX;[25000 - 50000[;[50000 - 100000[;Commercial;Panel Truck;yes;6;11;Highly Urban/ Urban;19/05/22;complet;dev_express;[250 - 500[
+M;1950;307274481;FAUX;VRAI;[150000 - 200000[;[450000 - 500000[;Private;z_SUV;no;2;18;Highly Urban/ Urban;18/04/22;complet;dev_express;[250 - 500[
+M;1959;820891064;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Commercial;z_SUV;no;2;5;z_Highly Rural/ Rural;13/01/22;complet;dev_integral;[250 - 500[
+M;1973;864371140;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Panel Truck;yes;0;1;Highly Urban/ Urban;28/05/22;complet;dev_integral;[250 - 500[
+F;1977;37349796;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Panel Truck;yes;0;15;Highly Urban/ Urban;28/03/22;complet;dev_express;[250 - 500[
+F;1943;404030182;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Private;Minivan;no;1;3;Highly Urban/ Urban;15/03/22;complet;dev_integral;[250 - 500[
+M;1963;486299866;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Pickup;yes;0;7;Highly Urban/ Urban;10/03/22;complet;dev_integral;[250 - 500[
+M;1950;472716288;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;4;5;z_Highly Rural/ Rural;20/01/22;complet;dev_express;[250 - 500[
+F;1964;48570794;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;Minivan;yes;0;22;Highly Urban/ Urban;09/04/22;complet;dev_integral;[250 - 500[
+M;1994;803182865;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Pickup;no;1;21;Highly Urban/ Urban;05/03/22;complet;dev_premium;[250 - 500[
+M;2011;473451845;VRAI;VRAI;[50000 - 100000[;[250000 - 300000[;Commercial;Van;yes;0;14;Highly Urban/ Urban;09/04/22;complet;dev_premium;[250 - 500[
+F;1965;277171031;VRAI;VRAI;[25000 - 50000[;[0 - 25000[;Private;Pickup;no;5;1;Highly Urban/ Urban;16/02/22;complet;dev_integral;[250 - 500[
+M;1947;788177263;FAUX;VRAI;[0 - 25000[;[100000 - 150000[;Commercial;Minivan;yes;6;10;Highly Urban/ Urban;06/04/22;complet;dev_integral;[250 - 500[
+F;1957;669167157;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Van;no;4;11;Highly Urban/ Urban;23/03/22;complet;dev_express;[250 - 500[
+F;1950;715883468;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Private;z_SUV;no;3;1;Highly Urban/ Urban;25/01/22;complet;dev_express;[250 - 500[
+F;2000;441089072;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Commercial;z_SUV;no;1;7;Highly Urban/ Urban;21/01/22;complet;dev_express;[250 - 500[
+M;1955;691692246;FAUX;VRAI;[100000 - 150000[;[3500000 - 450000[;Private;Minivan;no;8;15;Highly Urban/ Urban;27/01/22;complet;dev_integral;[250 - 500[
+M;1947;52605999;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Commercial;z_SUV;no;9;1;Highly Urban/ Urban;22/04/22;complet;dev_integral;[250 - 500[
+M;1956;621974915;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;z_SUV;no;0;17;Highly Urban/ Urban;13/03/22;complet;dev_express;[250 - 500[
+F;1963;712041400;FAUX;FAUX;[150000 - 200000[;[450000 - 500000[;Commercial;Van;no;4;8;Highly Urban/ Urban;15/01/22;complet;dev_premium;[250 - 500[
+F;2022;24333854;FAUX;FAUX;[0 - 25000[;[250000 - 300000[;Private;Minivan;no;3;15;Highly Urban/ Urban;24/02/22;complet;dev_express;[250 - 500[
+F;1965;852625927;FAUX;FAUX;[50000 - 100000[;[3500000 - 450000[;Private;Minivan;no;0;1;Highly Urban/ Urban;27/03/22;complet;dev_integral;[250 - 500[
+M;1962;430157045;FAUX;FAUX;[25000 - 50000[;[200000 - 250000[;Commercial;Van;yes;0;10;Highly Urban/ Urban;02/04/22;complet;dev_express;[250 - 500[
+F;2001;47998199;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;Minivan;yes;1;1;Highly Urban/ Urban;18/02/22;complet;dev_integral;[250 - 500[
+M;1945;541737208;VRAI;VRAI;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;2;7;Highly Urban/ Urban;17/04/22;complet;dev_integral;[250 - 500[
+F;1983;366401486;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Commercial;Pickup;no;3;;z_Highly Rural/ Rural;20/05/22;complet;dev_express;[250 - 500[
+F;2009;553462575;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;0;1;z_Highly Rural/ Rural;29/01/22;complet;dev_integral;[250 - 500[
+M;1981;809121027;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;3;7;Highly Urban/ Urban;01/05/22;complet;dev_express;[250 - 500[
+M;2006;697658459;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;4;1;Highly Urban/ Urban;02/05/22;complet;dev_premium;[250 - 500[
+F;1961;65238003;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Van;yes;4;17;Highly Urban/ Urban;22/04/22;complet;dev_express;[250 - 500[
+M;1956;878524713;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;7;18;Highly Urban/ Urban;24/01/22;complet;dev_integral;[250 - 500[
+M;2007;159410425;FAUX;FAUX;[150000 - 200000[;[3500000 - 450000[;Private;Pickup;no;0;9;Highly Urban/ Urban;23/02/22;complet;dev_premium;[500 - 750[
+F;1961;533746473;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Van;yes;4;1;Highly Urban/ Urban;22/05/22;complet;dev_premium;[250 - 500[
+F;1978;788000253;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;0;1;Highly Urban/ Urban;17/03/22;complet;dev_vip;[750 - 1000[
+F;2011;829182683;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Panel Truck;yes;0;10;Highly Urban/ Urban;04/04/22;complet;dev_express;[250 - 500[
+M;2001;407253838;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;Minivan;no;4;4;z_Highly Rural/ Rural;01/05/22;complet;dev_integral;[250 - 500[
+F;1936;297147624;FAUX;VRAI;[0 - 25000[;[100000 - 150000[;Commercial;Panel Truck;yes;4;6;Highly Urban/ Urban;02/05/22;complet;dev_integral;[250 - 500[
+F;1997;490999151;VRAI;VRAI;[100000 - 150000[;[0 - 25000[;Commercial;Pickup;no;0;7;z_Highly Rural/ Rural;28/03/22;complet;dev_integral;[250 - 500[
+F;1981;767969888;FAUX;FAUX;[150000 - 200000[;[0 - 25000[;Commercial;Panel Truck;yes;1;12;Highly Urban/ Urban;19/05/22;complet;dev_integral;[250 - 500[
+M;1969;806345546;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Private;Van;no;0;6;Highly Urban/ Urban;14/05/22;complet;dev_express;[250 - 500[
+F;1942;442290374;FAUX;VRAI;[100000 - 150000[;[0 - 25000[;Private;z_SUV;no;0;13;Highly Urban/ Urban;06/05/22;complet;dev_premium;[500 - 750[
+M;1964;414227629;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Pickup;no;2;10;Highly Urban/ Urban;25/04/22;complet;dev_premium;[250 - 500[
+F;1991;683932927;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;6;13;Highly Urban/ Urban;18/03/22;complet;dev_premium;[250 - 500[
+F;1985;588371887;FAUX;FAUX;[200000 - 250000[;[500000 - 600000[;Private;Minivan;no;0;17;Highly Urban/ Urban;15/04/22;complet;dev_integral;[250 - 500[
+F;1955;599428160;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Commercial;Pickup;no;0;9;Highly Urban/ Urban;20/01/22;complet;dev_premium;[250 - 500[
+F;2008;415973359;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;z_SUV;no;4;9;Highly Urban/ Urban;14/03/22;complet;dev_vip;[750 - 1000[
+M;1933;347197195;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;Sports Car;no;3;12;Highly Urban/ Urban;08/01/22;complet;dev_express;[250 - 500[
+F;1946;175685252;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;Sports Car;no;0;6;Highly Urban/ Urban;21/04/22;complet;dev_integral;[250 - 500[
+F;1936;371041044;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Private;z_SUV;no;4;;Highly Urban/ Urban;19/02/22;complet;dev_premium;[500 - 750[
+M;1935;27830274;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Commercial;Panel Truck;yes;2;8;Highly Urban/ Urban;04/04/22;complet;dev_integral;[250 - 500[
+M;1983;811644990;VRAI;VRAI;[100000 - 150000[;[200000 - 250000[;Private;z_SUV;no;4;6;z_Highly Rural/ Rural;17/01/22;complet;dev_premium;[250 - 500[
+F;1982;577955000;FAUX;FAUX;[150000 - 200000[;[0 - 25000[;Commercial;Panel Truck;no;5;12;Highly Urban/ Urban;14/01/22;complet;dev_express;[250 - 500[
+M;1965;503204225;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Commercial;Van;no;4;13;Highly Urban/ Urban;01/02/22;complet;dev_integral;[250 - 500[
+F;1961;761421915;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;0;1;Highly Urban/ Urban;03/04/22;complet;dev_integral;[250 - 500[
+F;1960;592346882;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;Minivan;no;5;15;z_Highly Rural/ Rural;25/02/22;complet;dev_integral;[250 - 500[
+M;2013;804224311;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;0;5;Highly Urban/ Urban;14/05/22;complet;dev_express;[250 - 500[
+M;1979;712522923;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Pickup;no;2;1;Highly Urban/ Urban;01/02/22;complet;dev_express;[250 - 500[
+F;2016;648721649;FAUX;FAUX;[150000 - 200000[;[0 - 25000[;Private;Minivan;yes;1;16;Highly Urban/ Urban;09/02/22;complet;dev_premium;[250 - 500[
+M;1943;124966076;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Pickup;yes;3;9;Highly Urban/ Urban;13/01/22;complet;dev_integral;[250 - 500[
+M;1972;119688559;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;0;8;Highly Urban/ Urban;14/05/22;complet;dev_express;[250 - 500[
+F;1968;54678041;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;3;;Highly Urban/ Urban;27/01/22;complet;dev_premium;[250 - 500[
+M;1974;458284946;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Van;no;0;7;Highly Urban/ Urban;03/01/22;complet;dev_integral;[250 - 500[
+M;1941;527209535;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Pickup;no;4;7;Highly Urban/ Urban;26/03/22;complet;dev_integral;[250 - 500[
+F;1933;494180668;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Private;Minivan;no;0;10;Highly Urban/ Urban;07/03/22;complet;dev_integral;[250 - 500[
+M;1960;108846110;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;z_SUV;no;0;7;Highly Urban/ Urban;01/03/22;complet;dev_integral;[250 - 500[
+M;1957;236227538;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;z_SUV;yes;0;13;Highly Urban/ Urban;04/05/22;complet;dev_integral;[250 - 500[
+F;2012;885959914;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;z_SUV;no;0;12;Highly Urban/ Urban;04/02/22;complet;dev_express;[250 - 500[
+M;1935;253325981;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Pickup;yes;6;9;Highly Urban/ Urban;26/04/22;complet;dev_premium;[250 - 500[
+F;1969;121501725;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Minivan;no;1;7;Highly Urban/ Urban;02/01/22;complet;dev_integral;[250 - 500[
+M;1963;602565101;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Minivan;no;7;22;Highly Urban/ Urban;26/03/22;complet;dev_integral;[250 - 500[
+M;1969;112208112;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Van;yes;3;1;Highly Urban/ Urban;16/01/22;complet;dev_integral;[250 - 500[
+F;1942;777296994;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Sports Car;no;0;;Highly Urban/ Urban;26/05/22;complet;dev_integral;[250 - 500[
+M;1936;686552762;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;Pickup;yes;0;1;Highly Urban/ Urban;24/03/22;complet;dev_express;[250 - 500[
+M;1970;109855110;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Private;Sports Car;no;2;1;z_Highly Rural/ Rural;20/04/22;complet;dev_express;[250 - 500[
+M;1976;3288765;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Pickup;yes;0;9;Highly Urban/ Urban;11/05/22;complet;dev_integral;[250 - 500[
+M;1968;281068703;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Minivan;no;0;10;Highly Urban/ Urban;13/01/22;complet;dev_express;[250 - 500[
+F;1971;700917736;FAUX;FAUX;[50000 - 100000[;[300000 - 350000[;Private;Minivan;yes;2;9;Highly Urban/ Urban;21/03/22;complet;dev_express;[250 - 500[
+F;1982;174474987;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Private;Minivan;no;0;11;z_Highly Rural/ Rural;18/01/22;complet;dev_express;[250 - 500[
+F;1956;131165114;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;z_SUV;no;1;1;Highly Urban/ Urban;13/04/22;complet;dev_express;[250 - 500[
+F;1947;183214799;FAUX;FAUX;[0 - 25000[;[200000 - 250000[;Commercial;Pickup;no;0;15;Highly Urban/ Urban;24/04/22;complet;dev_express;[250 - 500[
+M;1961;469063685;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Pickup;no;4;7;Highly Urban/ Urban;10/02/22;complet;dev_premium;[500 - 750[
+F;1950;19994514;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Minivan;yes;0;1;z_Highly Rural/ Rural;28/02/22;complet;dev_integral;[250 - 500[
+M;1957;857134075;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Pickup;no;0;8;z_Highly Rural/ Rural;05/02/22;complet;dev_express;[250 - 500[
+M;1945;255411733;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Pickup;no;1;9;Highly Urban/ Urban;27/03/22;complet;dev_express;[250 - 500[
+F;1987;63516855;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;2;7;z_Highly Rural/ Rural;05/01/22;complet;dev_express;[250 - 500[
+M;1968;654746811;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Minivan;no;2;14;Highly Urban/ Urban;03/05/22;complet;dev_express;[250 - 500[
+M;1998;740882950;FAUX;FAUX;[25000 - 50000[;[200000 - 250000[;Commercial;z_SUV;yes;0;1;Highly Urban/ Urban;26/03/22;complet;dev_express;[250 - 500[
+F;1942;337562769;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Panel Truck;no;1;15;Highly Urban/ Urban;31/01/22;complet;dev_express;[250 - 500[
+F;1960;818313490;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Minivan;no;1;20;Highly Urban/ Urban;30/04/22;complet;dev_express;[250 - 500[
+F;2022;799618467;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Commercial;Panel Truck;no;0;13;Highly Urban/ Urban;04/02/22;complet;dev_premium;[500 - 750[
+M;1943;697546214;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Private;Sports Car;no;4;9;z_Highly Rural/ Rural;20/01/22;complet;dev_integral;[250 - 500[
+F;1964;500150879;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Private;Minivan;yes;0;19;Highly Urban/ Urban;22/03/22;complet;dev_integral;[250 - 500[
+M;1951;113520218;FAUX;VRAI;[0 - 25000[;[100000 - 150000[;Private;Sports Car;no;0;13;Highly Urban/ Urban;31/05/22;complet;dev_premium;[250 - 500[
+M;1982;510024088;FAUX;FAUX;[0 - 25000[;[200000 - 250000[;Commercial;Sports Car;no;4;1;Highly Urban/ Urban;05/01/22;complet;dev_integral;[250 - 500[
+F;1972;318740675;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;Sports Car;yes;10;0;Highly Urban/ Urban;23/04/22;complet;dev_express;[250 - 500[
+F;1992;61676539;FAUX;FAUX;[50000 - 100000[;[300000 - 350000[;Private;z_SUV;no;0;1;z_Highly Rural/ Rural;02/05/22;complet;dev_express;[250 - 500[
+F;2012;494561878;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Minivan;yes;0;10;Highly Urban/ Urban;11/04/22;complet;dev_integral;[250 - 500[
+M;1990;872510058;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;4;1;Highly Urban/ Urban;04/02/22;complet;dev_express;[250 - 500[
+F;1971;723021049;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Private;Minivan;no;0;1;z_Highly Rural/ Rural;22/01/22;complet;dev_vip;[750 - 1000[
+M;1983;149296445;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Minivan;yes;2;11;Highly Urban/ Urban;18/03/22;complet;dev_express;[250 - 500[
+F;1970;887761914;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Pickup;no;0;6;Highly Urban/ Urban;08/02/22;complet;dev_integral;[250 - 500[
+M;1999;452170173;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Commercial;z_SUV;no;0;8;z_Highly Rural/ Rural;21/02/22;complet;dev_express;[250 - 500[
+F;1998;517316152;FAUX;FAUX;[100000 - 150000[;[250000 - 300000[;Commercial;Van;yes;2;;Highly Urban/ Urban;13/01/22;complet;dev_integral;[250 - 500[
+F;1994;527122376;VRAI;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Pickup;yes;0;11;Highly Urban/ Urban;20/05/22;complet;dev_express;[250 - 500[
+M;1951;105299722;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Commercial;Pickup;no;2;1;Highly Urban/ Urban;19/02/22;complet;dev_express;[250 - 500[
+F;2009;132150275;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;Pickup;yes;0;1;Highly Urban/ Urban;13/04/22;complet;dev_premium;[500 - 750[
+F;1971;337544720;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;z_SUV;no;0;8;z_Highly Rural/ Rural;25/03/22;complet;dev_integral;[250 - 500[
+F;1999;682541093;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Sports Car;no;1;17;Highly Urban/ Urban;08/05/22;complet;dev_express;[250 - 500[
+M;1955;716820438;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Commercial;z_SUV;no;3;8;Highly Urban/ Urban;08/01/22;complet;dev_express;[250 - 500[
+F;1942;307035795;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Pickup;yes;2;1;z_Highly Rural/ Rural;20/02/22;complet;dev_integral;[250 - 500[
+F;1979;35256541;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;Sports Car;no;1;6;Highly Urban/ Urban;17/02/22;complet;dev_integral;[250 - 500[
+M;1971;238096266;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Private;Minivan;no;0;9;Highly Urban/ Urban;24/01/22;complet;dev_integral;[250 - 500[
+F;1947;168659188;VRAI;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Sports Car;no;4;14;Highly Urban/ Urban;23/05/22;complet;dev_integral;[250 - 500[
+M;1955;75996505;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;z_SUV;no;0;11;Highly Urban/ Urban;12/05/22;complet;dev_express;[250 - 500[
+M;1940;135677458;VRAI;VRAI;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;0;6;Highly Urban/ Urban;25/02/22;complet;dev_integral;[250 - 500[
+F;1963;585841291;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Private;Minivan;yes;0;;Highly Urban/ Urban;20/05/22;complet;dev_express;[250 - 500[
+F;1950;548586856;FAUX;VRAI;[150000 - 200000[;[0 - 25000[;Commercial;Panel Truck;yes;0;7;Highly Urban/ Urban;22/02/22;complet;dev_premium;[250 - 500[
+F;2001;487757887;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Private;Minivan;yes;0;6;Highly Urban/ Urban;23/02/22;complet;dev_express;[250 - 500[
+M;2019;213324803;FAUX;VRAI;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;1;1;Highly Urban/ Urban;28/03/22;complet;dev_premium;[500 - 750[
+F;1972;114431739;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;z_SUV;no;0;7;z_Highly Rural/ Rural;02/05/22;complet;dev_express;[250 - 500[
+F;1968;324355066;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;6;4;Highly Urban/ Urban;20/03/22;complet;dev_integral;[250 - 500[
+M;2011;447078305;FAUX;VRAI;[0 - 25000[;[150000 - 200000[;Commercial;z_SUV;no;4;10;Highly Urban/ Urban;23/04/22;complet;dev_integral;[250 - 500[
+M;1947;46082367;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Minivan;yes;11;7;Highly Urban/ Urban;11/04/22;complet;dev_express;[250 - 500[
+M;1977;709065380;FAUX;FAUX;[25000 - 50000[;[200000 - 250000[;Commercial;Van;no;1;12;Highly Urban/ Urban;23/04/22;complet;dev_premium;[250 - 500[
+M;1973;762868720;FAUX;FAUX;[0 - 25000[;[150000 - 200000[;Commercial;Panel Truck;no;0;1;z_Highly Rural/ Rural;13/04/22;complet;dev_express;[250 - 500[
+M;2015;300901141;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Pickup;yes;2;10;z_Highly Rural/ Rural;26/03/22;complet;dev_integral;[250 - 500[
+F;1974;844341077;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Panel Truck;yes;0;6;Highly Urban/ Urban;28/02/22;complet;dev_integral;[250 - 500[
+F;1951;583619217;FAUX;FAUX;[150000 - 200000[;[0 - 25000[;Private;Minivan;no;0;;Highly Urban/ Urban;18/03/22;complet;dev_integral;[250 - 500[
+M;1968;608650791;VRAI;VRAI;[50000 - 100000[;[0 - 25000[;Commercial;Minivan;no;4;1;Highly Urban/ Urban;17/02/22;complet;dev_express;[250 - 500[
+M;1945;137862659;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Minivan;no;4;10;Highly Urban/ Urban;23/02/22;complet;dev_premium;[250 - 500[
+F;1950;313881069;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;Minivan;no;0;;Highly Urban/ Urban;23/01/22;complet;dev_integral;[250 - 500[
+M;1998;571192463;FAUX;VRAI;[0 - 25000[;[100000 - 150000[;Private;Minivan;yes;0;;Highly Urban/ Urban;03/05/22;complet;dev_integral;[250 - 500[
+M;1957;36034018;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Van;yes;1;12;Highly Urban/ Urban;17/01/22;complet;dev_premium;[500 - 750[
+M;1978;346792739;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;z_SUV;no;1;1;Highly Urban/ Urban;17/05/22;complet;dev_integral;[250 - 500[
+F;2009;533724157;VRAI;VRAI;[100000 - 150000[;[300000 - 350000[;Commercial;Panel Truck;yes;3;1;Highly Urban/ Urban;08/02/22;complet;dev_premium;[250 - 500[
+M;1968;874157362;FAUX;VRAI;[25000 - 50000[;[200000 - 250000[;Private;z_SUV;no;0;8;Highly Urban/ Urban;06/01/22;complet;dev_express;[250 - 500[
+F;1960;609748673;FAUX;FAUX;[150000 - 200000[;[0 - 25000[;Commercial;Pickup;no;0;;Highly Urban/ Urban;18/03/22;complet;dev_express;[250 - 500[
+F;1934;311646204;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Sports Car;no;4;8;Highly Urban/ Urban;20/04/22;complet;dev_express;[250 - 500[
+F;2019;478365082;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;6;16;Highly Urban/ Urban;05/01/22;complet;dev_integral;[250 - 500[
+F;2008;122516966;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;Minivan;yes;1;8;Highly Urban/ Urban;07/03/22;complet;dev_express;[250 - 500[
+M;1991;529817253;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;Minivan;no;0;10;Highly Urban/ Urban;08/04/22;complet;dev_premium;[250 - 500[
+F;1957;761024509;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Commercial;Panel Truck;no;3;13;Highly Urban/ Urban;13/01/22;complet;dev_integral;[250 - 500[
+M;1973;829519533;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Minivan;yes;0;19;Highly Urban/ Urban;22/01/22;complet;dev_integral;[250 - 500[
+M;1953;229974344;VRAI;VRAI;[100000 - 150000[;[300000 - 350000[;Private;z_SUV;no;1;11;Highly Urban/ Urban;13/05/22;complet;dev_premium;[250 - 500[
+F;1940;669272383;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;2;19;Highly Urban/ Urban;01/03/22;complet;dev_express;[250 - 500[
+M;1989;258185052;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;Sports Car;no;2;5;z_Highly Rural/ Rural;17/05/22;complet;dev_integral;[250 - 500[
+M;1947;72765993;FAUX;FAUX;[300000 - 350000[;[0 - 25000[;Private;Minivan;no;2;19;Highly Urban/ Urban;27/02/22;complet;dev_integral;[250 - 500[
+M;2020;71450290;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;2;8;Highly Urban/ Urban;14/01/22;complet;dev_express;[250 - 500[
+M;1985;103878259;VRAI;VRAI;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;4;11;z_Highly Rural/ Rural;12/04/22;complet;dev_vip;[500 - 750[
+F;1964;824470697;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;0;12;Highly Urban/ Urban;03/04/22;complet;dev_integral;[250 - 500[
+M;1955;151425730;VRAI;VRAI;[25000 - 50000[;[100000 - 150000[;Commercial;Pickup;yes;0;7;Highly Urban/ Urban;15/02/22;complet;dev_premium;[250 - 500[
+F;1972;25263609;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Panel Truck;yes;0;15;Highly Urban/ Urban;21/04/22;complet;dev_express;[250 - 500[
+M;2007;128546052;FAUX;VRAI;[0 - 25000[;[150000 - 200000[;Private;Sports Car;no;0;1;z_Highly Rural/ Rural;13/04/22;complet;dev_premium;[250 - 500[
+M;1962;174814165;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Commercial;Minivan;yes;2;8;Highly Urban/ Urban;11/02/22;complet;dev_premium;[250 - 500[
+F;1959;386739354;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Commercial;Pickup;yes;6;1;Highly Urban/ Urban;13/02/22;complet;dev_premium;[250 - 500[
+M;1952;6500178;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;z_SUV;no;1;15;Highly Urban/ Urban;16/05/22;complet;dev_premium;[250 - 500[
+F;1968;311981258;VRAI;VRAI;[150000 - 200000[;[3500000 - 450000[;Private;Minivan;no;0;20;Highly Urban/ Urban;18/03/22;complet;dev_integral;[250 - 500[
+F;1956;133550694;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Minivan;no;5;;Highly Urban/ Urban;18/01/22;complet;dev_express;[250 - 500[
+F;2009;223446651;FAUX;FAUX;[150000 - 200000[;[450000 - 500000[;Commercial;Panel Truck;no;1;12;Highly Urban/ Urban;23/05/22;complet;dev_express;[250 - 500[
+M;1953;188258797;FAUX;FAUX;[150000 - 200000[;[450000 - 500000[;Private;z_SUV;no;0;16;Highly Urban/ Urban;16/03/22;complet;dev_express;[250 - 500[
+M;2006;710227422;FAUX;FAUX;[150000 - 200000[;[450000 - 500000[;Private;Sports Car;yes;0;;Highly Urban/ Urban;04/04/22;complet;dev_integral;[250 - 500[
+M;1977;686338964;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Private;Sports Car;no;0;1;Highly Urban/ Urban;31/03/22;complet;dev_integral;[250 - 500[
+F;1975;514279807;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Minivan;no;1;22;Highly Urban/ Urban;28/02/22;complet;dev_express;[250 - 500[
+M;1965;883031218;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Minivan;yes;0;1;z_Highly Rural/ Rural;16/04/22;complet;dev_premium;[250 - 500[
+F;1977;266263528;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;z_SUV;no;4;15;Highly Urban/ Urban;12/02/22;complet;dev_premium;[250 - 500[
+M;1974;345328049;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;0;13;z_Highly Rural/ Rural;29/01/22;complet;dev_express;[250 - 500[
+F;1972;584974042;FAUX;FAUX;[0 - 25000[;[150000 - 200000[;Private;z_SUV;no;0;1;Highly Urban/ Urban;30/04/22;complet;dev_express;[250 - 500[
+F;1949;263128989;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Van;no;0;18;Highly Urban/ Urban;25/02/22;complet;dev_integral;[250 - 500[
+M;2009;285697099;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Private;Pickup;yes;3;1;Highly Urban/ Urban;30/04/22;complet;dev_express;[250 - 500[
+F;1943;708040961;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Minivan;no;2;17;Highly Urban/ Urban;25/02/22;complet;dev_express;[250 - 500[
+F;1969;812721996;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;Minivan;no;1;1;z_Highly Rural/ Rural;06/05/22;complet;dev_integral;[250 - 500[
+F;1965;173136762;VRAI;VRAI;[0 - 25000[;[100000 - 150000[;Private;Pickup;yes;2;1;Highly Urban/ Urban;16/03/22;complet;dev_integral;[250 - 500[
+F;1985;684614171;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Private;Minivan;no;0;7;Highly Urban/ Urban;06/04/22;complet;dev_integral;[250 - 500[
+F;1958;707149423;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Minivan;no;5;13;Highly Urban/ Urban;06/03/22;complet;dev_integral;[250 - 500[
+M;1933;372744122;FAUX;FAUX;[250000 - 300000[;[0 - 25000[;Private;Minivan;yes;0;16;Highly Urban/ Urban;04/03/22;complet;dev_express;[250 - 500[
+F;1953;275370310;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;Sports Car;no;0;10;Highly Urban/ Urban;06/05/22;complet;dev_express;[250 - 500[
+F;2009;422936508;FAUX;VRAI;[50000 - 100000[;[150000 - 200000[;Private;Pickup;no;3;21;Highly Urban/ Urban;01/02/22;complet;dev_integral;[250 - 500[
+M;1962;223038767;FAUX;VRAI;[100000 - 150000[;[300000 - 350000[;Commercial;Panel Truck;no;1;23;Highly Urban/ Urban;16/03/22;complet;dev_express;[250 - 500[
+F;1966;246781466;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Panel Truck;no;2;8;Highly Urban/ Urban;13/03/22;complet;dev_premium;[250 - 500[
+M;2021;336915478;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Pickup;no;0;1;Highly Urban/ Urban;16/04/22;complet;dev_integral;[250 - 500[
+M;1984;389547977;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Panel Truck;yes;3;1;Highly Urban/ Urban;05/03/22;complet;dev_express;[250 - 500[
+M;1963;769307760;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;Minivan;no;6;17;Highly Urban/ Urban;19/03/22;complet;dev_express;[250 - 500[
+F;1984;336931125;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Commercial;Pickup;no;0;1;z_Highly Rural/ Rural;01/05/22;complet;dev_premium;[250 - 500[
+M;2009;514315850;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Commercial;Sports Car;no;5;9;Highly Urban/ Urban;19/01/22;complet;dev_integral;[250 - 500[
+F;2015;526770317;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Private;Pickup;yes;3;11;Highly Urban/ Urban;23/01/22;complet;dev_integral;[250 - 500[
+F;1965;741583409;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;Minivan;no;0;1;Highly Urban/ Urban;15/03/22;complet;dev_integral;[250 - 500[
+F;2013;250824696;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Sports Car;no;0;1;Highly Urban/ Urban;14/01/22;complet;dev_integral;[250 - 500[
+M;1944;800089025;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;Sports Car;no;3;1;Highly Urban/ Urban;22/01/22;complet;dev_express;[250 - 500[
+F;1961;494326871;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Sports Car;no;0;15;Highly Urban/ Urban;03/03/22;complet;dev_integral;[250 - 500[
+M;1995;553215633;FAUX;VRAI;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;1;8;z_Highly Rural/ Rural;01/04/22;complet;dev_integral;[250 - 500[
+M;1955;567095951;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Van;yes;2;1;Highly Urban/ Urban;06/04/22;complet;dev_integral;[250 - 500[
+M;1956;260453180;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Commercial;Pickup;no;0;16;Highly Urban/ Urban;16/05/22;complet;dev_express;[250 - 500[
+M;2007;701253048;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;0;11;Highly Urban/ Urban;15/02/22;complet;dev_express;[250 - 500[
+F;1937;727354948;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;z_SUV;no;2;4;z_Highly Rural/ Rural;16/02/22;complet;dev_integral;[250 - 500[
+F;1965;692154131;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;z_SUV;yes;7;6;Highly Urban/ Urban;14/03/22;complet;dev_express;[250 - 500[
+F;1942;492736613;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;0;5;z_Highly Rural/ Rural;22/04/22;complet;dev_integral;[250 - 500[
+M;1983;105064448;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Private;Minivan;no;2;14;Highly Urban/ Urban;31/05/22;complet;dev_integral;[250 - 500[
+F;1981;653879802;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;0;;Highly Urban/ Urban;25/02/22;complet;dev_integral;[250 - 500[
+F;2003;198925451;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;Minivan;yes;0;4;Highly Urban/ Urban;12/03/22;complet;dev_express;[250 - 500[
+M;1973;671478642;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;0;1;z_Highly Rural/ Rural;25/05/22;complet;dev_express;[250 - 500[
+F;1975;372296174;FAUX;VRAI;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;3;1;Highly Urban/ Urban;11/02/22;complet;dev_express;[250 - 500[
+M;1964;92286498;VRAI;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;Panel Truck;no;0;12;Highly Urban/ Urban;09/02/22;complet;dev_express;[250 - 500[
+F;1965;735685823;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Private;z_SUV;no;0;12;Highly Urban/ Urban;23/04/22;complet;dev_integral;[250 - 500[
+F;1966;323156660;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;2;10;Highly Urban/ Urban;06/03/22;complet;dev_integral;[250 - 500[
+M;1994;695112403;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Private;z_SUV;no;2;1;Highly Urban/ Urban;18/03/22;complet;dev_express;[250 - 500[
+F;1952;280258638;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Private;Pickup;no;10;1;Highly Urban/ Urban;29/03/22;complet;dev_express;[250 - 500[
+M;2008;162778650;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Commercial;Pickup;yes;0;1;z_Highly Rural/ Rural;30/03/22;complet;dev_express;[250 - 500[
+M;1955;806773165;FAUX;VRAI;[100000 - 150000[;[3500000 - 450000[;Private;Minivan;yes;0;1;Highly Urban/ Urban;18/05/22;complet;dev_express;[250 - 500[
+M;1964;640616479;VRAI;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Minivan;yes;6;9;Highly Urban/ Urban;01/05/22;complet;dev_integral;[250 - 500[
+M;1939;627964660;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;Minivan;yes;0;18;z_Highly Rural/ Rural;04/03/22;complet;dev_express;[250 - 500[
+M;1980;63017715;VRAI;VRAI;[100000 - 150000[;[300000 - 350000[;Private;Minivan;yes;0;14;Highly Urban/ Urban;12/03/22;complet;dev_premium;[500 - 750[
+M;1967;205814195;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Commercial;Minivan;yes;3;10;Highly Urban/ Urban;14/03/22;complet;dev_express;[250 - 500[
+F;2000;162828138;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Minivan;yes;5;18;Highly Urban/ Urban;29/01/22;complet;dev_premium;[250 - 500[
+F;1950;764792264;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;3;7;z_Highly Rural/ Rural;09/05/22;complet;dev_premium;[500 - 750[
+F;1976;308094360;FAUX;FAUX;[100000 - 150000[;[3500000 - 450000[;Private;Sports Car;no;0;18;Highly Urban/ Urban;15/01/22;complet;dev_premium;[250 - 500[
+M;2008;399039023;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Private;Minivan;yes;1;1;z_Highly Rural/ Rural;11/05/22;complet;dev_express;[250 - 500[
+M;1966;436152408;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;0;;Highly Urban/ Urban;22/05/22;complet;dev_integral;[250 - 500[
+M;1965;379450933;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Private;Sports Car;no;0;15;Highly Urban/ Urban;16/03/22;complet;dev_premium;[500 - 750[
+F;1943;121882901;FAUX;FAUX;[100000 - 150000[;[250000 - 300000[;Private;z_SUV;no;4;15;Highly Urban/ Urban;10/02/22;complet;dev_express;[250 - 500[
+F;1982;778905187;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;4;6;Highly Urban/ Urban;30/05/22;complet;dev_express;[250 - 500[
+M;2019;713545415;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;z_SUV;no;1;11;Highly Urban/ Urban;10/01/22;complet;dev_integral;[250 - 500[
+M;1996;858671439;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;2;6;Highly Urban/ Urban;21/05/22;complet;dev_integral;[250 - 500[
+M;1989;441871380;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Van;yes;4;1;Highly Urban/ Urban;09/04/22;complet;dev_express;[250 - 500[
+F;1962;674694058;FAUX;VRAI;[50000 - 100000[;[150000 - 200000[;Commercial;Pickup;yes;5;11;Highly Urban/ Urban;13/02/22;complet;dev_vip;[750 - 1000[
+M;1978;86341582;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;7;6;z_Highly Rural/ Rural;25/02/22;complet;dev_integral;[250 - 500[
+F;1952;607073803;VRAI;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Minivan;no;6;12;Highly Urban/ Urban;02/01/22;complet;dev_integral;[250 - 500[
+M;1966;618919242;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Sports Car;no;0;;Highly Urban/ Urban;02/04/22;complet;dev_express;[250 - 500[
+M;1973;622406578;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Pickup;no;2;1;z_Highly Rural/ Rural;03/05/22;complet;dev_premium;[250 - 500[
+M;1968;220569146;FAUX;FAUX;[0 - 25000[;[250000 - 300000[;Private;Van;no;1;14;Highly Urban/ Urban;25/04/22;complet;dev_express;[250 - 500[
+F;1982;360086589;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;Pickup;yes;4;16;z_Highly Rural/ Rural;08/03/22;complet;dev_integral;[250 - 500[
+F;1995;816644093;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Commercial;Minivan;yes;6;;Highly Urban/ Urban;31/05/22;complet;dev_integral;[250 - 500[
+M;1980;708546158;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Commercial;Pickup;yes;0;8;z_Highly Rural/ Rural;21/01/22;complet;dev_integral;[250 - 500[
+M;1950;103001607;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;1;1;Highly Urban/ Urban;27/04/22;complet;dev_integral;[250 - 500[
+F;1992;499459180;FAUX;VRAI;[25000 - 50000[;[150000 - 200000[;Private;Minivan;no;0;1;Highly Urban/ Urban;25/04/22;complet;dev_integral;[250 - 500[
+M;1939;836243681;FAUX;VRAI;[100000 - 150000[;[3500000 - 450000[;Private;z_SUV;no;0;15;Highly Urban/ Urban;05/03/22;complet;dev_integral;[250 - 500[
+F;2021;704923599;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;z_SUV;no;0;1;Highly Urban/ Urban;21/01/22;complet;dev_integral;[250 - 500[
+M;1994;283824038;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Panel Truck;no;4;15;Highly Urban/ Urban;25/04/22;complet;dev_integral;[250 - 500[
+M;1943;425411578;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;Minivan;no;1;14;Highly Urban/ Urban;29/03/22;complet;dev_integral;[250 - 500[
+M;1978;709435095;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Sports Car;no;6;10;Highly Urban/ Urban;13/02/22;complet;dev_integral;[250 - 500[
+M;1987;600183155;FAUX;FAUX;[0 - 25000[;[50000 - 100000[;Private;Sports Car;no;0;1;z_Highly Rural/ Rural;11/02/22;complet;dev_express;[250 - 500[
+F;1986;214256846;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Panel Truck;yes;0;9;z_Highly Rural/ Rural;28/05/22;complet;dev_integral;[250 - 500[
+M;1968;496490349;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;Minivan;no;4;8;Highly Urban/ Urban;03/04/22;complet;dev_integral;[250 - 500[
+F;1989;215389777;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;3;9;z_Highly Rural/ Rural;20/05/22;complet;dev_integral;[250 - 500[
+M;1952;225691412;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Minivan;yes;0;6;Highly Urban/ Urban;22/04/22;complet;dev_express;[250 - 500[
+M;1934;78787848;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;z_SUV;no;0;8;Highly Urban/ Urban;29/01/22;complet;dev_integral;[250 - 500[
+M;2001;282440658;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Minivan;yes;3;1;Highly Urban/ Urban;21/05/22;complet;dev_integral;[250 - 500[
+M;1998;898892270;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Minivan;no;0;8;Highly Urban/ Urban;04/05/22;complet;dev_integral;[250 - 500[
+F;1954;176052511;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;Minivan;yes;4;12;Highly Urban/ Urban;25/01/22;complet;dev_premium;[250 - 500[
+M;1950;284043112;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;Panel Truck;no;0;1;Highly Urban/ Urban;27/01/22;complet;dev_integral;[250 - 500[
+M;1932;245072254;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Pickup;no;2;17;Highly Urban/ Urban;11/03/22;complet;dev_integral;[250 - 500[
+F;1958;428611510;FAUX;VRAI;[50000 - 100000[;[150000 - 200000[;Commercial;Minivan;no;0;1;z_Highly Rural/ Rural;25/05/22;complet;dev_integral;[250 - 500[
+F;1946;861289075;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;Minivan;no;1;5;Highly Urban/ Urban;20/01/22;complet;dev_premium;[500 - 750[
+F;2008;270101529;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;Pickup;yes;0;1;Highly Urban/ Urban;22/04/22;complet;dev_integral;[250 - 500[
+F;1953;857098881;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Panel Truck;no;7;15;Highly Urban/ Urban;10/02/22;complet;dev_integral;[250 - 500[
+M;1970;366279211;FAUX;FAUX;[150000 - 200000[;[500000 - 600000[;Commercial;Panel Truck;no;4;15;Highly Urban/ Urban;24/02/22;complet;dev_express;[250 - 500[
+F;1952;384930162;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Sports Car;no;2;12;Highly Urban/ Urban;17/03/22;complet;dev_express;[250 - 500[
+F;2002;29511739;VRAI;FAUX;[100000 - 150000[;[300000 - 350000[;Private;z_SUV;no;4;;Highly Urban/ Urban;04/03/22;complet;dev_express;[250 - 500[
+M;1983;92645188;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;z_SUV;no;0;1;z_Highly Rural/ Rural;20/04/22;complet;dev_express;[250 - 500[
+F;1961;596504845;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Van;no;4;12;Highly Urban/ Urban;30/01/22;complet;dev_express;[250 - 500[
+M;1967;447399534;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;Minivan;yes;3;17;Highly Urban/ Urban;11/02/22;complet;dev_integral;[250 - 500[
+F;1953;301580211;FAUX;VRAI;[50000 - 100000[;[150000 - 200000[;Private;Sports Car;no;0;1;Highly Urban/ Urban;05/03/22;complet;dev_integral;[250 - 500[
+F;1945;843201445;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Van;no;7;1;Highly Urban/ Urban;16/02/22;complet;dev_express;[250 - 500[
+F;2014;287603687;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Van;yes;0;12;Highly Urban/ Urban;25/01/22;complet;dev_integral;[250 - 500[
+F;1974;579510848;VRAI;VRAI;[100000 - 150000[;[300000 - 350000[;Commercial;Pickup;yes;0;1;z_Highly Rural/ Rural;06/03/22;complet;dev_express;[250 - 500[
+F;1978;793756065;VRAI;VRAI;[25000 - 50000[;[200000 - 250000[;Commercial;Van;no;0;1;Highly Urban/ Urban;15/04/22;complet;dev_express;[250 - 500[
+M;1974;636503078;VRAI;VRAI;[100000 - 150000[;[300000 - 350000[;Commercial;Van;yes;0;11;z_Highly Rural/ Rural;24/03/22;complet;dev_integral;[250 - 500[
+F;1987;275800184;FAUX;FAUX;[150000 - 200000[;[0 - 25000[;Commercial;Panel Truck;yes;3;19;Highly Urban/ Urban;06/02/22;complet;dev_integral;[250 - 500[
+F;1956;150987068;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Commercial;Pickup;no;1;12;Highly Urban/ Urban;27/03/22;complet;dev_integral;[250 - 500[
+F;1951;501296841;VRAI;VRAI;[25000 - 50000[;[0 - 25000[;Private;Van;no;0;;Highly Urban/ Urban;28/02/22;complet;dev_express;[250 - 500[
+F;1976;770417989;VRAI;VRAI;[25000 - 50000[;[0 - 25000[;Private;Pickup;yes;0;7;Highly Urban/ Urban;17/02/22;complet;dev_express;[250 - 500[
+F;1967;370739329;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;3;8;Highly Urban/ Urban;21/03/22;complet;dev_integral;[250 - 500[
+F;1970;227126373;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Commercial;Panel Truck;yes;0;1;Highly Urban/ Urban;29/04/22;complet;dev_express;[250 - 500[
+M;2002;230903942;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Minivan;yes;5;10;Highly Urban/ Urban;21/04/22;complet;dev_express;[250 - 500[
+F;1998;412884228;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;Panel Truck;yes;2;1;Highly Urban/ Urban;19/01/22;complet;dev_integral;[250 - 500[
+M;1950;250502726;FAUX;VRAI;[100000 - 150000[;[3500000 - 450000[;Private;Minivan;no;0;15;Highly Urban/ Urban;09/03/22;complet;dev_integral;[250 - 500[
+M;1986;194062402;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Sports Car;no;3;17;Highly Urban/ Urban;01/03/22;complet;dev_express;[250 - 500[
+M;2006;615770896;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;0;18;Highly Urban/ Urban;25/02/22;complet;dev_express;[250 - 500[
+F;2005;294526728;FAUX;VRAI;[50000 - 100000[;[300000 - 350000[;Commercial;Minivan;yes;0;1;Highly Urban/ Urban;06/04/22;complet;dev_integral;[250 - 500[
+F;1953;200557238;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;4;4;Highly Urban/ Urban;04/04/22;complet;dev_express;[250 - 500[
+F;1986;631179200;VRAI;VRAI;[25000 - 50000[;[150000 - 200000[;Private;Minivan;no;5;1;Highly Urban/ Urban;04/02/22;complet;dev_express;[250 - 500[
+M;1942;200719195;FAUX;FAUX;[0 - 25000[;[300000 - 350000[;Commercial;Van;yes;2;8;Highly Urban/ Urban;06/01/22;complet;dev_express;[250 - 500[
+F;2003;514743216;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;0;14;Highly Urban/ Urban;15/03/22;complet;dev_integral;[250 - 500[
+M;1970;895542850;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;Van;yes;3;1;Highly Urban/ Urban;23/01/22;complet;dev_express;[250 - 500[
+M;1957;242762174;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;Pickup;yes;0;1;Highly Urban/ Urban;18/02/22;complet;dev_integral;[250 - 500[
+F;1965;277985842;FAUX;VRAI;[0 - 25000[;[100000 - 150000[;Private;Sports Car;yes;8;6;Highly Urban/ Urban;09/02/22;complet;dev_integral;[250 - 500[
+F;1978;500393184;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;Pickup;no;0;6;z_Highly Rural/ Rural;07/04/22;complet;dev_integral;[250 - 500[
+F;1981;114684835;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;Panel Truck;yes;0;16;z_Highly Rural/ Rural;03/04/22;complet;dev_integral;[250 - 500[
+F;2017;735072483;VRAI;VRAI;[0 - 25000[;[0 - 25000[;Commercial;Pickup;no;0;19;Highly Urban/ Urban;01/03/22;complet;dev_integral;[250 - 500[
+F;1969;325005341;VRAI;VRAI;[50000 - 100000[;[0 - 25000[;Private;Minivan;no;5;13;Highly Urban/ Urban;31/03/22;complet;dev_premium;[250 - 500[
+F;1977;473480276;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Minivan;no;4;8;Highly Urban/ Urban;24/01/22;complet;dev_express;[250 - 500[
+F;1965;198334579;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;Panel Truck;yes;1;;z_Highly Rural/ Rural;24/02/22;complet;dev_integral;[250 - 500[
+M;2020;101678791;FAUX;FAUX;[100000 - 150000[;[250000 - 300000[;Commercial;Minivan;no;4;12;Highly Urban/ Urban;26/01/22;complet;dev_express;[250 - 500[
+M;1947;490219154;VRAI;VRAI;[0 - 25000[;[250000 - 300000[;Commercial;z_SUV;no;3;9;Highly Urban/ Urban;07/02/22;complet;dev_express;[250 - 500[
+M;1984;796286459;FAUX;VRAI;[150000 - 200000[;[3500000 - 450000[;Private;Van;no;0;13;Highly Urban/ Urban;11/03/22;complet;dev_vip;[750 - 1000[
+F;1953;255343933;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;Minivan;yes;2;9;z_Highly Rural/ Rural;08/03/22;complet;dev_integral;[250 - 500[
+M;1985;483864862;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Private;Minivan;yes;1;8;Highly Urban/ Urban;15/04/22;complet;dev_express;[250 - 500[
+F;1966;356926432;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Commercial;z_SUV;no;0;9;Highly Urban/ Urban;29/05/22;complet;dev_integral;[250 - 500[
+M;2009;702029815;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Minivan;no;0;1;z_Highly Rural/ Rural;16/04/22;complet;dev_express;[250 - 500[
+M;2017;228900082;VRAI;VRAI;[100000 - 150000[;[300000 - 350000[;Commercial;Panel Truck;no;9;16;Highly Urban/ Urban;22/01/22;complet;dev_express;[250 - 500[
+M;2015;620567335;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Commercial;Panel Truck;yes;0;12;Highly Urban/ Urban;27/03/22;complet;dev_premium;[250 - 500[
+M;2018;336652522;FAUX;VRAI;[25000 - 50000[;[200000 - 250000[;Private;z_SUV;no;0;10;Highly Urban/ Urban;04/01/22;complet;dev_integral;[250 - 500[
+F;1960;390117758;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Van;no;8;8;Highly Urban/ Urban;13/02/22;complet;dev_integral;[250 - 500[
+M;1986;81587908;FAUX;VRAI;[100000 - 150000[;[3500000 - 450000[;Private;z_SUV;no;5;14;Highly Urban/ Urban;19/03/22;complet;dev_premium;[250 - 500[
+M;1961;224160788;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Commercial;Pickup;no;1;1;Highly Urban/ Urban;23/03/22;complet;dev_integral;[250 - 500[
+M;1991;527158266;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;Sports Car;no;0;21;Highly Urban/ Urban;24/02/22;complet;dev_express;[250 - 500[
+M;1951;695537590;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Private;Sports Car;no;1;1;Highly Urban/ Urban;30/05/22;complet;dev_integral;[250 - 500[
+M;1958;485887889;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Van;yes;3;4;Highly Urban/ Urban;02/03/22;complet;dev_express;[250 - 500[
+F;1958;335150562;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;Minivan;no;0;16;Highly Urban/ Urban;20/05/22;complet;dev_integral;[250 - 500[
+F;1977;98670674;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Pickup;yes;0;10;Highly Urban/ Urban;29/04/22;complet;dev_integral;[250 - 500[
+M;2007;558276004;FAUX;VRAI;[25000 - 50000[;[0 - 25000[;Private;Pickup;yes;1;7;Highly Urban/ Urban;25/01/22;complet;dev_express;[250 - 500[
+F;1983;586763728;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Commercial;Pickup;yes;1;1;Highly Urban/ Urban;03/03/22;complet;dev_integral;[250 - 500[
+M;1943;442045727;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Minivan;yes;0;9;Highly Urban/ Urban;16/02/22;complet;dev_express;[250 - 500[
+F;1993;624374014;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;Minivan;yes;1;12;Highly Urban/ Urban;08/04/22;complet;dev_integral;[250 - 500[
+M;2003;219071183;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Sports Car;no;0;9;Highly Urban/ Urban;24/05/22;complet;dev_integral;[250 - 500[
+F;1966;250908798;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;Panel Truck;yes;1;15;Highly Urban/ Urban;02/03/22;complet;dev_integral;[250 - 500[
+F;1944;668119179;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Commercial;Panel Truck;yes;1;12;Highly Urban/ Urban;09/02/22;complet;dev_premium;[250 - 500[
+M;2005;204707877;VRAI;VRAI;[25000 - 50000[;[100000 - 150000[;Commercial;Minivan;no;2;4;Highly Urban/ Urban;24/01/22;complet;dev_integral;[250 - 500[
+F;2019;151950064;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;Pickup;no;0;11;z_Highly Rural/ Rural;20/03/22;complet;dev_express;[250 - 500[
+M;2015;145531015;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Pickup;yes;1;12;Highly Urban/ Urban;16/03/22;complet;dev_integral;[250 - 500[
+M;2006;344765942;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Commercial;Minivan;yes;0;11;z_Highly Rural/ Rural;15/03/22;complet;dev_express;[250 - 500[
+F;2015;151699287;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;z_SUV;no;0;8;z_Highly Rural/ Rural;24/05/22;complet;dev_integral;[250 - 500[
+M;2014;829598039;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;z_SUV;no;4;7;Highly Urban/ Urban;26/03/22;complet;dev_integral;[250 - 500[
+F;2015;730676730;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Private;z_SUV;no;5;4;Highly Urban/ Urban;28/05/22;complet;dev_integral;[250 - 500[
+F;1952;797684168;FAUX;FAUX;[150000 - 200000[;[3500000 - 450000[;Private;z_SUV;no;1;12;Highly Urban/ Urban;19/04/22;complet;dev_integral;[250 - 500[
+F;1989;798623609;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Minivan;no;0;1;Highly Urban/ Urban;04/04/22;complet;dev_express;[250 - 500[
+F;1980;362041318;FAUX;VRAI;[50000 - 100000[;[200000 - 250000[;Private;Minivan;yes;3;8;Highly Urban/ Urban;25/01/22;complet;dev_express;[250 - 500[
+F;1936;465802698;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Private;z_SUV;no;1;10;z_Highly Rural/ Rural;25/02/22;complet;dev_integral;[250 - 500[
+M;1993;797910979;FAUX;VRAI;[50000 - 100000[;[150000 - 200000[;Private;z_SUV;no;0;7;Highly Urban/ Urban;07/03/22;complet;dev_integral;[250 - 500[
+F;1934;800558782;FAUX;VRAI;[25000 - 50000[;[100000 - 150000[;Private;z_SUV;no;0;12;Highly Urban/ Urban;11/05/22;complet;dev_integral;[250 - 500[
+F;1959;542203472;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;3;;Highly Urban/ Urban;25/05/22;complet;dev_express;[250 - 500[
+F;2009;860774822;FAUX;FAUX;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;10;2;Highly Urban/ Urban;07/02/22;complet;dev_integral;[250 - 500[
+F;1974;486801846;FAUX;FAUX;[25000 - 50000[;[0 - 25000[;Private;z_SUV;no;0;10;Highly Urban/ Urban;02/03/22;complet;dev_express;[250 - 500[
+M;2020;382932853;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;Pickup;no;3;1;Highly Urban/ Urban;29/04/22;complet;dev_integral;[250 - 500[
+M;1953;24776726;VRAI;VRAI;[0 - 25000[;[50000 - 100000[;Private;Sports Car;no;0;12;z_Highly Rural/ Rural;27/02/22;complet;dev_integral;[250 - 500[
+F;1952;678119253;FAUX;FAUX;[0 - 25000[;[100000 - 150000[;Commercial;Pickup;yes;2;7;z_Highly Rural/ Rural;10/02/22;complet;dev_express;[250 - 500[
+F;1957;678537144;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Pickup;yes;4;22;Highly Urban/ Urban;07/05/22;complet;dev_integral;[250 - 500[
+F;1941;892607578;VRAI;VRAI;[50000 - 100000[;[200000 - 250000[;Commercial;Panel Truck;no;0;;z_Highly Rural/ Rural;19/05/22;complet;dev_integral;[250 - 500[
+M;1954;278548126;FAUX;VRAI;[0 - 25000[;[0 - 25000[;Private;Sports Car;no;2;7;Highly Urban/ Urban;24/03/22;complet;dev_express;[250 - 500[
+M;1973;882000085;FAUX;FAUX;[50000 - 100000[;[0 - 25000[;Private;Minivan;yes;3;21;Highly Urban/ Urban;18/01/22;complet;dev_express;[250 - 500[
+M;1946;286876742;FAUX;VRAI;[50000 - 100000[;[0 - 25000[;Private;z_SUV;no;7;1;Highly Urban/ Urban;14/03/22;complet;dev_integral;[250 - 500[
+F;1942;176697088;FAUX;FAUX;[25000 - 50000[;[150000 - 200000[;Private;z_SUV;no;0;6;z_Highly Rural/ Rural;25/01/22;complet;dev_express;[250 - 500[
+F;2015;781922828;FAUX;FAUX;[50000 - 100000[;[150000 - 200000[;Private;Minivan;yes;0;7;Highly Urban/ Urban;02/05/22;complet;dev_premium;[500 - 750[
+M;1953;789915274;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Minivan;no;7;10;Highly Urban/ Urban;08/04/22;complet;dev_express;[250 - 500[
+M;1962;825689980;VRAI;VRAI;[0 - 25000[;[100000 - 150000[;Commercial;Pickup;no;3;9;Highly Urban/ Urban;17/05/22;complet;dev_express;[250 - 500[
+M;1957;494100562;FAUX;FAUX;[100000 - 150000[;[0 - 25000[;Commercial;Panel Truck;yes;5;20;Highly Urban/ Urban;20/02/22;complet;dev_integral;[250 - 500[
+M;1940;807807205;FAUX;FAUX;[0 - 25000[;[150000 - 200000[;Private;z_SUV;no;1;8;z_Highly Rural/ Rural;03/01/22;complet;dev_integral;[250 - 500[
+F;1960;486422877;FAUX;FAUX;[100000 - 150000[;[300000 - 350000[;Private;Minivan;yes;2;20;Highly Urban/ Urban;27/05/22;complet;dev_express;[250 - 500[
+M;2012;743299805;FAUX;FAUX;[25000 - 50000[;[100000 - 150000[;Private;Minivan;no;2;1;z_Highly Rural/ Rural;22/05/22;complet;dev_express;[250 - 500[
+F;1961;418209928;FAUX;FAUX;[50000 - 100000[;[200000 - 250000[;Private;Minivan;no;3;1;Highly Urban/ Urban;23/01/22;complet;dev_integral;[250 - 500[
+F;1951;715394454;FAUX;FAUX;[50000 - 100000[;[250000 - 300000[;Commercial;Van;no;6;4;Highly Urban/ Urban;19/01/22;complet;dev_premium;[250 - 500[
+M;1934;704434094;VRAI;FAUX;[25000 - 50000[;[0 - 25000[;Private;Minivan;no;0;1;z_Highly Rural/ Rural;08/05/22;complet;dev_integral;[250 - 500[

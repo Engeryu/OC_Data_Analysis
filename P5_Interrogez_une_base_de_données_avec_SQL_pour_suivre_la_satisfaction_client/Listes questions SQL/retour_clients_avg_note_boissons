@@ -1,0 +1,5 @@
+-- Quelle est la note moyenne sur l'ensemble des boissons ?
+select "boissons" as boissons, round(avg(note), 1) as note_moyenne
+from retour_client
+inner join produit on produit.cle_produit = retour_client.cle_produit
+where boissons like 'Boissons%'

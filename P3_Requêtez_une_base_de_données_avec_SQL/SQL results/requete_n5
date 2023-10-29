@@ -1,0 +1,3 @@
+select code_departement cd, round(avg(surface), 2) as surface_moyenne
+from contrats
+where cd = '75.0'

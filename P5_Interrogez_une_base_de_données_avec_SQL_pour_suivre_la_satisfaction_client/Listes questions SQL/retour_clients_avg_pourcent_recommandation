@@ -1,0 +1,4 @@
+-- Calculer le pourcentage de recommendations :
+select count(cle_retour_client) as nombre_clients,
+round(coalesce(sum(recommandation)/count(recommandation), 0)*100, 2) as pourcentage_recommande
+from retour_client;

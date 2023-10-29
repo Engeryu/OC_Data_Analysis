@@ -1,0 +1,4 @@
+select
+count(type_contrat) as nb_contrats
+from contrats
+where type_contrat = 'Residence principale'

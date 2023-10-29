@@ -1,0 +1,18 @@
+--quels sont les typologies produits qui ont amélioré leur moyenne entre le 1er et le 2nd trimestre 2021
+
+with T1 as (
+select typologie_produit, round(avg(note), 2) as noteT1
+from retour_client
+inner join produit using(cle_produit)
+where date_achat between '2021-01-01' and '2021-03-31'
+group by typologie_produit),
+T2 as (
+select typologie_produit, round(avg(note), 2) as noteT2
+from retour_client
+inner join produit using(cle_produit)
+where date_achat between '2021-04-01' and '2021-06-31'
+group by typologie_produit)
+select typologie_produit, noteT1, noteT2
+from T1
+inner join T2 Using(typologie_produit)
+where noteT2 > noteT1

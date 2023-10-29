@@ -1,0 +1,14 @@
+-- Calculer le NetPromoterScore selon le magasin :
+with
+    positive AS (
+select ref_magasin , count(cle_retour_client) as promoters from retour_client where note >= 9 group by ref_magasin),
+    negative AS (
+select ref_magasin, count(cle_retour_client) as detractors from retour_client where note <= 6 group by ref_magasin),
+    total AS (
+select ref_magasin, count(cle_retour_client) as nombre_clients from retour_client group by ref_magasin)
+    select 
+total.ref_magasin as magasin, total.nombre_clients as nombre_clients, coalesce(positive.promoters * 100.0 / total.nombre_clients, 0) as promoteurs,
+coalesce(negative.detractors * 100.0 / total.nombre_clients, 0) as detracteurs,
+round(coalesce(positive.promoters, 0) *100.0 / total.nombre_clients - coalesce(negative.detractors, 0) * 100.0 / total.nombre_clients, 2) as nps
+from total left join positive using(ref_magasin) left join negative using(ref_magasin)
+group by magasin order by nps desc;
