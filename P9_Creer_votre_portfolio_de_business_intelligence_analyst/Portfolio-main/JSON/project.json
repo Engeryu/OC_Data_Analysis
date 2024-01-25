@@ -1,0 +1,115 @@
+[
+    {
+        "titre": "1- Excel Datasheet Visualizations",
+        "description": [
+            "Documentation",
+            "Graphics"
+        ],
+        "categorie": "projets_analyst"
+    },
+    {
+        "titre": "2- SQL Life Insurance Database Cleansing Requests",
+        "description": [
+            "Data Cleaning",
+            "Pseudonymization"
+        ],
+        "categorie": "projets_analyst"
+    },
+    {
+        "titre": "4- SQL Car Insurance Database Collecting Requests",
+        "description": [
+            "GDPR Pseudonymization"
+        ],
+        "categorie": "projets_analyst"
+    },
+    {
+        "titre": "5- SQL Market Database Analyzis Requests",
+        "description": [
+            "Data Consistency Check"
+        ],
+        "categorie": "projets_analyst"
+    },
+    {
+        "titre": "6- Power BI Dynamique Dashboard Creation",
+        "description": [
+            "Database Cleaning/Remodeling",
+            "Visualizations",
+            "Access Right Management"
+        ],
+        "categorie": "projets_analyst"
+    },
+    {
+        "titre": "7- Python Notebook Market Stock Management Optimization",
+        "description": [
+            "Data Cleaning",
+            "Exploratory Analysis"
+        ],
+        "categorie": "projets_analyst"
+    },
+    {
+        "titre": "8- Python Notebook Real Estate Price Trends Analysis",
+        "description": [
+            "Data Cleaning",
+            "Exploratory Analysis",
+            "Predictive Algorithmic Forecasting",
+            "Prescriptive Analysis"
+        ],
+        "categorie": "projets_analyst"
+    },
+    {
+        "titre": "Not Available - To Be Annonced",
+        "description": [],
+        "categorie": "projets_scientist"
+    },
+    {
+        "titre": "1- Plot Analysis",
+        "description": [
+            "1. Curve Analysis",
+            "2. Bar Chart Analysis",
+            "3. Box Plot Analysis",
+            "4. Scatter Plot Analysis"
+        ],
+        "categorie": "Visualisation"
+    },
+    {
+        "titre": "2- Analytical Methods and Techniques",
+        "description": [
+            "1. Exploratory Analysis",
+            "2. Inferential Analysis",
+            "3. Predictive Analytics",
+            "4. Prescriptive Analytics"
+        ],
+        "categorie": "Visualisation"
+    },
+    {
+        "titre": "To Be Annonced",
+        "description": [],
+        "categorie": "projets_web"
+    },
+    {
+        "titre": "1- Java",
+        "description": [
+            "Parser CSV/XLSX",
+            "Role Play Gaming"
+        ],
+        "categorie": "projets_software"
+    },
+    {
+        "titre": "2- C Language",
+        "description": [
+            "Compiled Programs",
+            "Printf",
+            "Scanf"
+        ],
+        "categorie": "projets_software"
+    },
+    {
+        "titre": "3- BASH",
+        "description": [
+            "Zelda Like Game",
+            "Administrator Tools",
+            "Terminal Command Bash"
+        ],
+        "categorie": "projets_software"
+    }
+]
