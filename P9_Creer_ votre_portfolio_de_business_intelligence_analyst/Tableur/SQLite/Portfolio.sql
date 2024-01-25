@@ -1,5 +1,0 @@
-CREATE TABLE Project_index(id_project INTEGER NOT NULL PRIMARY KEY);
-CREATE TABLE Project_skills();
-CREATE TABLE OC_index();
-CREATE TABLE RNCP_index();
-CREATE TABLE Techno();
