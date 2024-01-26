@@ -117,137 +117,137 @@ title_projets.forEach((projetObj, index) => {
     }
 });
 
-document.addEventListener("DOMContentLoaded", function () {
-    // Création d'un objet contenant les projets
-    const projets = [
-        {
-            title_fr: "1- Visualisation des données via Excel",
-            desc_fr: ["Documentation", "Visualisations"],
-            title_en: "1- Excel Datasheet Visualizations",
-            desc_en: ["Documentation", "Graphics"],
-            category: "projets_analyst"
-        },
-        {
-            title_fr: "2- Nettoyage de données d'une assurance via requêtes SQL",
-            desc_fr: ["Nettoyage de données", "Pseudonymisation"],
-            title_en: "2- SQL Life Insurance Database Cleansing Requests",
-            desc_en: ["Data Cleaning", "Pseudonymization"],
-            category: "projets_analyst"
-        },
-        {
-            title_fr: "4- Collecte de données d'assurance voiture via requêtes SQL",
-            desc_fr: ["scripting", "Pseudonymisation RGPD"],
-            title_en: "4- SQL Car Insurance Database Collecting Requests",
-            desc_en: ["scripting", "GDPR Pseudonymization"],
-            category: "projets_analyst"
-        },
-        {
-            title_fr: "5- Analyse de données d'une chaîne commerciale via requêtes SQL",
-            desc_fr: ["scripting", "Vérification des données"],
-            title_en: "5- SQL Market Database Analyzis Requests",
-            desc_en: ["scripting", "Data Consistency Check"],
-            category: "projets_analyst"
-        },
-        {
-            title_fr: "6- Création d'un tableau de bord dynamique via Power BI",
-            desc_fr: ["Nettoyage et formatage de données", "Visualisations", "Gestion des droits d'accès"],
-            title_en: "6- Power BI Dynamique Dashboard Creation",
-            desc_en: ["Database Cleaning/Remodeling", "Visualizations", "Access Right Management"],
-            category: "projets_analyst"
-        },
-        {
-            title_fr: "7- Optimisation de la gestion des stocks d'un commerce via Python Notebook",
-            desc_fr: ["scripting", "Nettoyage de données", "Analyse Exploratoire"],
-            title_en: "7- Python Notebook Market Stock Management Optimization",
-            desc_en: ["scripting", "Data Cleaning", "Exploratory Analysis"],
-            category: "projets_analyst"
-        },
-        {
-            title_fr: "8- Analyse de l'évolution des prix de l'immobilier via Python Notebook",
-            desc_fr: ["scripting", "Nettoyage de données", "Analyse Exploratoire", "Algorithmes de prédiction", "Analyse préscriptive"],
-            title_en: "8- Python Notebook Real Estate Price Trends Analysis",
-            desc_en: ["scripting", "Data Cleaning", "Exploratory Analysis", "Predictive Algorithmic Forecasting", "Prescriptive Analysis"],
-            category: "projets_analyst"
-        },
-        {
-            title_fr: "Indisponible pour le moment",
-            desc_fr: [],
-            title_en: "Not Available - To Be Annonced",
-            desc_en: [],
-            category: "projets_scientist"
-        },
-        {
-            title_fr: "1- Transformer une maquette en site web",
-            desc_fr: ["Front-End", "Responsive", "HTML/CSS"],
-            title_en: "1- Transform a Mockup into a Web Site",
-            desc_en: ["Front-End", "Responsive", "HTML/CSS"],
-            category: "projets_web"
-        },
-        {
-            title_fr: "2- Dynamiser une page web avec des animations CSS",
-            desc_fr: ["CSS", "Responsive", "KeyFrames Animations"],
-            title_en: "2- Dynamize a Web Page with CSS Animations",
-            desc_en: ["CSS", "Responsive", "KeyFrames Animations"],
-            category: "projets_web"
-        },
-        {
-            title_fr: "3- Optimisez un site web existant",
-            desc_fr: ["Référencement", "Performance", "Lightouse", "GTMetrix", "Wave"],
-            title_en: "Optimize the S.E.O for an Existing Web Site",
-            desc_en: ["S.E.O", "Performance", "Lightouse", "GTMetrix", "Wave"],
-            category: "projets_web"
-        },
-        {
-            title_fr: "4- Construisez un site e-commerce en JavaScript",
-            desc_fr: ["NodeJS", "Back-End", "Scripting"],
-            title_en: "4- Build an E-commerce Web Site with JavaScript",
-            desc_en: ["NodeJS", "Back-End", "Scripting"],
-            category: "projets_web"
-        },
-        {
-            title_fr: "5- Construisez une API sécurisée pour une application d'avis gastronomiques",
-            desc_fr: ["CRUD", "Back-End", "Clean Architecture"],
-            title_en: "5- Build an API for a Restaurant Review Application",
-            desc_en: ["CRUD", "Back-End", "Clean Architecture"],
-            category: "projets_web",
-        },
-        {
-            title_fr: "6- Créer une application web de location immobilière avec React",
-            desc_fr: ["NodeJS/React", "DOM", "Scripting", "AJAX"],
-            title_en: "6- Create a Real Estate Web Application with React",
-            desc_en: ["NodeJS/React", "DOM", "Scripting", "AJAX"],
-            category: "projets_web",
-        },
-        {
-            title_fr: "1- Java",
-            desc_fr: ["Convertisseur CSV/XLSX", "Jeu de rôle en ligne de commandes"],
-            title_en: "1- Java",
-            desc_en: ["Parser CSV/XLSX", "Terminal command line Role Play Gaming"],
-            category: "projets_software"
-        },
-        {
-            title_fr: "2- C Language",
-            desc_fr: ["Compilation de programmes", "Printf", "Scanf"],
-            title_en: "2- C Language",
-            desc_en: ["Compiled Programs", "Printf", "Scanf"],
-            category: "projets_software"
-        },
-        {
-            title_fr: "3- BASH",
-            desc_fr: ["Jeu Zelda Like en ligne de commande", "Outils d'administation système", "Terminal Command Bash"],
-            title_en: "3- BASH",
-            desc_en: ["Terminal command line Zelda Like Game", "System Administrator Tools", "Terminal Command Bash"],
-            category: "projets_software"
-        }
-    ];
 
-    // Utiliser la fonction modifiée pour injecter les projets
-    projets.forEach(projet => {
-        const projectContent = createProjectContent(projet);
-        const categoryElement = document.getElementById(projet.category);
-        categoryElement.appendChild(projectContent);
-    });
+// Création d'un objet contenant les projets
+const projets = [
+    {
+        title_fr: "1- Visualisation des données via Excel",
+        desc_fr: ["Documentation", "Visualisations"],
+        title_en: "1- Excel Datasheet Visualizations",
+        desc_en: ["Documentation", "Graphics"],
+        category: "projets_analyst"
+    },
+    {
+        title_fr: "2- Nettoyage de données d'une assurance via requêtes SQL",
+        desc_fr: ["Nettoyage de données", "Pseudonymisation"],
+        title_en: "2- SQL Life Insurance Database Cleansing Requests",
+        desc_en: ["Data Cleaning", "Pseudonymization"],
+        category: "projets_analyst"
+    },
+    {
+        title_fr: "4- Collecte de données d'assurance voiture via requêtes SQL",
+        desc_fr: ["scripting", "Pseudonymisation RGPD"],
+        title_en: "4- SQL Car Insurance Database Collecting Requests",
+        desc_en: ["scripting", "GDPR Pseudonymization"],
+        category: "projets_analyst"
+    },
+    {
+        title_fr: "5- Analyse de données d'une chaîne commerciale via requêtes SQL",
+        desc_fr: ["scripting", "Vérification des données"],
+        title_en: "5- SQL Market Database Analyzis Requests",
+        desc_en: ["scripting", "Data Consistency Check"],
+        category: "projets_analyst"
+    },
+    {
+        title_fr: "6- Création d'un tableau de bord dynamique via Power BI",
+        desc_fr: ["Nettoyage et formatage de données", "Visualisations", "Gestion des droits d'accès"],
+        title_en: "6- Power BI Dynamique Dashboard Creation",
+        desc_en: ["Database Cleaning/Remodeling", "Visualizations", "Access Right Management"],
+        category: "projets_analyst"
+    },
+    {
+        title_fr: "7- Optimisation de la gestion des stocks d'un commerce via Python Notebook",
+        desc_fr: ["scripting", "Nettoyage de données", "Analyse Exploratoire"],
+        title_en: "7- Python Notebook Market Stock Management Optimization",
+        desc_en: ["scripting", "Data Cleaning", "Exploratory Analysis"],
+        category: "projets_analyst"
+    },
+    {
+        title_fr: "8- Analyse de l'évolution des prix de l'immobilier via Python Notebook",
+        desc_fr: ["scripting", "Nettoyage de données", "Analyse Exploratoire", "Algorithmes de prédiction", "Analyse préscriptive"],
+        title_en: "8- Python Notebook Real Estate Price Trends Analysis",
+        desc_en: ["scripting", "Data Cleaning", "Exploratory Analysis", "Predictive Algorithmic Forecasting", "Prescriptive Analysis"],
+        category: "projets_analyst"
+    },
+    {
+        title_fr: "Indisponible pour le moment",
+        desc_fr: [],
+        title_en: "Not Available - To Be Annonced",
+        desc_en: [],
+        category: "projets_scientist"
+    },
+    {
+        title_fr: "1- Transformer une maquette en site web",
+        desc_fr: ["Front-End", "Responsive", "HTML/CSS"],
+        title_en: "1- Transform a Mockup into a Web Site",
+        desc_en: ["Front-End", "Responsive", "HTML/CSS"],
+        category: "projets_web"
+    },
+    {
+        title_fr: "2- Dynamiser une page web avec des animations CSS",
+        desc_fr: ["CSS", "Responsive", "KeyFrames Animations"],
+        title_en: "2- Dynamize a Web Page with CSS Animations",
+        desc_en: ["CSS", "Responsive", "KeyFrames Animations"],
+        category: "projets_web"
+    },
+    {
+        title_fr: "3- Optimisez un site web existant",
+        desc_fr: ["Référencement", "Performance", "Lightouse", "GTMetrix", "Wave"],
+        title_en: "Optimize the S.E.O for an Existing Web Site",
+        desc_en: ["S.E.O", "Performance", "Lightouse", "GTMetrix", "Wave"],
+        category: "projets_web"
+    },
+    {
+        title_fr: "4- Construisez un site e-commerce en JavaScript",
+        desc_fr: ["NodeJS", "Back-End", "Scripting"],
+        title_en: "4- Build an E-commerce Web Site with JavaScript",
+        desc_en: ["NodeJS", "Back-End", "Scripting"],
+        category: "projets_web"
+    },
+    {
+        title_fr: "5- Construisez une API sécurisée pour une application d'avis gastronomiques",
+        desc_fr: ["CRUD", "Back-End", "Clean Architecture"],
+        title_en: "5- Build an API for a Restaurant Review Application",
+        desc_en: ["CRUD", "Back-End", "Clean Architecture"],
+        category: "projets_web",
+    },
+    {
+        title_fr: "6- Créer une application web de location immobilière avec React",
+        desc_fr: ["NodeJS/React", "DOM", "Scripting", "AJAX"],
+        title_en: "6- Create a Real Estate Web Application with React",
+        desc_en: ["NodeJS/React", "DOM", "Scripting", "AJAX"],
+        category: "projets_web",
+    },
+    {
+        title_fr: "1- Java",
+        desc_fr: ["Convertisseur CSV/XLSX", "Jeu de rôle en ligne de commandes"],
+        title_en: "1- Java",
+        desc_en: ["Parser CSV/XLSX", "Terminal command line Role Play Gaming"],
+        category: "projets_software"
+    },
+    {
+        title_fr: "2- C Language",
+        desc_fr: ["Compilation de programmes", "Printf", "Scanf"],
+        title_en: "2- C Language",
+        desc_en: ["Compiled Programs", "Printf", "Scanf"],
+        category: "projets_software"
+    },
+    {
+        title_fr: "3- BASH",
+        desc_fr: ["Jeu Zelda Like en ligne de commande", "Outils d'administation système", "Terminal Command Bash"],
+        title_en: "3- BASH",
+        desc_en: ["Terminal command line Zelda Like Game", "System Administrator Tools", "Terminal Command Bash"],
+        category: "projets_software"
+    }
+];
+
+// Utiliser la fonction modifiée pour injecter les projets
+projets.forEach(projet => {
+    const projectContent = createProjectContent(projet);
+    const categoryElement = document.getElementById(projet.category);
+    categoryElement.appendChild(projectContent);
 });
+
 
 // Création d'un objet contenant les titres de collapsible
 const title_collapsible = [
