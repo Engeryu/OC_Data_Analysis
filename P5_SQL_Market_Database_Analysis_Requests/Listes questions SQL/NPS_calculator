@@ -1,0 +1,24 @@
+-- Calculer le NetPromoterScore selon les catégories de sources :
+with
+    positive AS (select libelle_source, count(cle_retour_client) as promoters
+from retour_client
+where note >= 9
+-- where recommandation = 1
+group by libelle_source),
+    negative AS (select libelle_source, count(cle_retour_client) as detractors
+from retour_client
+where note <= 6
+-- where recommandation = 0
+group by libelle_source),
+    total AS (select libelle_source, count(cle_retour_client) as nombre_clients
+from retour_client
+group by libelle_source)
+    select 
+total.libelle_source as source, total.nombre_clients, coalesce(positive.promoters * 100.0 / total.nombre_clients, 0) as promoteurs,
+coalesce(negative.detractors * 100.0 / total.nombre_clients, 0) as detracteurs,
+round(coalesce(positive.promoters, 0) *100.0 / total.nombre_clients - coalesce(negative.detractors, 0) * 100.0 / total.nombre_clients, 2) as nps
+from total
+left join positive using(libelle_source)
+left join negative using(libelle_source)
+group by source
+order by nps desc;

@@ -1,0 +1,6 @@
+--Quels sont les magasins qui ont une note inférieur à la moyenne
+select ref_magasin as magasin, round(avg(note), 2) as note_moyenne
+from retour_client
+group by magasin
+having note_moyenne < (select avg(note) from retour_client)
+order by note_moyenne desc;

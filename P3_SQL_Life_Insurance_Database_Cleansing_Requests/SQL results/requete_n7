@@ -1,0 +1,2 @@
+select round(avg(prix_cotisation_mensuel), 2) as pcm
+from contrats

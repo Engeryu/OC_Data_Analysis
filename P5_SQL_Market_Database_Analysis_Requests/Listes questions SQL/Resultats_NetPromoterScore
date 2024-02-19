@@ -1,0 +1,27 @@
+-- Probabilité de recommandation globale
+select count(cle_retour_client) libelle_source, libelle_categorie, departement,
+sum(recommandation)/count(recommandation)*100 as pourcentage
+from retour_client inner join ref_magasin
+group by departement;
+-- 70.5% sur 3000 clients sont promoteurs et donc 29.5% sont soit passifs, soit détracteurs
+
+-- Pourcentage de clients détracteurs
+select count(cle_retour_client) as nombre_client, libelle_source, libelle_categorie, note
+from retour_client
+group by note
+having note < 7;
+-- 271 soit ~9% de clients détracteurs sur 3000 clients
+
+-- Pourcentage de clients passifs
+select count(cle_retour_client) as nombre_client, libelle_source, libelle_categorie, note
+from retour_client
+group by note
+having note between 7 and 8;
+-- 1529 soit ~51% de clients passifs sur 3000 clients
+
+-- Pourcentage de clients promoteurs
+select count(cle_retour_client) as nombre_client, libelle_source, libelle_categorie, note
+from retour_client
+group by note
+having note > 8;
+-- 1200 soit 40% de clients promoteurs sur 3000 clients

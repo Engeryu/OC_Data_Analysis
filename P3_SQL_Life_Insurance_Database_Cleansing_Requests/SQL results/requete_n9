@@ -1,0 +1,6 @@
+select dep_nom dn, round(avg(prix_cotisation_mensuel), 2) as pcm
+from contrats
+inner join regions on regions.code_postal = contrats.Code_postal
+group by dn
+order by pcm desc
+limit 10

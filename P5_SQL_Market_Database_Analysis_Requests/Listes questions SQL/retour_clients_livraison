@@ -1,0 +1,3 @@
+select libelle_categorie expérience, count(cle_retour_client) as nombre_clients
+from retour_client
+where expérience = 'livraison'

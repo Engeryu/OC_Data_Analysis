@@ -1,0 +1,5 @@
+select typologie_produit as type_produit, round(avg(note), 2) as note_moyenne
+from retour_client
+inner join produit on produit.cle_produit = retour_client.cle_produit
+group by type_produit
+order by note_moyenne desc

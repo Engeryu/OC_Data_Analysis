@@ -1,3 +1,0 @@
-select contrat_id cid,surface mc
- from contrats
-    where commune = 'CAEN'

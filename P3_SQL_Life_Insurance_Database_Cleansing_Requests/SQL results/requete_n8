@@ -1,0 +1,5 @@
+select Valeur_declaree_biens vdb, Count(contrat_id) as cid
+from contrats
+Group by vdb
+order by (case when cast(vdb as integer) = vdb then 0
+else 1 end) desc, cast(vdb as integer), vdb

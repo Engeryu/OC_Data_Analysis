@@ -1,0 +1,10 @@
+--Quel est le classement des jours de la semaine où l'expérience client est la meilleure expérience en magasin ?
+select case cast (strftime('%w', date_achat) as integer)
+  when 0 then 'Sunday' when 1 then 'Monday'
+  when 2 then 'Tuesday' when 3 then 'Wednesday'
+  when 4 then 'Thursday' when 5 then 'Friday'
+  else 'Saturday' end as jours, round(avg(note), 2) as note
+from retour_client
+where libelle_categorie = 'expérience en magasin'
+group by jours
+order by note desc

@@ -1,0 +1,24 @@
+-- Calculer le nombre de recommendations :
+select count(cle_retour_client) as nombre_clients,
+round(sum(recommandation)/count(recommandation)*100, 2) as pourcentage_recommande
+from retour_client;
+
+-- Calculer le nombre de promoteurs :
+with promoteurs as (
+select count(cle_retour_client) as positive from retour_client where note > 8
+), 
+total as (
+select count(cle_retour_client) as nombre_clients from retour_client
+)
+select positive as promoteurs, nombre_clients
+from total join promoteurs;
+
+-- Calculer le nombre de détracteurs :
+with détracteurs as (
+select count(cle_retour_client) as negative from retour_client where note < 7
+),
+total as (
+select count(cle_retour_client) as nombre_clients from retour_client
+)
+select  negative as détracteurs, nombre_clients
+from total join détracteurs;

@@ -1,0 +1,7 @@
+-- Quels sont les magasins qui ont plus de 12 feedbacks sur le drive ?
+select libelle_categorie expérience, ref_magasin magasin, count(cle_retour_client) nombre_clients
+from retour_client
+where expérience = 'drive'
+group by magasin
+having nombre_clients > 12
+order by nombre_clients asc

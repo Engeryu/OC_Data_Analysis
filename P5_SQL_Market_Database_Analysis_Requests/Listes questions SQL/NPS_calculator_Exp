@@ -1,0 +1,14 @@
+-- Calculer le NetPromoterScore selon les catégories d'expérience :
+with
+    positive AS (
+select libelle_categorie, count(cle_retour_client) as promoters from retour_client where note >= 9 group by libelle_categorie),
+    negative AS (
+select libelle_categorie, count(cle_retour_client) as detractors from retour_client where note <= 6 group by libelle_categorie),
+    total AS (
+select libelle_categorie, count(cle_retour_client) as nombre_clients from retour_client group by libelle_categorie)
+    select 
+total.libelle_categorie as Expérience_client, total.nombre_clients, positive.promoters * 100.0 / total.nombre_clients as promoteurs,
+negative.detractors * 100.0 / total.nombre_clients as detracteurs,
+(positive.promoters *100.0 / total.nombre_clients) - (negative.detractors * 100.0 / total.nombre_clients) as nps
+from total left join positive using(libelle_categorie) left join negative using(libelle_categorie)
+group by Expérience_client order by nps desc;

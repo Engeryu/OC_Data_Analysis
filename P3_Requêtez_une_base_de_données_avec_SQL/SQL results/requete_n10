@@ -1,4 +1,0 @@
-select count(contrat_id) as number_cid, formule f
-from contrats
-inner join regions on regions.code_postal = contrats.Code_postal
-where reg_code = '52.0' AND f = 'Integral'

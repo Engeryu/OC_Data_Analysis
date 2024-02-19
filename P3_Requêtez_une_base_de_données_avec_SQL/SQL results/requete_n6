@@ -1,4 +1,0 @@
-select contrat_id cid, surface mc
-from contrats
-order by mc desc
-limit 5

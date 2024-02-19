@@ -1,0 +1,6 @@
+-- Quel est le classement des départements par note ?
+select departement , round(avg(note),2) as note
+from retour_client
+inner join ref_magasin using(ref_magasin)
+group by departement
+order by note desc

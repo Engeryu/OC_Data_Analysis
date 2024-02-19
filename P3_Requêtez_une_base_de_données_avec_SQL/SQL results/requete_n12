@@ -1,5 +1,0 @@
-select reg_nom rn, count(contrat_id) as nb_contrats
-from contrats
-join regions on regions.code_postal = contrats.Code_postal
-group by rn
-order by nb_contrats

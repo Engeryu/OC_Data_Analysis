@@ -1,0 +1,4 @@
+select 
+contrat_id cid, type_contrat tc, formule f, type_local tl
+ from contrats
+    where code_departement = '71.0'
