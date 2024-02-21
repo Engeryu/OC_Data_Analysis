@@ -27,10 +27,10 @@ title_page.forEach((titleObj, index) => {
 const profil = [
     {
         firstName: "Gaspard-Fauvelle Angel",
-        title_job_fr: "Analyste de données",
-        title_job_en: "Data Analyst",
-        sentence_fr: "En quête d’une opportunité pour mettre en pratique mes <br> compétences nouvellement acquises, je suis activement <br> à la recherche d’un poste de Data Analyst disponible.",
-        sentence_en: "In pursuit of an opportunity to put into practice my newly <br> acquired skills, I am actively seeking an available <br> Data Analyst position."
+        title_job_fr: "Scientifique des données en alternance",
+        title_job_en: "Data Scientist work-study program",
+        sentence_fr: "En quête d’une opportunité pour mettre en pratique mes <br> compétences nouvellement acquises, je suis activement <br> à la recherche d’une alternance Data Scientist disponible.",
+        sentence_en: "In pursuit of an opportunity to put into practice my newly <br> acquired skills, I am actively seeking an available <br> Data Scientist work-study program."
     }
 ]
 
